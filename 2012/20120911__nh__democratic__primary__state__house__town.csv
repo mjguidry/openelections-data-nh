@@ -1,0 +1,2124 @@
+town,county,office,district,party,candidate,winner,votes
+Center Harbor,Belknap,State Representative,1,D,Gulick,True,68
+New Hampton,Belknap,State Representative,1,D,Gulick,True,155
+Center Harbor,Belknap,State Representative,1,R,Quinney,False,0
+New Hampton,Belknap,State Representative,1,R,Quinney,False,1
+Center Harbor,Belknap,State Representative,1,,Scatter,False,2
+New Hampton,Belknap,State Representative,1,,Scatter,False,0
+Gilford,Belknap,State Representative,2,D,DiMartino,True,494
+Meredith,Belknap,State Representative,2,D,DiMartino,True,258
+Gilford,Belknap,State Representative,2,R,"Greemore, Jr.",False,1
+Meredith,Belknap,State Representative,2,R,"Greemore, Jr.",False,1
+Gilford,Belknap,State Representative,2,D,Johnson,True,425
+Meredith,Belknap,State Representative,2,D,Johnson,True,242
+Gilford,Belknap,State Representative,2,R,Leandro,False,0
+Meredith,Belknap,State Representative,2,R,Leandro,False,0
+Gilford,Belknap,State Representative,2,D,Miller,True,389
+Meredith,Belknap,State Representative,2,D,Miller,True,355
+Gilford,Belknap,State Representative,2,D,Mucci,True,374
+Meredith,Belknap,State Representative,2,D,Mucci,True,281
+Gilford,Belknap,State Representative,2,,Scatter,False,12
+Meredith,Belknap,State Representative,2,,Scatter,False,3
+Gilford,Belknap,State Representative,2,R,Vadney,False,1
+Meredith,Belknap,State Representative,2,R,Vadney,False,2
+Gilford,Belknap,State Representative,2,R,Worsman,False,1
+Meredith,Belknap,State Representative,2,R,Worsman,False,0
+Laconia,Belknap,State Representative,3,D,Fisher,True,528
+Laconia,Belknap,State Representative,3,D,Huot,True,680
+Laconia,Belknap,State Representative,3,D,Smith,True,578
+Laconia,Belknap,State Representative,3,D,Vaillancourt,True,559
+Laconia,Belknap,State Representative,3,R,Deshaies,True,0
+Laconia,Belknap,State Representative,3,R,Flanders,True,5
+Laconia,Belknap,State Representative,3,R,Kingsbury,True,0
+Laconia,Belknap,State Representative,3,R,Luther,True,0
+Laconia,Belknap,State Representative,3,,Scatter,False,2
+Laconia,Belknap,State Representative,3,R,Tilton,True,3
+Sanbornton,Belknap,State Representative,4,D,Alden,True,83
+Tilton,Belknap,State Representative,4,D,Alden,True,170
+Sanbornton,Belknap,State Representative,4,R,Fields,False,4
+Tilton,Belknap,State Representative,4,R,Fields,False,0
+Sanbornton,Belknap,State Representative,4,R,"Lang, Sr.",False,0
+Tilton,Belknap,State Representative,4,R,"Lang, Sr.",False,0
+Sanbornton,Belknap,State Representative,4,D,Raymond,True,215
+Tilton,Belknap,State Representative,4,D,Raymond,True,128
+Sanbornton,Belknap,State Representative,4,D,Robinson,False,75
+Tilton,Belknap,State Representative,4,D,Robinson,False,99
+Sanbornton,Belknap,State Representative,4,,Scatter,False,2
+Tilton,Belknap,State Representative,4,,Scatter,False,0
+Alton,Belknap,State Representative,5,R,Burchell,False,0
+Gilmanton,Belknap,State Representative,5,R,Burchell,False,1
+Alton,Belknap,State Representative,5,D,Chase,True,158
+Gilmanton,Belknap,State Representative,5,D,Chase,True,229
+Alton,Belknap,State Representative,5,D,Henry,True,139
+Gilmanton,Belknap,State Representative,5,D,Henry,True,92
+Alton,Belknap,State Representative,5,R,Holmes,False,0
+Gilmanton,Belknap,State Representative,5,R,Holmes,False,0
+Alton,Belknap,State Representative,5,,Scatter,False,6
+Gilmanton,Belknap,State Representative,5,,Scatter,False,1
+Belmont,Belknap,State Representative,6,D,Condo-demetraky,True,148
+Belmont,Belknap,State Representative,6,D,Cormier,True,226
+Belmont,Belknap,State Representative,6,,Scatter,False,4
+Barnstead,Belknap,State Representative,7,R,Comtois,False,3
+Barnstead,Belknap,State Representative,7,D,Marriott,True,267
+Barnstead,Belknap,State Representative,7,,Scatter,False,1
+Barnstead,Belknap,State Representative,7,R,Swinford,False,8
+Alton,Belknap,State Representative,8,R,Bolster,False,0
+Barnstead,Belknap,State Representative,8,R,Bolster,False,1
+Gilmanton,Belknap,State Representative,8,R,Bolster,False,2
+Alton,Belknap,State Representative,8,R,Cormier,False,0
+Barnstead,Belknap,State Representative,8,R,Cormier,False,0
+Gilmanton,Belknap,State Representative,8,R,Cormier,False,0
+Alton,Belknap,State Representative,8,,Scatter,False,0
+Barnstead,Belknap,State Representative,8,,Scatter,False,6
+Gilmanton,Belknap,State Representative,8,,Scatter,False,0
+Alton,Belknap,State Representative,8,D,Smith,False,194
+Barnstead,Belknap,State Representative,8,D,Smith,False,259
+Gilmanton,Belknap,State Representative,8,D,Smith,False,212
+Belmont,Belknap,State Representative,9,R,Accornero,False,1
+Laconia,Belknap,State Representative,9,R,Accornero,False,1
+Belmont,Belknap,State Representative,9,D,Arsenault,True,277
+Laconia,Belknap,State Representative,9,D,Arsenault,True,796
+Belmont,Belknap,State Representative,9,R,Dewhirst,False,0
+Laconia,Belknap,State Representative,9,R,Dewhirst,False,0
+Belmont,Belknap,State Representative,9,,Scatter,False,1
+Laconia,Belknap,State Representative,9,,Scatter,False,1
+Bartlett,Carroll,State Representative,1,R,Chandler,False,2
+Hart's Location,Carroll,State Representative,1,R,Chandler,False,0
+Jackson,Carroll,State Representative,1,R,Chandler,False,6
+Bartlett,Carroll,State Representative,1,D,Funicella,True,194
+Hart's Location,Carroll,State Representative,1,D,Funicella,True,9
+Jackson,Carroll,State Representative,1,D,Funicella,True,106
+Bartlett,Carroll,State Representative,1,,Scatter,False,0
+Hart's Location,Carroll,State Representative,1,,Scatter,False,2
+Jackson,Carroll,State Representative,1,,Scatter,False,5
+Chatham,Carroll,State Representative,2,D,Bridgham,False,9
+Conway,Carroll,State Representative,2,D,Bridgham,False,252
+Eaton,Carroll,State Representative,2,D,Bridgham,False,60
+Hale's Location,Carroll,State Representative,2,D,Bridgham,False,3
+Chatham,Carroll,State Representative,2,D,Buco,True,19
+Conway,Carroll,State Representative,2,D,Buco,True,399
+Eaton,Carroll,State Representative,2,D,Buco,True,26
+Hale's Location,Carroll,State Representative,2,D,Buco,True,4
+Chatham,Carroll,State Representative,2,R,McCarthy,False,0
+Conway,Carroll,State Representative,2,R,McCarthy,False,6
+Eaton,Carroll,State Representative,2,R,McCarthy,False,0
+Hale's Location,Carroll,State Representative,2,R,McCarthy,False,0
+Chatham,Carroll,State Representative,2,R,McClure,False,0
+Conway,Carroll,State Representative,2,R,McClure,False,2
+Eaton,Carroll,State Representative,2,R,McClure,False,0
+Hale's Location,Carroll,State Representative,2,R,McClure,False,3
+Chatham,Carroll,State Representative,2,D,Pollock,True,8
+Conway,Carroll,State Representative,2,D,Pollock,True,339
+Eaton,Carroll,State Representative,2,D,Pollock,True,40
+Hale's Location,Carroll,State Representative,2,D,Pollock,True,5
+Chatham,Carroll,State Representative,2,,Scatter,False,0
+Conway,Carroll,State Representative,2,,Scatter,False,3
+Eaton,Carroll,State Representative,2,,Scatter,False,0
+Hale's Location,Carroll,State Representative,2,,Scatter,False,0
+Chatham,Carroll,State Representative,2,R,Steiner,False,0
+Conway,Carroll,State Representative,2,R,Steiner,False,3
+Eaton,Carroll,State Representative,2,R,Steiner,False,0
+Hale's Location,Carroll,State Representative,2,R,Steiner,False,0
+Chatham,Carroll,State Representative,2,R,Umberger,False,0
+Conway,Carroll,State Representative,2,R,Umberger,False,6
+Eaton,Carroll,State Representative,2,R,Umberger,False,0
+Hale's Location,Carroll,State Representative,2,R,Umberger,False,0
+Chatham,Carroll,State Representative,2,D,White,True,14
+Conway,Carroll,State Representative,2,D,White,True,345
+Eaton,Carroll,State Representative,2,D,White,True,12
+Hale's Location,Carroll,State Representative,2,D,White,True,3
+Albany,Carroll,State Representative,3,R,McConkey,False,0
+Freedom,Carroll,State Representative,3,R,McConkey,False,0
+Madison,Carroll,State Representative,3,R,McConkey,False,0
+Tamworth,Carroll,State Representative,3,R,McConkey,False,0
+Albany,Carroll,State Representative,3,,Scatter,False,2
+Freedom,Carroll,State Representative,3,,Scatter,False,1
+Madison,Carroll,State Representative,3,,Scatter,False,0
+Tamworth,Carroll,State Representative,3,,Scatter,False,9
+Albany,Carroll,State Representative,3,R,Thomson,False,0
+Freedom,Carroll,State Representative,3,R,Thomson,False,1
+Madison,Carroll,State Representative,3,R,Thomson,False,0
+Tamworth,Carroll,State Representative,3,R,Thomson,False,0
+Albany,Carroll,State Representative,3,D,Ticehurst,True,42
+Freedom,Carroll,State Representative,3,D,Ticehurst,True,109
+Madison,Carroll,State Representative,3,D,Ticehurst,True,167
+Tamworth,Carroll,State Representative,3,D,Ticehurst,True,227
+Moultonborough,Carroll,State Representative,4,D,Albee,True,226
+Sandwich,Carroll,State Representative,4,D,Albee,True,190
+Tuftonboro,Carroll,State Representative,4,D,Albee,True,140
+Moultonborough,Carroll,State Representative,4,R,Askew,False,0
+Sandwich,Carroll,State Representative,4,R,Askew,False,0
+Tuftonboro,Carroll,State Representative,4,R,Askew,False,0
+Moultonborough,Carroll,State Representative,4,R,Cordelli,False,0
+Sandwich,Carroll,State Representative,4,R,Cordelli,False,0
+Tuftonboro,Carroll,State Representative,4,R,Cordelli,False,0
+Moultonborough,Carroll,State Representative,4,R,Crawford,False,11
+Sandwich,Carroll,State Representative,4,R,Crawford,False,0
+Tuftonboro,Carroll,State Representative,4,R,Crawford,False,0
+Moultonborough,Carroll,State Representative,4,R,Lyon,False,0
+Sandwich,Carroll,State Representative,4,R,Lyon,False,0
+Tuftonboro,Carroll,State Representative,4,R,Lyon,False,0
+Moultonborough,Carroll,State Representative,4,,Scatter,False,0
+Sandwich,Carroll,State Representative,4,,Scatter,False,2
+Tuftonboro,Carroll,State Representative,4,,Scatter,False,5
+Brookfield,Carroll,State Representative,5,D,Lavender,True,52
+Effingham,Carroll,State Representative,5,D,Lavender,True,73
+Ossipee,Carroll,State Representative,5,D,Lavender,True,137
+Wakefield,Carroll,State Representative,5,D,Lavender,True,181
+Brookfield,Carroll,State Representative,5,R,Merrow,False,0
+Effingham,Carroll,State Representative,5,R,Merrow,False,2
+Ossipee,Carroll,State Representative,5,R,Merrow,False,6
+Wakefield,Carroll,State Representative,5,R,Merrow,False,2
+Brookfield,Carroll,State Representative,5,R,Nelson,False,0
+Effingham,Carroll,State Representative,5,R,Nelson,False,0
+Ossipee,Carroll,State Representative,5,R,Nelson,False,1
+Wakefield,Carroll,State Representative,5,R,Nelson,False,0
+Brookfield,Carroll,State Representative,5,R,Olimpio,False,0
+Effingham,Carroll,State Representative,5,R,Olimpio,False,0
+Ossipee,Carroll,State Representative,5,R,Olimpio,False,0
+Wakefield,Carroll,State Representative,5,R,Olimpio,False,0
+Brookfield,Carroll,State Representative,5,,Scatter,False,6
+Effingham,Carroll,State Representative,5,,Scatter,False,2
+Ossipee,Carroll,State Representative,5,,Scatter,False,4
+Wakefield,Carroll,State Representative,5,,Scatter,False,1
+Wolfeboro,Carroll,State Representative,6,R,Ahlgren,False,0
+Wolfeboro,Carroll,State Representative,6,,Scatter,False,0
+Wolfeboro,Carroll,State Representative,6,R,Schmidt,False,0
+Wolfeboro,Carroll,State Representative,6,D,White,True,339
+Wolfeboro,Carroll,State Representative,6,D,Woods,True,409
+Albany,Carroll,State Representative,7,D,Butler,True,47
+Bartlett,Carroll,State Representative,7,D,Butler,True,236
+Chatham,Carroll,State Representative,7,D,Butler,True,15
+Conway,Carroll,State Representative,7,D,Butler,True,529
+Eaton,Carroll,State Representative,7,D,Butler,True,57
+Freedom,Carroll,State Representative,7,D,Butler,True,108
+Hale's Location,Carroll,State Representative,7,D,Butler,True,4
+Hart's Location,Carroll,State Representative,7,D,Butler,True,14
+Jackson,Carroll,State Representative,7,D,Butler,True,148
+Madison,Carroll,State Representative,7,D,Butler,True,176
+Tamworth,Carroll,State Representative,7,D,Butler,True,221
+Albany,Carroll,State Representative,7,R,Callis,False,0
+Bartlett,Carroll,State Representative,7,R,Callis,False,1
+Chatham,Carroll,State Representative,7,R,Callis,False,0
+Conway,Carroll,State Representative,7,R,Callis,False,4
+Eaton,Carroll,State Representative,7,R,Callis,False,1
+Freedom,Carroll,State Representative,7,R,Callis,False,0
+Hale's Location,Carroll,State Representative,7,R,Callis,False,0
+Hart's Location,Carroll,State Representative,7,R,Callis,False,0
+Jackson,Carroll,State Representative,7,R,Callis,False,0
+Madison,Carroll,State Representative,7,R,Callis,False,0
+Tamworth,Carroll,State Representative,7,R,Callis,False,0
+Albany,Carroll,State Representative,7,,Scatter,False,0
+Bartlett,Carroll,State Representative,7,,Scatter,False,0
+Chatham,Carroll,State Representative,7,,Scatter,False,0
+Conway,Carroll,State Representative,7,,Scatter,False,6
+Eaton,Carroll,State Representative,7,,Scatter,False,1
+Freedom,Carroll,State Representative,7,,Scatter,False,0
+Hale's Location,Carroll,State Representative,7,,Scatter,False,0
+Hart's Location,Carroll,State Representative,7,,Scatter,False,0
+Jackson,Carroll,State Representative,7,,Scatter,False,1
+Madison,Carroll,State Representative,7,,Scatter,False,0
+Tamworth,Carroll,State Representative,7,,Scatter,False,0
+Albany,Carroll,State Representative,7,R,Tregenza,False,0
+Bartlett,Carroll,State Representative,7,R,Tregenza,False,0
+Chatham,Carroll,State Representative,7,R,Tregenza,False,0
+Conway,Carroll,State Representative,7,R,Tregenza,False,0
+Eaton,Carroll,State Representative,7,R,Tregenza,False,0
+Freedom,Carroll,State Representative,7,R,Tregenza,False,0
+Hale's Location,Carroll,State Representative,7,R,Tregenza,False,0
+Hart's Location,Carroll,State Representative,7,R,Tregenza,False,0
+Jackson,Carroll,State Representative,7,R,Tregenza,False,0
+Madison,Carroll,State Representative,7,R,Tregenza,False,0
+Tamworth,Carroll,State Representative,7,R,Tregenza,False,1
+Brookfield,Carroll,State Representative,8,,Scatter,False,0
+Effingham,Carroll,State Representative,8,,Scatter,False,0
+Moultonborough,Carroll,State Representative,8,,Scatter,False,0
+Ossipee,Carroll,State Representative,8,,Scatter,False,1
+Sandwich,Carroll,State Representative,8,,Scatter,False,1
+Tuftonboro,Carroll,State Representative,8,,Scatter,False,0
+Wakefield,Carroll,State Representative,8,,Scatter,False,0
+Brookfield,Carroll,State Representative,8,D,Wiley,True,53
+Effingham,Carroll,State Representative,8,D,Wiley,True,79
+Moultonborough,Carroll,State Representative,8,D,Wiley,True,236
+Ossipee,Carroll,State Representative,8,D,Wiley,True,158
+Sandwich,Carroll,State Representative,8,D,Wiley,True,208
+Tuftonboro,Carroll,State Representative,8,D,Wiley,True,132
+Wakefield,Carroll,State Representative,8,D,Wiley,True,182
+Brookfield,Carroll,State Representative,8,R,Wright,False,0
+Effingham,Carroll,State Representative,8,R,Wright,False,0
+Moultonborough,Carroll,State Representative,8,R,Wright,False,0
+Ossipee,Carroll,State Representative,8,R,Wright,False,0
+Sandwich,Carroll,State Representative,8,R,Wright,False,0
+Tuftonboro,Carroll,State Representative,8,R,Wright,False,0
+Wakefield,Carroll,State Representative,8,R,Wright,False,0
+Chesterfield,Cheshire,State Representative,1,R,Aldrich,False,0
+Hinsdale,Cheshire,State Representative,1,R,Aldrich,False,0
+Walpole,Cheshire,State Representative,1,R,Aldrich,False,1
+Westmoreland,Cheshire,State Representative,1,R,Aldrich,False,0
+Chesterfield,Cheshire,State Representative,1,D,Berch,True,210
+Hinsdale,Cheshire,State Representative,1,D,Berch,True,127
+Walpole,Cheshire,State Representative,1,D,Berch,True,232
+Westmoreland,Cheshire,State Representative,1,D,Berch,True,164
+Chesterfield,Cheshire,State Representative,1,D,Butynski,True,224
+Hinsdale,Cheshire,State Representative,1,D,Butynski,True,163
+Walpole,Cheshire,State Representative,1,D,Butynski,True,233
+Westmoreland,Cheshire,State Representative,1,D,Butynski,True,146
+Chesterfield,Cheshire,State Representative,1,R,Levlocke,False,0
+Hinsdale,Cheshire,State Representative,1,R,Levlocke,False,0
+Walpole,Cheshire,State Representative,1,R,Levlocke,False,0
+Westmoreland,Cheshire,State Representative,1,R,Levlocke,False,1
+Chesterfield,Cheshire,State Representative,1,R,"Moore, Jr.",False,0
+Hinsdale,Cheshire,State Representative,1,R,"Moore, Jr.",False,0
+Walpole,Cheshire,State Representative,1,R,"Moore, Jr.",False,2
+Westmoreland,Cheshire,State Representative,1,R,"Moore, Jr.",False,6
+Chesterfield,Cheshire,State Representative,1,D,Sad,True,213
+Hinsdale,Cheshire,State Representative,1,D,Sad,True,116
+Walpole,Cheshire,State Representative,1,D,Sad,True,337
+Westmoreland,Cheshire,State Representative,1,D,Sad,True,151
+Chesterfield,Cheshire,State Representative,1,,Scatter,False,2
+Hinsdale,Cheshire,State Representative,1,,Scatter,False,0
+Walpole,Cheshire,State Representative,1,,Scatter,False,2
+Westmoreland,Cheshire,State Representative,1,,Scatter,False,0
+Chesterfield,Cheshire,State Representative,1,R,Smith,True,0
+Hinsdale,Cheshire,State Representative,1,R,Smith,True,0
+Walpole,Cheshire,State Representative,1,R,Smith,True,0
+Westmoreland,Cheshire,State Representative,1,R,Smith,True,0
+Chesterfield,Cheshire,State Representative,1,D,Weber,True,216
+Hinsdale,Cheshire,State Representative,1,D,Weber,True,127
+Walpole,Cheshire,State Representative,1,D,Weber,True,318
+Westmoreland,Cheshire,State Representative,1,D,Weber,True,153
+Alstead,Cheshire,State Representative,2,R,Cartwright,True,0
+Marlow,Cheshire,State Representative,2,R,Cartwright,True,0
+Surry,Cheshire,State Representative,2,R,Cartwright,True,0
+Alstead,Cheshire,State Representative,2,D,Mann,True,178
+Marlow,Cheshire,State Representative,2,D,Mann,True,59
+Surry,Cheshire,State Representative,2,D,Mann,True,70
+Alstead,Cheshire,State Representative,2,,Scatter,False,0
+Marlow,Cheshire,State Representative,2,,Scatter,False,0
+Surry,Cheshire,State Representative,2,,Scatter,False,0
+Gilsum,Cheshire,State Representative,3,D,Eaton,True,41
+Nelson,Cheshire,State Representative,3,D,Eaton,True,95
+Stoddard,Cheshire,State Representative,3,D,Eaton,True,96
+Sullivan,Cheshire,State Representative,3,D,Eaton,True,57
+Gilsum,Cheshire,State Representative,3,,Scatter,False,1
+Nelson,Cheshire,State Representative,3,,Scatter,False,0
+Stoddard,Cheshire,State Representative,3,,Scatter,False,0
+Sullivan,Cheshire,State Representative,3,,Scatter,False,0
+Gilsum,Cheshire,State Representative,3,R,Ward,True,0
+Nelson,Cheshire,State Representative,3,R,Ward,True,0
+Stoddard,Cheshire,State Representative,3,R,Ward,True,0
+Sullivan,Cheshire,State Representative,3,R,Ward,True,0
+Keene,Cheshire,State Representative,4,D,Roberts,True,148
+Keene,Cheshire,State Representative,4,,Scatter,False,1
+Keene,Cheshire,State Representative,5,R,Chaffee,False,0
+Keene,Cheshire,State Representative,5,D,Phillips,True,358
+Keene,Cheshire,State Representative,5,,Scatter,False,1
+Keene,Cheshire,State Representative,6,R,Carlsen,False,0
+Keene,Cheshire,State Representative,6,D,Robertson,True,319
+Keene,Cheshire,State Representative,6,,Scatter,False,1
+Keene,Cheshire,State Representative,7,D,Johnsen,True,343
+Keene,Cheshire,State Representative,7,,Scatter,False,2
+Keene,Cheshire,State Representative,8,R,Bendzinski,False,0
+Keene,Cheshire,State Representative,8,D,Chase,True,408
+Keene,Cheshire,State Representative,8,,Scatter,False,0
+Dublin,Cheshire,State Representative,9,D,Ames,True,181
+Harrisville,Cheshire,State Representative,9,D,Ames,True,164
+Jaffrey,Cheshire,State Representative,9,D,Ames,True,315
+Roxbury,Cheshire,State Representative,9,D,Ames,True,25
+Dublin,Cheshire,State Representative,9,D,Ley,True,145
+Harrisville,Cheshire,State Representative,9,D,Ley,True,158
+Jaffrey,Cheshire,State Representative,9,D,Ley,True,263
+Roxbury,Cheshire,State Representative,9,D,Ley,True,16
+Dublin,Cheshire,State Representative,9,R,Moore,False,0
+Harrisville,Cheshire,State Representative,9,R,Moore,False,0
+Jaffrey,Cheshire,State Representative,9,R,Moore,False,0
+Roxbury,Cheshire,State Representative,9,R,Moore,False,0
+Dublin,Cheshire,State Representative,9,,Scatter,False,0
+Harrisville,Cheshire,State Representative,9,,Scatter,False,0
+Jaffrey,Cheshire,State Representative,9,,Scatter,False,0
+Roxbury,Cheshire,State Representative,9,,Scatter,False,0
+Marlborough,Cheshire,State Representative,10,R,Dick Thackston,False,0
+Troy,Cheshire,State Representative,10,R,Dick Thackston,False,2
+Marlborough,Cheshire,State Representative,10,R,Hopkins,False,1
+Troy,Cheshire,State Representative,10,R,Hopkins,False,0
+Marlborough,Cheshire,State Representative,10,,Scatter,False,0
+Troy,Cheshire,State Representative,10,,Scatter,False,0
+Marlborough,Cheshire,State Representative,10,D,Shepardson,True,224
+Troy,Cheshire,State Representative,10,D,Shepardson,True,95
+Marlborough,Cheshire,State Representative,10,R,Walsh,False,0
+Troy,Cheshire,State Representative,10,R,Walsh,False,1
+Fitzwilliam,Cheshire,State Representative,11,R,Dwinell,True,18
+Rindge,Cheshire,State Representative,11,R,Dwinell,True,3
+Fitzwilliam,Cheshire,State Representative,11,R,Emerson,True,15
+Rindge,Cheshire,State Representative,11,R,Emerson,True,14
+Fitzwilliam,Cheshire,State Representative,11,R,Hunt,False,6
+Rindge,Cheshire,State Representative,11,R,Hunt,False,8
+Fitzwilliam,Cheshire,State Representative,11,R,Jackman,False,2
+Rindge,Cheshire,State Representative,11,R,Jackman,False,12
+Fitzwilliam,Cheshire,State Representative,11,,Scatter,False,9
+Rindge,Cheshire,State Representative,11,,Scatter,False,17
+Richmond,Cheshire,State Representative,12,D,Faulkner,True,63
+Swanzey,Cheshire,State Representative,12,D,Faulkner,True,260
+Richmond,Cheshire,State Representative,12,R,Johnson,False,1
+Swanzey,Cheshire,State Representative,12,R,Johnson,False,0
+Richmond,Cheshire,State Representative,12,D,Lerandeau,True,72
+Swanzey,Cheshire,State Representative,12,D,Lerandeau,True,320
+Richmond,Cheshire,State Representative,12,,Scatter,False,2
+Swanzey,Cheshire,State Representative,12,,Scatter,False,0
+Winchester,Cheshire,State Representative,13,D,Parkhurst,True,210
+Winchester,Cheshire,State Representative,13,,Scatter,False,3
+Dublin,Cheshire,State Representative,14,R,Desmarais,False,0
+Fitzwilliam,Cheshire,State Representative,14,R,Desmarais,False,0
+Harrisville,Cheshire,State Representative,14,R,Desmarais,False,0
+Jaffrey,Cheshire,State Representative,14,R,Desmarais,False,2
+Rindge,Cheshire,State Representative,14,R,Desmarais,False,0
+Roxbury,Cheshire,State Representative,14,R,Desmarais,False,0
+Dublin,Cheshire,State Representative,14,R,McKenzie,False,0
+Fitzwilliam,Cheshire,State Representative,14,R,McKenzie,False,0
+Harrisville,Cheshire,State Representative,14,R,McKenzie,False,0
+Jaffrey,Cheshire,State Representative,14,R,McKenzie,False,0
+Rindge,Cheshire,State Representative,14,R,McKenzie,False,0
+Roxbury,Cheshire,State Representative,14,R,McKenzie,False,0
+Dublin,Cheshire,State Representative,14,,Scatter,False,0
+Fitzwilliam,Cheshire,State Representative,14,,Scatter,False,2
+Harrisville,Cheshire,State Representative,14,,Scatter,False,0
+Jaffrey,Cheshire,State Representative,14,,Scatter,False,0
+Rindge,Cheshire,State Representative,14,,Scatter,False,0
+Roxbury,Cheshire,State Representative,14,,Scatter,False,0
+Dublin,Cheshire,State Representative,14,R,"Sterling, Jr.",False,0
+Fitzwilliam,Cheshire,State Representative,14,R,"Sterling, Jr.",False,0
+Harrisville,Cheshire,State Representative,14,R,"Sterling, Jr.",False,0
+Jaffrey,Cheshire,State Representative,14,R,"Sterling, Jr.",False,1
+Rindge,Cheshire,State Representative,14,R,"Sterling, Jr.",False,0
+Roxbury,Cheshire,State Representative,14,R,"Sterling, Jr.",False,0
+Dublin,Cheshire,State Representative,14,D,Young,True,165
+Fitzwilliam,Cheshire,State Representative,14,D,Young,True,150
+Harrisville,Cheshire,State Representative,14,D,Young,True,190
+Jaffrey,Cheshire,State Representative,14,D,Young,True,333
+Rindge,Cheshire,State Representative,14,D,Young,True,184
+Roxbury,Cheshire,State Representative,14,D,Young,True,27
+Marlborough,Cheshire,State Representative,15,R,Rick Thackston,False,1
+Richmond,Cheshire,State Representative,15,R,Rick Thackston,False,1
+Swanzey,Cheshire,State Representative,15,R,Rick Thackston,False,0
+Troy,Cheshire,State Representative,15,R,Rick Thackston,False,2
+Winchester,Cheshire,State Representative,15,R,Rick Thackston,False,0
+Marlborough,Cheshire,State Representative,15,,Scatter,False,1
+Richmond,Cheshire,State Representative,15,,Scatter,False,2
+Swanzey,Cheshire,State Representative,15,,Scatter,False,0
+Troy,Cheshire,State Representative,15,,Scatter,False,0
+Winchester,Cheshire,State Representative,15,,Scatter,False,0
+Marlborough,Cheshire,State Representative,15,D,Tatro,True,191
+Richmond,Cheshire,State Representative,15,D,Tatro,True,91
+Swanzey,Cheshire,State Representative,15,D,Tatro,True,370
+Troy,Cheshire,State Representative,15,D,Tatro,True,93
+Winchester,Cheshire,State Representative,15,D,Tatro,True,193
+Keene,Cheshire,State Representative,16,D,Burridge,True,880
+Keene,Cheshire,State Representative,16,,Scatter,False,16
+Keene,Cheshire,State Representative,16,D,Weed,True,1526
+At. & Gil. Academy Grant,Coos,State Representative,1,R,Daugherty,False,0
+Cambridge,Coos,State Representative,1,R,Daugherty,False,0
+Clarksville,Coos,State Representative,1,R,Daugherty,False,0
+Colebrook,Coos,State Representative,1,R,Daugherty,False,4
+Columbia,Coos,State Representative,1,R,Daugherty,False,0
+Dix's Grant,Coos,State Representative,1,R,Daugherty,False,0
+Dixville,Coos,State Representative,1,R,Daugherty,False,0
+Errol,Coos,State Representative,1,R,Daugherty,False,0
+Erving's Location,Coos,State Representative,1,R,Daugherty,False,0
+Millsfield,Coos,State Representative,1,R,Daugherty,False,0
+Odell,Coos,State Representative,1,R,Daugherty,False,0
+Pittsburg,Coos,State Representative,1,R,Daugherty,False,0
+Second College Grant,Coos,State Representative,1,R,Daugherty,False,0
+Stewartstown,Coos,State Representative,1,R,Daugherty,False,0
+Stratford,Coos,State Representative,1,R,Daugherty,False,0
+Wentworth's Location,Coos,State Representative,1,R,Daugherty,False,0
+At. & Gil. Academy Grant,Coos,State Representative,1,D,Enman,False,0
+Cambridge,Coos,State Representative,1,D,Enman,False,1
+Clarksville,Coos,State Representative,1,D,Enman,False,14
+Colebrook,Coos,State Representative,1,D,Enman,False,85
+Columbia,Coos,State Representative,1,D,Enman,False,22
+Dix's Grant,Coos,State Representative,1,D,Enman,False,0
+Dixville,Coos,State Representative,1,D,Enman,False,1
+Errol,Coos,State Representative,1,D,Enman,False,36
+Erving's Location,Coos,State Representative,1,D,Enman,False,0
+Millsfield,Coos,State Representative,1,D,Enman,False,2
+Odell,Coos,State Representative,1,D,Enman,False,0
+Pittsburg,Coos,State Representative,1,D,Enman,False,37
+Second College Grant,Coos,State Representative,1,D,Enman,False,0
+Stewartstown,Coos,State Representative,1,D,Enman,False,20
+Stratford,Coos,State Representative,1,D,Enman,False,29
+Wentworth's Location,Coos,State Representative,1,D,Enman,False,3
+At. & Gil. Academy Grant,Coos,State Representative,1,JR.R,Kurtz,False,0
+Cambridge,Coos,State Representative,1,JR.R,Kurtz,False,0
+Clarksville,Coos,State Representative,1,JR.R,Kurtz,False,0
+Colebrook,Coos,State Representative,1,JR.R,Kurtz,False,2
+Columbia,Coos,State Representative,1,JR.R,Kurtz,False,0
+Dix's Grant,Coos,State Representative,1,JR.R,Kurtz,False,0
+Dixville,Coos,State Representative,1,JR.R,Kurtz,False,0
+Errol,Coos,State Representative,1,JR.R,Kurtz,False,0
+Erving's Location,Coos,State Representative,1,JR.R,Kurtz,False,0
+Millsfield,Coos,State Representative,1,JR.R,Kurtz,False,0
+Odell,Coos,State Representative,1,JR.R,Kurtz,False,0
+Pittsburg,Coos,State Representative,1,JR.R,Kurtz,False,0
+Second College Grant,Coos,State Representative,1,JR.R,Kurtz,False,0
+Stewartstown,Coos,State Representative,1,JR.R,Kurtz,False,0
+Stratford,Coos,State Representative,1,JR.R,Kurtz,False,0
+Wentworth's Location,Coos,State Representative,1,JR.R,Kurtz,False,0
+At. & Gil. Academy Grant,Coos,State Representative,1,R,Rappaport,False,0
+Cambridge,Coos,State Representative,1,R,Rappaport,False,0
+Clarksville,Coos,State Representative,1,R,Rappaport,False,1
+Colebrook,Coos,State Representative,1,R,Rappaport,False,2
+Columbia,Coos,State Representative,1,R,Rappaport,False,0
+Dix's Grant,Coos,State Representative,1,R,Rappaport,False,0
+Dixville,Coos,State Representative,1,R,Rappaport,False,0
+Errol,Coos,State Representative,1,R,Rappaport,False,0
+Erving's Location,Coos,State Representative,1,R,Rappaport,False,0
+Millsfield,Coos,State Representative,1,R,Rappaport,False,0
+Odell,Coos,State Representative,1,R,Rappaport,False,0
+Pittsburg,Coos,State Representative,1,R,Rappaport,False,0
+Second College Grant,Coos,State Representative,1,R,Rappaport,False,0
+Stewartstown,Coos,State Representative,1,R,Rappaport,False,0
+Stratford,Coos,State Representative,1,R,Rappaport,False,0
+Wentworth's Location,Coos,State Representative,1,R,Rappaport,False,0
+At. & Gil. Academy Grant,Coos,State Representative,1,,Scatter,False,0
+Cambridge,Coos,State Representative,1,,Scatter,False,0
+Clarksville,Coos,State Representative,1,,Scatter,False,0
+Colebrook,Coos,State Representative,1,,Scatter,False,7
+Columbia,Coos,State Representative,1,,Scatter,False,1
+Dix's Grant,Coos,State Representative,1,,Scatter,False,0
+Dixville,Coos,State Representative,1,,Scatter,False,0
+Errol,Coos,State Representative,1,,Scatter,False,0
+Erving's Location,Coos,State Representative,1,,Scatter,False,0
+Millsfield,Coos,State Representative,1,,Scatter,False,0
+Odell,Coos,State Representative,1,,Scatter,False,0
+Pittsburg,Coos,State Representative,1,,Scatter,False,1
+Second College Grant,Coos,State Representative,1,,Scatter,False,0
+Stewartstown,Coos,State Representative,1,,Scatter,False,0
+Stratford,Coos,State Representative,1,,Scatter,False,0
+Wentworth's Location,Coos,State Representative,1,,Scatter,False,0
+Dummer,Coos,State Representative,2,D,Moynihan,True,24
+Milan,Coos,State Representative,2,D,Moynihan,True,98
+Northumberland,Coos,State Representative,2,D,Moynihan,True,121
+Stark,Coos,State Representative,2,D,Moynihan,True,36
+Dummer,Coos,State Representative,2,,Scatter,False,0
+Milan,Coos,State Representative,2,,Scatter,False,0
+Northumberland,Coos,State Representative,2,,Scatter,False,42
+Stark,Coos,State Representative,2,,Scatter,False,0
+Dummer,Coos,State Representative,2,R,"Tierney, Jr.",True,0
+Milan,Coos,State Representative,2,R,"Tierney, Jr.",True,0
+Northumberland,Coos,State Representative,2,R,"Tierney, Jr.",True,0
+Stark,Coos,State Representative,2,R,"Tierney, Jr.",True,0
+Berlin,Coos,State Representative,3,D,Coulombe,True,727
+Berlin,Coos,State Representative,3,,Scatter,False,5
+Berlin,Coos,State Representative,3,D,Theberge,True,798
+Berlin,Coos,State Representative,3,D,Thomas,True,699
+Dalton,Coos,State Representative,4,D,Merner,True,38
+Kilkenny,Coos,State Representative,4,D,Merner,True,0
+Lancaster,Coos,State Representative,4,D,Merner,True,133
+Dalton,Coos,State Representative,4,R,Richardson,False,0
+Kilkenny,Coos,State Representative,4,R,Richardson,False,0
+Lancaster,Coos,State Representative,4,R,Richardson,False,1
+Dalton,Coos,State Representative,4,,Scatter,False,0
+Kilkenny,Coos,State Representative,4,,Scatter,False,0
+Lancaster,Coos,State Representative,4,,Scatter,False,16
+Carroll,Coos,State Representative,5,D,Hammon,True,60
+Jefferson,Coos,State Representative,5,D,Hammon,True,61
+Randolph,Coos,State Representative,5,D,Hammon,True,73
+Whitefield,Coos,State Representative,5,D,Hammon,True,128
+Carroll,Coos,State Representative,5,,Scatter,False,2
+Jefferson,Coos,State Representative,5,,Scatter,False,2
+Randolph,Coos,State Representative,5,,Scatter,False,0
+Whitefield,Coos,State Representative,5,,Scatter,False,3
+Carroll,Coos,State Representative,5,R,"Tholl, Jr.",False,0
+Jefferson,Coos,State Representative,5,R,"Tholl, Jr.",False,0
+Randolph,Coos,State Representative,5,R,"Tholl, Jr.",False,0
+Whitefield,Coos,State Representative,5,R,"Tholl, Jr.",False,0
+Bean's Grant,Coos,State Representative,6,D,Hatch,True,0
+Bean's Purchase,Coos,State Representative,6,D,Hatch,True,0
+Chandler's Purchase,Coos,State Representative,6,D,Hatch,True,0
+Crawford's Purchase,Coos,State Representative,6,D,Hatch,True,0
+Cutt's Grant,Coos,State Representative,6,D,Hatch,True,0
+Gorham,Coos,State Representative,6,D,Hatch,True,263
+Green's Grant,Coos,State Representative,6,D,Hatch,True,0
+Hadley's Purchase,Coos,State Representative,6,D,Hatch,True,0
+Low & Burbank's Grant,Coos,State Representative,6,D,Hatch,True,0
+Martin's Location,Coos,State Representative,6,D,Hatch,True,0
+Pinkham's Grant,Coos,State Representative,6,D,Hatch,True,0
+Sargent's Purchase,Coos,State Representative,6,D,Hatch,True,0
+Shelburne,Coos,State Representative,6,D,Hatch,True,42
+Success,Coos,State Representative,6,D,Hatch,True,0
+Thompson & Meserve's Pur.,Coos,State Representative,6,D,Hatch,True,0
+Bean's Grant,Coos,State Representative,6,,Scatter,False,0
+Bean's Purchase,Coos,State Representative,6,,Scatter,False,0
+Chandler's Purchase,Coos,State Representative,6,,Scatter,False,0
+Crawford's Purchase,Coos,State Representative,6,,Scatter,False,0
+Cutt's Grant,Coos,State Representative,6,,Scatter,False,0
+Gorham,Coos,State Representative,6,,Scatter,False,3
+Green's Grant,Coos,State Representative,6,,Scatter,False,0
+Hadley's Purchase,Coos,State Representative,6,,Scatter,False,0
+Low & Burbank's Grant,Coos,State Representative,6,,Scatter,False,0
+Martin's Location,Coos,State Representative,6,,Scatter,False,0
+Pinkham's Grant,Coos,State Representative,6,,Scatter,False,0
+Sargent's Purchase,Coos,State Representative,6,,Scatter,False,0
+Shelburne,Coos,State Representative,6,,Scatter,False,0
+Success,Coos,State Representative,6,,Scatter,False,0
+Thompson & Meserve's Pur.,Coos,State Representative,6,,Scatter,False,0
+Carroll,Coos,State Representative,7,D,Merrick,True,59
+Dalton,Coos,State Representative,7,D,Merrick,True,43
+Dummer,Coos,State Representative,7,D,Merrick,True,21
+Jefferson,Coos,State Representative,7,D,Merrick,True,60
+Kilkenny,Coos,State Representative,7,D,Merrick,True,0
+Lancaster,Coos,State Representative,7,D,Merrick,True,167
+Milan,Coos,State Representative,7,D,Merrick,True,85
+Northumberland,Coos,State Representative,7,D,Merrick,True,132
+Randolph,Coos,State Representative,7,D,Merrick,True,73
+Stark,Coos,State Representative,7,D,Merrick,True,34
+Whitefield,Coos,State Representative,7,D,Merrick,True,124
+Carroll,Coos,State Representative,7,R,Remick,False,0
+Dalton,Coos,State Representative,7,R,Remick,False,0
+Dummer,Coos,State Representative,7,R,Remick,False,0
+Jefferson,Coos,State Representative,7,R,Remick,False,0
+Kilkenny,Coos,State Representative,7,R,Remick,False,0
+Lancaster,Coos,State Representative,7,R,Remick,False,3
+Milan,Coos,State Representative,7,R,Remick,False,0
+Northumberland,Coos,State Representative,7,R,Remick,False,0
+Randolph,Coos,State Representative,7,R,Remick,False,0
+Stark,Coos,State Representative,7,R,Remick,False,2
+Whitefield,Coos,State Representative,7,R,Remick,False,2
+Carroll,Coos,State Representative,7,R,Rideout,False,0
+Dalton,Coos,State Representative,7,R,Rideout,False,0
+Dummer,Coos,State Representative,7,R,Rideout,False,0
+Jefferson,Coos,State Representative,7,R,Rideout,False,0
+Kilkenny,Coos,State Representative,7,R,Rideout,False,0
+Lancaster,Coos,State Representative,7,R,Rideout,False,5
+Milan,Coos,State Representative,7,R,Rideout,False,0
+Northumberland,Coos,State Representative,7,R,Rideout,False,0
+Randolph,Coos,State Representative,7,R,Rideout,False,0
+Stark,Coos,State Representative,7,R,Rideout,False,0
+Whitefield,Coos,State Representative,7,R,Rideout,False,1
+Carroll,Coos,State Representative,7,,Scatter,False,2
+Dalton,Coos,State Representative,7,,Scatter,False,0
+Dummer,Coos,State Representative,7,,Scatter,False,0
+Jefferson,Coos,State Representative,7,,Scatter,False,1
+Kilkenny,Coos,State Representative,7,,Scatter,False,0
+Lancaster,Coos,State Representative,7,,Scatter,False,6
+Milan,Coos,State Representative,7,,Scatter,False,0
+Northumberland,Coos,State Representative,7,,Scatter,False,0
+Randolph,Coos,State Representative,7,,Scatter,False,0
+Stark,Coos,State Representative,7,,Scatter,False,0
+Whitefield,Coos,State Representative,7,,Scatter,False,0
+Carroll,Coos,State Representative,7,R,Young,False,0
+Dalton,Coos,State Representative,7,R,Young,False,0
+Dummer,Coos,State Representative,7,R,Young,False,0
+Jefferson,Coos,State Representative,7,R,Young,False,0
+Kilkenny,Coos,State Representative,7,R,Young,False,0
+Lancaster,Coos,State Representative,7,R,Young,False,0
+Milan,Coos,State Representative,7,R,Young,False,0
+Northumberland,Coos,State Representative,7,R,Young,False,0
+Randolph,Coos,State Representative,7,R,Young,False,0
+Stark,Coos,State Representative,7,R,Young,False,1
+Whitefield,Coos,State Representative,7,R,Young,False,0
+Bethlehem,Grafton,State Representative,1,R,Bulis,False,1
+Littleton,Grafton,State Representative,1,R,Bulis,False,1
+Bethlehem,Grafton,State Representative,1,R,"Doolan, Jr.",False,1
+Littleton,Grafton,State Representative,1,R,"Doolan, Jr.",False,5
+Bethlehem,Grafton,State Representative,1,D,Massimilla,True,116
+Littleton,Grafton,State Representative,1,D,Massimilla,True,243
+Bethlehem,Grafton,State Representative,1,,Scatter,False,1
+Littleton,Grafton,State Representative,1,,Scatter,False,1
+Franconia,Grafton,State Representative,2,D,Browne,True,133
+Lisbon,Grafton,State Representative,2,D,Browne,True,47
+Lyman,Grafton,State Representative,2,D,Browne,True,31
+Monroe,Grafton,State Representative,2,D,Browne,True,31
+Sugar Hill,Grafton,State Representative,2,D,Browne,True,72
+Franconia,Grafton,State Representative,2,,Scatter,False,1
+Lisbon,Grafton,State Representative,2,,Scatter,False,0
+Lyman,Grafton,State Representative,2,,Scatter,False,0
+Monroe,Grafton,State Representative,2,,Scatter,False,0
+Sugar Hill,Grafton,State Representative,2,,Scatter,False,0
+Franconia,Grafton,State Representative,2,R,Ward,False,0
+Lisbon,Grafton,State Representative,2,R,Ward,False,0
+Lyman,Grafton,State Representative,2,R,Ward,False,1
+Monroe,Grafton,State Representative,2,R,Ward,False,1
+Sugar Hill,Grafton,State Representative,2,R,Ward,False,0
+Bath,Grafton,State Representative,3,D,Ford,True,53
+Benton,Grafton,State Representative,3,D,Ford,True,12
+Easton,Grafton,State Representative,3,D,Ford,True,37
+Landaff,Grafton,State Representative,3,D,Ford,True,22
+Orford,Grafton,State Representative,3,D,Ford,True,104
+Piermont,Grafton,State Representative,3,D,Ford,True,49
+Warren,Grafton,State Representative,3,D,Ford,True,47
+Bath,Grafton,State Representative,3,,Scatter,False,0
+Benton,Grafton,State Representative,3,,Scatter,False,0
+Easton,Grafton,State Representative,3,,Scatter,False,1
+Landaff,Grafton,State Representative,3,,Scatter,False,0
+Orford,Grafton,State Representative,3,,Scatter,False,0
+Piermont,Grafton,State Representative,3,,Scatter,False,0
+Warren,Grafton,State Representative,3,,Scatter,False,0
+Bath,Grafton,State Representative,3,R,Sorg,False,0
+Benton,Grafton,State Representative,3,R,Sorg,False,0
+Easton,Grafton,State Representative,3,R,Sorg,False,0
+Landaff,Grafton,State Representative,3,R,Sorg,False,0
+Orford,Grafton,State Representative,3,R,Sorg,False,0
+Piermont,Grafton,State Representative,3,R,Sorg,False,1
+Warren,Grafton,State Representative,3,R,Sorg,False,0
+Haverhill,Grafton,State Representative,4,R,Ladd,False,5
+Haverhill,Grafton,State Representative,4,,Scatter,False,3
+Lincoln,Grafton,State Representative,5,R,Gionet,False,3
+Livermore,Grafton,State Representative,5,R,Gionet,False,0
+Waterville Valley,Grafton,State Representative,5,R,Gionet,False,0
+Woodstock,Grafton,State Representative,5,R,Gionet,False,1
+Lincoln,Grafton,State Representative,5,,Scatter,False,0
+Livermore,Grafton,State Representative,5,,Scatter,False,0
+Waterville Valley,Grafton,State Representative,5,,Scatter,False,0
+Woodstock,Grafton,State Representative,5,,Scatter,False,7
+Ellsworth,Grafton,State Representative,6,R,Bradley,False,0
+Groton,Grafton,State Representative,6,R,Bradley,False,0
+Orange,Grafton,State Representative,6,R,Bradley,False,0
+Rumney,Grafton,State Representative,6,R,Bradley,False,0
+Thornton,Grafton,State Representative,6,R,Bradley,False,0
+Ellsworth,Grafton,State Representative,6,D,Lieto,True,6
+Groton,Grafton,State Representative,6,D,Lieto,True,31
+Orange,Grafton,State Representative,6,D,Lieto,True,29
+Rumney,Grafton,State Representative,6,D,Lieto,True,93
+Thornton,Grafton,State Representative,6,D,Lieto,True,128
+Ellsworth,Grafton,State Representative,6,,Scatter,False,0
+Groton,Grafton,State Representative,6,,Scatter,False,1
+Orange,Grafton,State Representative,6,,Scatter,False,1
+Rumney,Grafton,State Representative,6,,Scatter,False,0
+Thornton,Grafton,State Representative,6,,Scatter,False,0
+Campton,Grafton,State Representative,7,D,Aguiar,True,195
+Campton,Grafton,State Representative,7,R,Chamberlin,False,1
+Campton,Grafton,State Representative,7,,Scatter,False,1
+Hebron,Grafton,State Representative,8,D,Cooney,True,40
+Holderness,Grafton,State Representative,8,D,Cooney,True,166
+Plymouth,Grafton,State Representative,8,D,Cooney,True,309
+Hebron,Grafton,State Representative,8,R,Larson,False,1
+Holderness,Grafton,State Representative,8,R,Larson,False,0
+Plymouth,Grafton,State Representative,8,R,Larson,False,0
+Hebron,Grafton,State Representative,8,D,Lovett,True,33
+Holderness,Grafton,State Representative,8,D,Lovett,True,199
+Plymouth,Grafton,State Representative,8,D,Lovett,True,275
+Hebron,Grafton,State Representative,8,R,McIver,False,0
+Holderness,Grafton,State Representative,8,R,McIver,False,1
+Plymouth,Grafton,State Representative,8,R,McIver,False,1
+Hebron,Grafton,State Representative,8,,Scatter,False,0
+Holderness,Grafton,State Representative,8,,Scatter,False,1
+Plymouth,Grafton,State Representative,8,,Scatter,False,3
+Hebron,Grafton,State Representative,8,D,Smith,True,54
+Holderness,Grafton,State Representative,8,D,Smith,True,176
+Plymouth,Grafton,State Representative,8,D,Smith,True,285
+Alexandria,Grafton,State Representative,9,R,Emery,False,1
+Ashland,Grafton,State Representative,9,R,Emery,False,0
+Bridgewater,Grafton,State Representative,9,R,Emery,False,0
+Bristol,Grafton,State Representative,9,R,Emery,False,0
+Grafton,Grafton,State Representative,9,R,Emery,False,0
+Alexandria,Grafton,State Representative,9,R,Hull,False,1
+Ashland,Grafton,State Representative,9,R,Hull,False,0
+Bridgewater,Grafton,State Representative,9,R,Hull,False,0
+Bristol,Grafton,State Representative,9,R,Hull,False,2
+Grafton,Grafton,State Representative,9,R,Hull,False,0
+Alexandria,Grafton,State Representative,9,D,Olson,False,26
+Ashland,Grafton,State Representative,9,D,Olson,False,31
+Bridgewater,Grafton,State Representative,9,D,Olson,False,20
+Bristol,Grafton,State Representative,9,D,Olson,False,50
+Grafton,Grafton,State Representative,9,D,Olson,False,43
+Alexandria,Grafton,State Representative,9,D,Preston,True,72
+Ashland,Grafton,State Representative,9,D,Preston,True,103
+Bridgewater,Grafton,State Representative,9,D,Preston,True,67
+Bristol,Grafton,State Representative,9,D,Preston,True,107
+Grafton,Grafton,State Representative,9,D,Preston,True,56
+Alexandria,Grafton,State Representative,9,R,Reilly,False,4
+Ashland,Grafton,State Representative,9,R,Reilly,False,0
+Bridgewater,Grafton,State Representative,9,R,Reilly,False,0
+Bristol,Grafton,State Representative,9,R,Reilly,False,2
+Grafton,Grafton,State Representative,9,R,Reilly,False,0
+Alexandria,Grafton,State Representative,9,,Scatter,False,0
+Ashland,Grafton,State Representative,9,,Scatter,False,0
+Bridgewater,Grafton,State Representative,9,,Scatter,False,0
+Bristol,Grafton,State Representative,9,,Scatter,False,0
+Grafton,Grafton,State Representative,9,,Scatter,False,3
+Alexandria,Grafton,State Representative,9,R,Shackett,False,0
+Ashland,Grafton,State Representative,9,R,Shackett,False,0
+Bridgewater,Grafton,State Representative,9,R,Shackett,False,0
+Bristol,Grafton,State Representative,9,R,Shackett,False,1
+Grafton,Grafton,State Representative,9,R,Shackett,False,0
+Alexandria,Grafton,State Representative,9,D,Wallick,True,76
+Ashland,Grafton,State Representative,9,D,Wallick,True,97
+Bridgewater,Grafton,State Representative,9,D,Wallick,True,71
+Bristol,Grafton,State Representative,9,D,Wallick,True,121
+Grafton,Grafton,State Representative,9,D,Wallick,True,101
+Enfield,Grafton,State Representative,10,R,Mirski,False,1
+Enfield,Grafton,State Representative,10,D,Piper,True,293
+Enfield,Grafton,State Representative,10,,Scatter,False,0
+Canaan,Grafton,State Representative,11,R,Frazier,False,1
+Dorchester,Grafton,State Representative,11,R,Frazier,False,0
+Wentworth,Grafton,State Representative,11,R,Frazier,False,0
+Canaan,Grafton,State Representative,11,,Scatter,False,1
+Dorchester,Grafton,State Representative,11,,Scatter,False,0
+Wentworth,Grafton,State Representative,11,,Scatter,False,1
+Canaan,Grafton,State Representative,11,D,Townsend,True,231
+Dorchester,Grafton,State Representative,11,D,Townsend,True,15
+Wentworth,Grafton,State Representative,11,D,Townsend,True,34
+Hanover,Grafton,State Representative,12,D,Benn,True,967
+Lyme,Grafton,State Representative,12,D,Benn,True,245
+Hanover,Grafton,State Representative,12,D,Higgins,True,965
+Lyme,Grafton,State Representative,12,D,Higgins,True,246
+Hanover,Grafton,State Representative,12,D,Nordgren,True,1012
+Lyme,Grafton,State Representative,12,D,Nordgren,True,257
+Hanover,Grafton,State Representative,12,D,Pastor-Bodmer,True,926
+Lyme,Grafton,State Representative,12,D,Pastor-Bodmer,True,257
+Hanover,Grafton,State Representative,12,,Scatter,False,7
+Lyme,Grafton,State Representative,12,,Scatter,False,2
+Lebanon,Grafton,State Representative,13,D,Almy,True,860
+Lebanon,Grafton,State Representative,13,D,Harding,True,871
+Lebanon,Grafton,State Representative,13,,Scatter,False,3
+Lebanon,Grafton,State Representative,13,D,Sykes,True,804
+Lebanon,Grafton,State Representative,13,D,White,True,837
+Bethlehem,Grafton,State Representative,14,R,Bailey,False,0
+Franconia,Grafton,State Representative,14,R,Bailey,False,2
+Lisbon,Grafton,State Representative,14,R,Bailey,False,0
+Littleton,Grafton,State Representative,14,R,Bailey,False,1
+Lyman,Grafton,State Representative,14,R,Bailey,False,0
+Monroe,Grafton,State Representative,14,R,Bailey,False,0
+Sugar Hill,Grafton,State Representative,14,R,Bailey,False,0
+Bethlehem,Grafton,State Representative,14,D,Grant,True,109
+Franconia,Grafton,State Representative,14,D,Grant,True,106
+Lisbon,Grafton,State Representative,14,D,Grant,True,41
+Littleton,Grafton,State Representative,14,D,Grant,True,216
+Lyman,Grafton,State Representative,14,D,Grant,True,29
+Monroe,Grafton,State Representative,14,D,Grant,True,29
+Sugar Hill,Grafton,State Representative,14,D,Grant,True,63
+Bethlehem,Grafton,State Representative,14,,Scatter,False,1
+Franconia,Grafton,State Representative,14,,Scatter,False,0
+Lisbon,Grafton,State Representative,14,,Scatter,False,0
+Littleton,Grafton,State Representative,14,,Scatter,False,3
+Lyman,Grafton,State Representative,14,,Scatter,False,0
+Monroe,Grafton,State Representative,14,,Scatter,False,0
+Sugar Hill,Grafton,State Representative,14,,Scatter,False,0
+Bath,Grafton,State Representative,15,R,Ingretson,False,0
+Benton,Grafton,State Representative,15,R,Ingretson,False,0
+Easton,Grafton,State Representative,15,R,Ingretson,False,0
+Haverhill,Grafton,State Representative,15,R,Ingretson,False,1
+Landaff,Grafton,State Representative,15,R,Ingretson,False,0
+Orford,Grafton,State Representative,15,R,Ingretson,False,0
+Piermont,Grafton,State Representative,15,R,Ingretson,False,0
+Warren,Grafton,State Representative,15,R,Ingretson,False,0
+Bath,Grafton,State Representative,15,D,Lauer,True,56
+Benton,Grafton,State Representative,15,D,Lauer,True,11
+Easton,Grafton,State Representative,15,D,Lauer,True,35
+Haverhill,Grafton,State Representative,15,D,Lauer,True,88
+Landaff,Grafton,State Representative,15,D,Lauer,True,21
+Orford,Grafton,State Representative,15,D,Lauer,True,101
+Piermont,Grafton,State Representative,15,D,Lauer,True,45
+Warren,Grafton,State Representative,15,D,Lauer,True,44
+Bath,Grafton,State Representative,15,,Scatter,False,0
+Benton,Grafton,State Representative,15,,Scatter,False,0
+Easton,Grafton,State Representative,15,,Scatter,False,1
+Haverhill,Grafton,State Representative,15,,Scatter,False,2
+Landaff,Grafton,State Representative,15,,Scatter,False,0
+Orford,Grafton,State Representative,15,,Scatter,False,0
+Piermont,Grafton,State Representative,15,,Scatter,False,0
+Warren,Grafton,State Representative,15,,Scatter,False,0
+Canaan,Grafton,State Representative,16,D,Friedrich,True,211
+Dorchester,Grafton,State Representative,16,D,Friedrich,True,17
+Ellsworth,Grafton,State Representative,16,D,Friedrich,True,6
+Groton,Grafton,State Representative,16,D,Friedrich,True,33
+Orange,Grafton,State Representative,16,D,Friedrich,True,30
+Rumney,Grafton,State Representative,16,D,Friedrich,True,101
+Thornton,Grafton,State Representative,16,D,Friedrich,True,129
+Wentworth,Grafton,State Representative,16,D,Friedrich,True,33
+Canaan,Grafton,State Representative,16,,Scatter,False,0
+Dorchester,Grafton,State Representative,16,,Scatter,False,0
+Ellsworth,Grafton,State Representative,16,,Scatter,False,0
+Groton,Grafton,State Representative,16,,Scatter,False,0
+Orange,Grafton,State Representative,16,,Scatter,False,0
+Rumney,Grafton,State Representative,16,,Scatter,False,0
+Thornton,Grafton,State Representative,16,,Scatter,False,0
+Wentworth,Grafton,State Representative,16,,Scatter,False,0
+Canaan,Grafton,State Representative,16,R,Sova,False,0
+Dorchester,Grafton,State Representative,16,R,Sova,False,0
+Ellsworth,Grafton,State Representative,16,R,Sova,False,0
+Groton,Grafton,State Representative,16,R,Sova,False,0
+Orange,Grafton,State Representative,16,R,Sova,False,1
+Rumney,Grafton,State Representative,16,R,Sova,False,0
+Thornton,Grafton,State Representative,16,R,Sova,False,0
+Wentworth,Grafton,State Representative,16,R,Sova,False,0
+Alexandria,Grafton,State Representative,17,D,Mulholland,True,82
+Ashland,Grafton,State Representative,17,D,Mulholland,True,106
+Bridgewater,Grafton,State Representative,17,D,Mulholland,True,60
+Bristol,Grafton,State Representative,17,D,Mulholland,True,102
+Enfield,Grafton,State Representative,17,D,Mulholland,True,240
+Grafton,Grafton,State Representative,17,D,Mulholland,True,84
+Alexandria,Grafton,State Representative,17,D,Ploszaj,False,21
+Ashland,Grafton,State Representative,17,D,Ploszaj,False,19
+Bridgewater,Grafton,State Representative,17,D,Ploszaj,False,15
+Bristol,Grafton,State Representative,17,D,Ploszaj,False,64
+Enfield,Grafton,State Representative,17,D,Ploszaj,False,65
+Grafton,Grafton,State Representative,17,D,Ploszaj,False,49
+Alexandria,Grafton,State Representative,17,,Scatter,False,0
+Ashland,Grafton,State Representative,17,,Scatter,False,0
+Bridgewater,Grafton,State Representative,17,,Scatter,False,0
+Bristol,Grafton,State Representative,17,,Scatter,False,1
+Enfield,Grafton,State Representative,17,,Scatter,False,0
+Grafton,Grafton,State Representative,17,,Scatter,False,3
+Alexandria,Grafton,State Representative,17,R,Simard,False,0
+Ashland,Grafton,State Representative,17,R,Simard,False,0
+Bridgewater,Grafton,State Representative,17,R,Simard,False,0
+Bristol,Grafton,State Representative,17,R,Simard,False,4
+Enfield,Grafton,State Representative,17,R,Simard,False,0
+Grafton,Grafton,State Representative,17,R,Simard,False,0
+Antrim,Hillsborough,State Representative,1,R,Fredette,False,0
+Hillsborough,Hillsborough,State Representative,1,R,Fredette,False,0
+Windsor,Hillsborough,State Representative,1,R,Fredette,False,0
+Antrim,Hillsborough,State Representative,1,R,Mayfield,False,0
+Hillsborough,Hillsborough,State Representative,1,R,Mayfield,False,0
+Windsor,Hillsborough,State Representative,1,R,Mayfield,False,0
+Antrim,Hillsborough,State Representative,1,R,Mecheski,False,0
+Hillsborough,Hillsborough,State Representative,1,R,Mecheski,False,0
+Windsor,Hillsborough,State Representative,1,R,Mecheski,False,0
+Antrim,Hillsborough,State Representative,1,D,Porter,True,171
+Hillsborough,Hillsborough,State Representative,1,D,Porter,True,242
+Windsor,Hillsborough,State Representative,1,D,Porter,True,12
+Antrim,Hillsborough,State Representative,1,,Scatter,False,0
+Hillsborough,Hillsborough,State Representative,1,,Scatter,False,1
+Windsor,Hillsborough,State Representative,1,,Scatter,False,0
+Antrim,Hillsborough,State Representative,1,D,Shattuck,True,134
+Hillsborough,Hillsborough,State Representative,1,D,Shattuck,True,202
+Windsor,Hillsborough,State Representative,1,D,Shattuck,True,11
+Deering,Hillsborough,State Representative,2,D,Ashworth,True,85
+Weare,Hillsborough,State Representative,2,D,Ashworth,True,255
+Deering,Hillsborough,State Representative,2,D,Connor,True,101
+Weare,Hillsborough,State Representative,2,D,Connor,True,357
+Deering,Hillsborough,State Representative,2,R,Donovan,False,0
+Weare,Hillsborough,State Representative,2,R,Donovan,False,0
+Deering,Hillsborough,State Representative,2,R,Hopper,False,0
+Weare,Hillsborough,State Representative,2,R,Hopper,False,0
+Deering,Hillsborough,State Representative,2,R,Kurk,False,0
+Weare,Hillsborough,State Representative,2,R,Kurk,False,1
+Deering,Hillsborough,State Representative,2,D,Rocklin-Weare,True,81
+Weare,Hillsborough,State Representative,2,D,Rocklin-Weare,True,242
+Deering,Hillsborough,State Representative,2,,Scatter,False,0
+Weare,Hillsborough,State Representative,2,,Scatter,False,5
+Bennington,Hillsborough,State Representative,3,R,Ford,False,0
+Greenfield,Hillsborough,State Representative,3,R,Ford,False,0
+Hancock,Hillsborough,State Representative,3,R,Ford,False,0
+Bennington,Hillsborough,State Representative,3,D,"Manley, Sr.",True,105
+Greenfield,Hillsborough,State Representative,3,D,"Manley, Sr.",True,126
+Hancock,Hillsborough,State Representative,3,D,"Manley, Sr.",True,293
+Bennington,Hillsborough,State Representative,3,,Scatter,False,0
+Greenfield,Hillsborough,State Representative,3,,Scatter,False,0
+Hancock,Hillsborough,State Representative,3,,Scatter,False,0
+Francestown,Hillsborough,State Representative,4,R,Condra,False,0
+Greenville,Hillsborough,State Representative,4,R,Condra,False,0
+Lyndeborough,Hillsborough,State Representative,4,R,Condra,False,0
+Wilton,Hillsborough,State Representative,4,R,Condra,False,0
+Francestown,Hillsborough,State Representative,4,R,Sawin,False,0
+Greenville,Hillsborough,State Representative,4,R,Sawin,False,0
+Lyndeborough,Hillsborough,State Representative,4,R,Sawin,False,0
+Wilton,Hillsborough,State Representative,4,R,Sawin,False,0
+Francestown,Hillsborough,State Representative,4,,Scatter,False,0
+Greenville,Hillsborough,State Representative,4,,Scatter,False,2
+Lyndeborough,Hillsborough,State Representative,4,,Scatter,False,1
+Wilton,Hillsborough,State Representative,4,,Scatter,False,0
+Francestown,Hillsborough,State Representative,4,D,Spratt,True,127
+Greenville,Hillsborough,State Representative,4,D,Spratt,True,72
+Lyndeborough,Hillsborough,State Representative,4,D,Spratt,True,81
+Wilton,Hillsborough,State Representative,4,D,Spratt,True,204
+Francestown,Hillsborough,State Representative,4,D,Williams,True,133
+Greenville,Hillsborough,State Representative,4,D,Williams,True,51
+Lyndeborough,Hillsborough,State Representative,4,D,Williams,True,83
+Wilton,Hillsborough,State Representative,4,D,Williams,True,204
+Mont Vernon,Hillsborough,State Representative,5,D,Jencks,True,149
+New Boston,Hillsborough,State Representative,5,D,Jencks,True,334
+Mont Vernon,Hillsborough,State Representative,5,R,Mead,False,0
+New Boston,Hillsborough,State Representative,5,R,Mead,False,0
+Mont Vernon,Hillsborough,State Representative,5,R,O'Brien,False,1
+New Boston,Hillsborough,State Representative,5,R,O'Brien,False,2
+Mont Vernon,Hillsborough,State Representative,5,R,Quinlan,False,3
+New Boston,Hillsborough,State Representative,5,R,Quinlan,False,0
+Mont Vernon,Hillsborough,State Representative,5,,Scatter,False,0
+New Boston,Hillsborough,State Representative,5,,Scatter,False,0
+Mont Vernon,Hillsborough,State Representative,5,D,Woodbury,True,164
+New Boston,Hillsborough,State Representative,5,D,Woodbury,True,374
+Goffstown,Hillsborough,State Representative,6,D,Gage,True,759
+Goffstown,Hillsborough,State Representative,6,D,Hampton,True,657
+Goffstown,Hillsborough,State Representative,6,D,MacGregor,True,736
+Goffstown,Hillsborough,State Representative,6,D,McKernan,True,691
+Goffstown,Hillsborough,State Representative,6,D,Zackeroff,True,655
+Goffstown,Hillsborough,State Representative,6,R,Beliveau,False,0
+Goffstown,Hillsborough,State Representative,6,R,Burt,False,2
+Goffstown,Hillsborough,State Representative,6,R,Day,False,5
+Goffstown,Hillsborough,State Representative,6,R,Hikel,False,0
+Goffstown,Hillsborough,State Representative,6,R,Meaney,False,1
+Goffstown,Hillsborough,State Representative,6,R,Pratt,False,0
+Goffstown,Hillsborough,State Representative,6,,Scatter,False,6
+Goffstown,Hillsborough,State Representative,6,R,Soderquist,False,1
+Goffstown,Hillsborough,State Representative,6,R,Weeks,False,3
+Bedford,Hillsborough,State Representative,7,D,Dupuis,True,750
+Bedford,Hillsborough,State Representative,7,D,G. Boyer,True,728
+Bedford,Hillsborough,State Representative,7,D,Hanauer,True,754
+Bedford,Hillsborough,State Representative,7,D,J. Boyer,True,768
+Bedford,Hillsborough,State Representative,7,D,Jones,True,750
+Bedford,Hillsborough,State Representative,7,D,Poltronieri,True,759
+Bedford,Hillsborough,State Representative,7,,Scatter,False,2
+Manchester,Hillsborough,State Representative,8,R,Beaudoin,False,4
+Manchester,Hillsborough,State Representative,8,D,Goley,True,671
+Manchester,Hillsborough,State Representative,8,D,Ramsey,True,655
+Manchester,Hillsborough,State Representative,8,,Scatter,False,2
+Manchester,Hillsborough,State Representative,9,R,Ball,False,1
+Manchester,Hillsborough,State Representative,9,D,DiSilvestro,True,464
+Manchester,Hillsborough,State Representative,9,D,Evans,False,203
+Manchester,Hillsborough,State Representative,9,R,Hutchinson,False,0
+Manchester,Hillsborough,State Representative,9,,Scatter,False,3
+Manchester,Hillsborough,State Representative,9,D,Thompson,True,235
+Manchester,Hillsborough,State Representative,9,R,Whitfield,False,1
+Manchester,Hillsborough,State Representative,10,D,Jeudy,True,223
+Manchester,Hillsborough,State Representative,10,,Scatter,False,0
+Manchester,Hillsborough,State Representative,10,D,Sullivan,True,265
+Manchester,Hillsborough,State Representative,11,R,Callahan III,True,0
+Manchester,Hillsborough,State Representative,11,R,Ghose,False,0
+Manchester,Hillsborough,State Representative,11,D,Levasseur,True,272
+Manchester,Hillsborough,State Representative,11,R,Martin,False,0
+Manchester,Hillsborough,State Representative,11,,Scatter,False,0
+Manchester,Hillsborough,State Representative,11,D,Walsh,True,291
+Manchester,Hillsborough,State Representative,12,D,Komi,True,127
+Manchester,Hillsborough,State Representative,12,D,O'Flaherty,True,128
+Manchester,Hillsborough,State Representative,12,D,Rokas,True,249
+Manchester,Hillsborough,State Representative,12,,Scatter,False,5
+Manchester,Hillsborough,State Representative,13,D,Baroody,True,437
+Manchester,Hillsborough,State Representative,13,R,Gagne,False,1
+Manchester,Hillsborough,State Representative,13,D,Hackett,True,407
+Manchester,Hillsborough,State Representative,13,R,Infantine,False,1
+Manchester,Hillsborough,State Representative,13,,Scatter,False,0
+Manchester,Hillsborough,State Representative,14,D,C. Terrio,False,97
+Manchester,Hillsborough,State Representative,14,R,Cole,False,2
+Manchester,Hillsborough,State Representative,14,D,Garrity,True,298
+Manchester,Hillsborough,State Representative,14,R,R. Terrio,False,4
+Manchester,Hillsborough,State Representative,14,,Scatter,False,0
+Manchester,Hillsborough,State Representative,14,D,Williams,True,268
+Manchester,Hillsborough,State Representative,15,D,Curran,True,300
+Manchester,Hillsborough,State Representative,15,R,Proulx,False,2
+Manchester,Hillsborough,State Representative,15,,Scatter,False,5
+Manchester,Hillsborough,State Representative,15,D,Thomas Katsiantonis,True,469
+Manchester,Hillsborough,State Representative,15,R,Vaillancourt,False,0
+Manchester,Hillsborough,State Representative,15,R,"Webb, Jr.",False,0
+Manchester,Hillsborough,State Representative,16,R,Barry,False,0
+Manchester,Hillsborough,State Representative,16,R,Frye,False,0
+Manchester,Hillsborough,State Representative,16,D,McCloskey,True,252
+Manchester,Hillsborough,State Representative,16,R,Sawyer,False,1
+Manchester,Hillsborough,State Representative,16,,Scatter,False,3
+Manchester,Hillsborough,State Representative,16,D,Shaw,True,429
+Manchester,Hillsborough,State Representative,17,D,George Katsiantonis,True,350
+Manchester,Hillsborough,State Representative,17,R,Messier,False,3
+Manchester,Hillsborough,State Representative,17,,Scatter,False,2
+Manchester,Hillsborough,State Representative,17,R,Simmons,False,0
+Manchester,Hillsborough,State Representative,17,D,Smith,True,406
+Manchester,Hillsborough,State Representative,18,R,Holmes,False,0
+Manchester,Hillsborough,State Representative,18,D,Sample,True,209
+Manchester,Hillsborough,State Representative,18,R,Sandblade,False,0
+Manchester,Hillsborough,State Representative,18,,Scatter,False,2
+Manchester,Hillsborough,State Representative,18,D,Winters,True,289
+Manchester,Hillsborough,State Representative,19,D,Backus,True,350
+Manchester,Hillsborough,State Representative,19,R,Feoli,False,0
+Manchester,Hillsborough,State Representative,19,R,Gonzalez,False,2
+Manchester,Hillsborough,State Representative,19,D,Knoy,True,235
+Manchester,Hillsborough,State Representative,19,R,Marston,False,0
+Manchester,Hillsborough,State Representative,19,,Scatter,False,4
+Litchfield,Hillsborough,State Representative,20,R,Boehm,False,0
+Litchfield,Hillsborough,State Representative,20,R,Byron,False,3
+Litchfield,Hillsborough,State Representative,20,R,Gandia,False,2
+Litchfield,Hillsborough,State Representative,20,D,Hardy,True,232
+Litchfield,Hillsborough,State Representative,20,,Scatter,False,1
+Litchfield,Hillsborough,State Representative,20,D,Welch,True,249
+Merrimack,Hillsborough,State Representative,21,D,B. Grady,True,876
+Merrimack,Hillsborough,State Representative,21,D,Fulmer,True,796
+Merrimack,Hillsborough,State Representative,21,D,J. Grady,True,846
+Merrimack,Hillsborough,State Representative,21,D,Kojak,True,839
+Merrimack,Hillsborough,State Representative,21,D,Nozell,True,775
+Merrimack,Hillsborough,State Representative,21,D,Plante,True,839
+Merrimack,Hillsborough,State Representative,21,D,Rotast,True,823
+Merrimack,Hillsborough,State Representative,21,D,Rothman,True,821
+Merrimack,Hillsborough,State Representative,21,R,Peterson,False,0
+Merrimack,Hillsborough,State Representative,21,,Scatter,False,13
+Merrimack,Hillsborough,State Representative,21,R,Straight,False,0
+Amherst,Hillsborough,State Representative,22,D,Chandley,True,600
+Amherst,Hillsborough,State Representative,22,R,Hansen,False,1
+Amherst,Hillsborough,State Representative,22,D,Morgan,True,480
+Amherst,Hillsborough,State Representative,22,R,Panasiti,False,2
+Amherst,Hillsborough,State Representative,22,R,Rowe,False,0
+Amherst,Hillsborough,State Representative,22,,Scatter,False,15
+Amherst,Hillsborough,State Representative,22,D,Shonle,True,421
+Amherst,Hillsborough,State Representative,22,R,Stepanek,False,0
+Milford,Hillsborough,State Representative,23,D,Heden,True,450
+Milford,Hillsborough,State Representative,23,D,Hughes,True,461
+Milford,Hillsborough,State Representative,23,D,Salmon,True,444
+Milford,Hillsborough,State Representative,23,D,Tilton,True,464
+Milford,Hillsborough,State Representative,23,R,"Koch, Jr.",False,0
+Milford,Hillsborough,State Representative,23,R,Palmer,False,0
+Milford,Hillsborough,State Representative,23,,Scatter,False,13
+Milford,Hillsborough,State Representative,23,R,Seale,False,3
+Milford,Hillsborough,State Representative,23,R,Sweeney,False,0
+Milford,Hillsborough,State Representative,23,R,Willette,False,2
+Peterborough,Hillsborough,State Representative,24,D,Hammond,True,663
+Peterborough,Hillsborough,State Representative,24,D,Leishman,True,622
+Peterborough,Hillsborough,State Representative,24,R,Marcus,False,0
+Peterborough,Hillsborough,State Representative,24,,Scatter,False,2
+New Ipswich,Hillsborough,State Representative,25,D,Ayvazian,True,77
+Sharon,Hillsborough,State Representative,25,D,Ayvazian,True,30
+Temple,Hillsborough,State Representative,25,D,Ayvazian,True,98
+New Ipswich,Hillsborough,State Representative,25,R,Coffey,False,0
+Sharon,Hillsborough,State Representative,25,R,Coffey,False,0
+Temple,Hillsborough,State Representative,25,R,Coffey,False,0
+New Ipswich,Hillsborough,State Representative,25,D,Daler,True,156
+Sharon,Hillsborough,State Representative,25,D,Daler,True,32
+Temple,Hillsborough,State Representative,25,D,Daler,True,129
+New Ipswich,Hillsborough,State Representative,25,R,Parison,False,0
+Sharon,Hillsborough,State Representative,25,R,Parison,False,0
+Temple,Hillsborough,State Representative,25,R,Parison,False,0
+New Ipswich,Hillsborough,State Representative,25,,Scatter,False,0
+Sharon,Hillsborough,State Representative,25,,Scatter,False,0
+Temple,Hillsborough,State Representative,25,,Scatter,False,1
+Brookline,Hillsborough,State Representative,26,R,Flanagan,False,2
+Mason,Hillsborough,State Representative,26,R,Flanagan,False,1
+Brookline,Hillsborough,State Representative,26,D,Levesque,True,262
+Mason,Hillsborough,State Representative,26,D,Levesque,True,59
+Brookline,Hillsborough,State Representative,26,R,Ogden,False,0
+Mason,Hillsborough,State Representative,26,R,Ogden,False,1
+Brookline,Hillsborough,State Representative,26,D,Rater,True,167
+Mason,Hillsborough,State Representative,26,D,Rater,True,40
+Brookline,Hillsborough,State Representative,26,,Scatter,False,4
+Mason,Hillsborough,State Representative,26,,Scatter,False,0
+Hollis,Hillsborough,State Representative,27,D,Backer,True,302
+Hollis,Hillsborough,State Representative,27,R,Belanger,False,0
+Hollis,Hillsborough,State Representative,27,R,Gargasz,False,0
+Hollis,Hillsborough,State Representative,27,D,McGhee,True,385
+Hollis,Hillsborough,State Representative,27,,Scatter,False,0
+Nashua,Hillsborough,State Representative,28,R,Avard,False,0
+Nashua,Hillsborough,State Representative,28,D,Gale,True,375
+Nashua,Hillsborough,State Representative,28,D,Kopka,True,395
+Nashua,Hillsborough,State Representative,28,R,Lanzara,False,3
+Nashua,Hillsborough,State Representative,28,R,McGuinness,False,1
+Nashua,Hillsborough,State Representative,28,R,Rak,False,0
+Nashua,Hillsborough,State Representative,28,,Scatter,False,1
+Nashua,Hillsborough,State Representative,28,D,Schmidt,True,387
+Nashua,Hillsborough,State Representative,28,R,Seidel,False,0
+Nashua,Hillsborough,State Representative,29,R,Balboni,False,0
+Nashua,Hillsborough,State Representative,29,D,Hackel,True,256
+Nashua,Hillsborough,State Representative,29,R,McCarthy,False,1
+Nashua,Hillsborough,State Representative,29,R,McClarren,False,0
+Nashua,Hillsborough,State Representative,29,,Scatter,False,9
+Nashua,Hillsborough,State Representative,29,D,Shaff,True,207
+Nashua,Hillsborough,State Representative,29,D,Vail,True,304
+Nashua,Hillsborough,State Representative,29,R,Ziehm III,False,0
+Nashua,Hillsborough,State Representative,30,R,Hohensee,False,0
+Nashua,Hillsborough,State Representative,30,D,MacKay,True,284
+Nashua,Hillsborough,State Representative,30,D,Rhodes,True,292
+Nashua,Hillsborough,State Representative,30,D,Rosenwald,True,376
+Nashua,Hillsborough,State Representative,30,,Scatter,False,0
+Nashua,Hillsborough,State Representative,30,R,Schoneman,False,0
+Nashua,Hillsborough,State Representative,30,R,Scontsas,False,0
+Nashua,Hillsborough,State Representative,31,D,Cote,True,182
+Nashua,Hillsborough,State Representative,31,D,Gorman,True,193
+Nashua,Hillsborough,State Representative,31,R,Heitmiller,False,1
+Nashua,Hillsborough,State Representative,31,D,Laughton,True,148
+Nashua,Hillsborough,State Representative,31,,Scatter,False,0
+Nashua,Hillsborough,State Representative,31,R,Van Twuyver,False,0
+Nashua,Hillsborough,State Representative,32,R,DuBois,False,0
+Nashua,Hillsborough,State Representative,32,D,Kelley,True,271
+Nashua,Hillsborough,State Representative,32,R,LeBrun,False,0
+Nashua,Hillsborough,State Representative,32,D,MacAuslan,True,255
+Nashua,Hillsborough,State Representative,32,R,Murotake,False,0
+Nashua,Hillsborough,State Representative,32,R,Palmer,False,0
+Nashua,Hillsborough,State Representative,32,D,Pedersen,True,242
+Nashua,Hillsborough,State Representative,32,,Scatter,False,2
+Nashua,Hillsborough,State Representative,32,R,Summers,False,0
+Nashua,Hillsborough,State Representative,33,D,Booras,True,183
+Nashua,Hillsborough,State Representative,33,R,Buxton,False,1
+Nashua,Hillsborough,State Representative,33,D,Campbell,True,234
+Nashua,Hillsborough,State Representative,33,D,Gidge,True,243
+Nashua,Hillsborough,State Representative,33,R,Saunders,False,0
+Nashua,Hillsborough,State Representative,33,,Scatter,False,2
+Nashua,Hillsborough,State Representative,33,R,Surbey,False,1
+Nashua,Hillsborough,State Representative,34,D,Carroll,True,260
+Nashua,Hillsborough,State Representative,34,R,Casey,False,0
+Nashua,Hillsborough,State Representative,34,R,Erickson,False,0
+Nashua,Hillsborough,State Representative,34,D,Garcia,True,251
+Nashua,Hillsborough,State Representative,34,R,Hogan,False,0
+Nashua,Hillsborough,State Representative,34,,Scatter,False,0
+Nashua,Hillsborough,State Representative,34,D,Soucy,True,307
+Nashua,Hillsborough,State Representative,34,R,Twombly,False,0
+Nashua,Hillsborough,State Representative,35,D,Hansberry,True,284
+Nashua,Hillsborough,State Representative,35,R,Joransen,True,0
+Nashua,Hillsborough,State Representative,35,D,LaPlante,True,250
+Nashua,Hillsborough,State Representative,35,D,Nelson,True,326
+Nashua,Hillsborough,State Representative,35,R,Reed,True,0
+Nashua,Hillsborough,State Representative,35,,Scatter,False,5
+Nashua,Hillsborough,State Representative,35,R,Silva,True,0
+Nashua,Hillsborough,State Representative,35,R,Stebbins,True,0
+Nashua,Hillsborough,State Representative,36,R,Brown,False,1
+Nashua,Hillsborough,State Representative,36,D,Harriott-Gathright,True,290
+Nashua,Hillsborough,State Representative,36,D,Jack,True,268
+Nashua,Hillsborough,State Representative,36,D,"O'Brien, Sr.",True,309
+Nashua,Hillsborough,State Representative,36,R,Ohm,False,0
+Nashua,Hillsborough,State Representative,36,R,Robbins,False,0
+Nashua,Hillsborough,State Representative,36,,Scatter,False,0
+Hudson,Hillsborough,State Representative,37,D,Battis,True,536
+Pelham,Hillsborough,State Representative,37,D,Battis,True,156
+Hudson,Hillsborough,State Representative,37,D,Caron,True,555
+Pelham,Hillsborough,State Representative,37,D,Caron,True,161
+Hudson,Hillsborough,State Representative,37,D,Clark-Balcom,True,572
+Pelham,Hillsborough,State Representative,37,D,Clark-Balcom,True,183
+Hudson,Hillsborough,State Representative,37,D,Fairbanks,True,517
+Pelham,Hillsborough,State Representative,37,D,Fairbanks,True,156
+Hudson,Hillsborough,State Representative,37,D,J.    Knowles,True,639
+Pelham,Hillsborough,State Representative,37,D,J.    Knowles,True,180
+Hudson,Hillsborough,State Representative,37,D,Lynde,True,506
+Pelham,Hillsborough,State Representative,37,D,Lynde,True,244
+Hudson,Hillsborough,State Representative,37,D,M.     Knowles,True,683
+Pelham,Hillsborough,State Representative,37,D,M.     Knowles,True,194
+Hudson,Hillsborough,State Representative,37,R,Brownrigg,False,0
+Pelham,Hillsborough,State Representative,37,R,Brownrigg,False,0
+Hudson,Hillsborough,State Representative,37,R,Christiansen,False,0
+Pelham,Hillsborough,State Representative,37,R,Christiansen,False,1
+Hudson,Hillsborough,State Representative,37,,Scatter,False,20
+Pelham,Hillsborough,State Representative,37,,Scatter,False,11
+Hudson,Hillsborough,State Representative,37,R,Takesian,False,0
+Pelham,Hillsborough,State Representative,37,R,Takesian,False,7
+Hudson,Hillsborough,State Representative,37,R,Ulery,False,0
+Pelham,Hillsborough,State Representative,37,R,Ulery,False,1
+Antrim,Hillsborough,State Representative,38,D,Eaton,True,131
+Bennington,Hillsborough,State Representative,38,D,Eaton,True,63
+Francestown,Hillsborough,State Representative,38,D,Eaton,True,114
+Greenfield,Hillsborough,State Representative,38,D,Eaton,True,83
+Greenville,Hillsborough,State Representative,38,D,Eaton,True,74
+Hancock,Hillsborough,State Representative,38,D,Eaton,True,153
+Hillsborough,Hillsborough,State Representative,38,D,Eaton,True,180
+Lyndeborough,Hillsborough,State Representative,38,D,Eaton,True,79
+Wilton,Hillsborough,State Representative,38,D,Eaton,True,192
+Windsor,Hillsborough,State Representative,38,D,Eaton,True,9
+Antrim,Hillsborough,State Representative,38,R,Edelblut,False,0
+Bennington,Hillsborough,State Representative,38,R,Edelblut,False,0
+Francestown,Hillsborough,State Representative,38,R,Edelblut,False,0
+Greenfield,Hillsborough,State Representative,38,R,Edelblut,False,0
+Greenville,Hillsborough,State Representative,38,R,Edelblut,False,0
+Hancock,Hillsborough,State Representative,38,R,Edelblut,False,0
+Hillsborough,Hillsborough,State Representative,38,R,Edelblut,False,0
+Lyndeborough,Hillsborough,State Representative,38,R,Edelblut,False,0
+Wilton,Hillsborough,State Representative,38,R,Edelblut,False,0
+Windsor,Hillsborough,State Representative,38,R,Edelblut,False,0
+Antrim,Hillsborough,State Representative,38,D,McNamara,True,151
+Bennington,Hillsborough,State Representative,38,D,McNamara,True,76
+Francestown,Hillsborough,State Representative,38,D,McNamara,True,138
+Greenfield,Hillsborough,State Representative,38,D,McNamara,True,114
+Greenville,Hillsborough,State Representative,38,D,McNamara,True,53
+Hancock,Hillsborough,State Representative,38,D,McNamara,True,226
+Hillsborough,Hillsborough,State Representative,38,D,McNamara,True,230
+Lyndeborough,Hillsborough,State Representative,38,D,McNamara,True,87
+Wilton,Hillsborough,State Representative,38,D,McNamara,True,240
+Windsor,Hillsborough,State Representative,38,D,McNamara,True,7
+Antrim,Hillsborough,State Representative,38,R,Riley,False,0
+Bennington,Hillsborough,State Representative,38,R,Riley,False,0
+Francestown,Hillsborough,State Representative,38,R,Riley,False,0
+Greenfield,Hillsborough,State Representative,38,R,Riley,False,0
+Greenville,Hillsborough,State Representative,38,R,Riley,False,0
+Hancock,Hillsborough,State Representative,38,R,Riley,False,0
+Hillsborough,Hillsborough,State Representative,38,R,Riley,False,0
+Lyndeborough,Hillsborough,State Representative,38,R,Riley,False,0
+Wilton,Hillsborough,State Representative,38,R,Riley,False,1
+Windsor,Hillsborough,State Representative,38,R,Riley,False,0
+Antrim,Hillsborough,State Representative,38,,Scatter,False,0
+Bennington,Hillsborough,State Representative,38,,Scatter,False,0
+Francestown,Hillsborough,State Representative,38,,Scatter,False,0
+Greenfield,Hillsborough,State Representative,38,,Scatter,False,0
+Greenville,Hillsborough,State Representative,38,,Scatter,False,2
+Hancock,Hillsborough,State Representative,38,,Scatter,False,1
+Hillsborough,Hillsborough,State Representative,38,,Scatter,False,1
+Lyndeborough,Hillsborough,State Representative,38,,Scatter,False,0
+Wilton,Hillsborough,State Representative,38,,Scatter,False,0
+Windsor,Hillsborough,State Representative,38,,Scatter,False,0
+Deering,Hillsborough,State Representative,39,D,Gill,True,114
+Goffstown,Hillsborough,State Representative,39,D,Gill,True,818
+Weare,Hillsborough,State Representative,39,D,Gill,True,373
+Deering,Hillsborough,State Representative,39,,Scatter,False,0
+Goffstown,Hillsborough,State Representative,39,,Scatter,False,2
+Weare,Hillsborough,State Representative,39,,Scatter,False,0
+Deering,Hillsborough,State Representative,39,R,Warden,False,0
+Goffstown,Hillsborough,State Representative,39,R,Warden,False,2
+Weare,Hillsborough,State Representative,39,R,Warden,False,0
+Hollis,Hillsborough,State Representative,40,R,Daniels,False,0
+Milford,Hillsborough,State Representative,40,R,Daniels,False,0
+Mont Vernon,Hillsborough,State Representative,40,R,Daniels,False,0
+New Boston,Hillsborough,State Representative,40,R,Daniels,False,0
+Hollis,Hillsborough,State Representative,40,R,Linn,False,0
+Milford,Hillsborough,State Representative,40,R,Linn,False,0
+Mont Vernon,Hillsborough,State Representative,40,R,Linn,False,0
+New Boston,Hillsborough,State Representative,40,R,Linn,False,1
+Hollis,Hillsborough,State Representative,40,D,Mullaney,True,413
+Milford,Hillsborough,State Representative,40,D,Mullaney,True,575
+Mont Vernon,Hillsborough,State Representative,40,D,Mullaney,True,172
+New Boston,Hillsborough,State Representative,40,D,Mullaney,True,365
+Hollis,Hillsborough,State Representative,40,,Scatter,False,1
+Milford,Hillsborough,State Representative,40,,Scatter,False,4
+Mont Vernon,Hillsborough,State Representative,40,,Scatter,False,0
+New Boston,Hillsborough,State Representative,40,,Scatter,False,0
+Amherst,Hillsborough,State Representative,41,D,Gerzon,True,595
+Bedford,Hillsborough,State Representative,41,D,Gerzon,True,819
+Amherst,Hillsborough,State Representative,41,R,Sanborn,False,0
+Bedford,Hillsborough,State Representative,41,R,Sanborn,False,0
+Amherst,Hillsborough,State Representative,41,,Scatter,False,0
+Bedford,Hillsborough,State Representative,41,,Scatter,False,0
+Manchester,Hillsborough,State Representative,42,R,Frost,False,1
+Manchester,Hillsborough,State Representative,42,D,Long,True,1262
+Manchester,Hillsborough,State Representative,42,,Scatter,False,5
+Manchester,Hillsborough,State Representative,42,D,Sullivan,True,1376
+Manchester,Hillsborough,State Representative,42,R,Thibault,False,2
+Manchester,Hillsborough,State Representative,43,R,Dobson,True,1164
+Manchester,Hillsborough,State Representative,43,D,Palangas,True,1083
+Manchester,Hillsborough,State Representative,43,D,Pinder,True,927
+Manchester,Hillsborough,State Representative,43,,Scatter,False,13
+Manchester,Hillsborough,State Representative,43,R,Shoults,False,2
+Manchester,Hillsborough,State Representative,43,R,Souza,False,3
+Litchfield,Hillsborough,State Representative,44,D,Haworth,True,217
+Manchester,Hillsborough,State Representative,44,D,Haworth,True,631
+Litchfield,Hillsborough,State Representative,44,R,Lambert,False,0
+Manchester,Hillsborough,State Representative,44,R,Lambert,False,0
+Litchfield,Hillsborough,State Representative,44,R,Martel,False,0
+Manchester,Hillsborough,State Representative,44,R,Martel,False,0
+Litchfield,Hillsborough,State Representative,44,,Scatter,False,4
+Manchester,Hillsborough,State Representative,44,,Scatter,False,12
+Litchfield,Hillsborough,State Representative,44,D,Scheiner,True,238
+Manchester,Hillsborough,State Representative,44,D,Scheiner,True,669
+Manchester,Hillsborough,State Representative,45,D,Beaulieu,True,1083
+Manchester,Hillsborough,State Representative,45,R,Bergevin,False,4
+Manchester,Hillsborough,State Representative,45,D,Boisvert,True,814
+Manchester,Hillsborough,State Representative,45,R,Hirschmann,False,1
+Manchester,Hillsborough,State Representative,45,,Scatter,False,4
+Manchester,Hillsborough,State Representative,45,R,Swank,False,0
+Andover,Merrimack,State Representative,1,R,Coffey,False,2
+Danbury,Merrimack,State Representative,1,R,Coffey,False,0
+Salisbury,Merrimack,State Representative,1,R,Coffey,False,0
+Andover,Merrimack,State Representative,1,D,Ratzki,True,224
+Danbury,Merrimack,State Representative,1,D,Ratzki,True,111
+Salisbury,Merrimack,State Representative,1,D,Ratzki,True,99
+Andover,Merrimack,State Representative,1,,Scatter,False,0
+Danbury,Merrimack,State Representative,1,,Scatter,False,0
+Salisbury,Merrimack,State Representative,1,,Scatter,False,0
+Franklin,Merrimack,State Representative,2,D,Burns,True,177
+Hill,Merrimack,State Representative,2,D,Burns,True,49
+Franklin,Merrimack,State Representative,2,D,Carrier,True,141
+Hill,Merrimack,State Representative,2,D,Carrier,True,36
+Franklin,Merrimack,State Representative,2,R,Mason,False,2
+Hill,Merrimack,State Representative,2,R,Mason,False,0
+Franklin,Merrimack,State Representative,2,R,Reed,False,1
+Hill,Merrimack,State Representative,2,R,Reed,False,1
+Franklin,Merrimack,State Representative,2,,Scatter,False,0
+Hill,Merrimack,State Representative,2,,Scatter,False,0
+Franklin,Merrimack,State Representative,3,R,Hill,False,0
+Northfield,Merrimack,State Representative,3,R,Hill,False,0
+Franklin,Merrimack,State Representative,3,,Scatter,False,0
+Northfield,Merrimack,State Representative,3,,Scatter,False,0
+Franklin,Merrimack,State Representative,3,D,Tilton,True,90
+Northfield,Merrimack,State Representative,3,D,Tilton,True,199
+Franklin,Merrimack,State Representative,3,R,Virtue,False,0
+Northfield,Merrimack,State Representative,3,R,Virtue,False,0
+Franklin,Merrimack,State Representative,3,D,Webb,True,133
+Northfield,Merrimack,State Representative,3,D,Webb,True,113
+Sutton,Merrimack,State Representative,4,R,Cooper,False,0
+Wilmot,Merrimack,State Representative,4,R,Cooper,False,0
+Sutton,Merrimack,State Representative,4,,Scatter,False,2
+Wilmot,Merrimack,State Representative,4,,Scatter,False,4
+Sutton,Merrimack,State Representative,4,D,Schamberg,True,163
+Wilmot,Merrimack,State Representative,4,D,Schamberg,True,146
+New London,Merrimack,State Representative,5,D,Ebel,True,503
+Newbury,Merrimack,State Representative,5,D,Ebel,True,147
+New London,Merrimack,State Representative,5,R,Kidder,False,22
+Newbury,Merrimack,State Representative,5,R,Kidder,False,2
+New London,Merrimack,State Representative,5,D,Russell,True,201
+Newbury,Merrimack,State Representative,5,D,Russell,True,94
+New London,Merrimack,State Representative,5,,Scatter,False,4
+Newbury,Merrimack,State Representative,5,,Scatter,False,2
+New London,Merrimack,State Representative,5,R,Winter,False,0
+Newbury,Merrimack,State Representative,5,R,Winter,False,3
+Bradford,Merrimack,State Representative,6,D,French,True,159
+Henniker,Merrimack,State Representative,6,D,French,True,296
+Bradford,Merrimack,State Representative,6,D,Hirsch,True,148
+Henniker,Merrimack,State Representative,6,D,Hirsch,True,268
+Bradford,Merrimack,State Representative,6,D,Kjellman,False,29
+Henniker,Merrimack,State Representative,6,D,Kjellman,False,170
+Bradford,Merrimack,State Representative,6,R,Lindsley,False,0
+Henniker,Merrimack,State Representative,6,R,Lindsley,False,3
+Bradford,Merrimack,State Representative,6,,Scatter,False,0
+Henniker,Merrimack,State Representative,6,,Scatter,False,1
+Warner,Merrimack,State Representative,7,D,Carson,True,315
+Webster,Merrimack,State Representative,7,D,Carson,True,144
+Warner,Merrimack,State Representative,7,R,French,False,0
+Webster,Merrimack,State Representative,7,R,French,False,2
+Warner,Merrimack,State Representative,7,R,Olsen,False,1
+Webster,Merrimack,State Representative,7,R,Olsen,False,0
+Warner,Merrimack,State Representative,7,,Scatter,False,1
+Webster,Merrimack,State Representative,7,,Scatter,False,0
+Boscawen,Merrimack,State Representative,8,D,Alicia,True,203
+Boscawen,Merrimack,State Representative,8,,Scatter,False,0
+Canterbury,Merrimack,State Representative,9,D,Dole III,False,51
+Loudon,Merrimack,State Representative,9,D,Dole III,False,75
+Canterbury,Merrimack,State Representative,9,R,"Kreis, Sr.",False,1
+Loudon,Merrimack,State Representative,9,R,"Kreis, Sr.",False,2
+Canterbury,Merrimack,State Representative,9,R,Lockwood,False,8
+Loudon,Merrimack,State Representative,9,R,Lockwood,False,4
+Canterbury,Merrimack,State Representative,9,D,Moffett,True,306
+Loudon,Merrimack,State Representative,9,D,Moffett,True,162
+Canterbury,Merrimack,State Representative,9,D,Saunderson,True,238
+Loudon,Merrimack,State Representative,9,D,Saunderson,True,170
+Canterbury,Merrimack,State Representative,9,,Scatter,False,0
+Loudon,Merrimack,State Representative,9,,Scatter,False,2
+Canterbury,Merrimack,State Representative,9,R,Shaikh,False,0
+Loudon,Merrimack,State Representative,9,R,Shaikh,False,1
+Concord,Merrimack,State Representative,10,R,Johnson,False,0
+Hopkinton,Merrimack,State Representative,10,R,Johnson,False,0
+Concord,Merrimack,State Representative,10,R,Kennedy,False,0
+Hopkinton,Merrimack,State Representative,10,R,Kennedy,False,0
+Concord,Merrimack,State Representative,10,D,Myler,True,377
+Hopkinton,Merrimack,State Representative,10,D,Myler,True,590
+Concord,Merrimack,State Representative,10,D,Richardson,True,479
+Hopkinton,Merrimack,State Representative,10,D,Richardson,True,712
+Concord,Merrimack,State Representative,10,R,Rosano,False,0
+Hopkinton,Merrimack,State Representative,10,R,Rosano,False,0
+Concord,Merrimack,State Representative,10,D,Wallner,True,567
+Hopkinton,Merrimack,State Representative,10,D,Wallner,True,610
+Concord,Merrimack,State Representative,11,,Scatter,False,0
+Concord,Merrimack,State Representative,11,D,Shurtleff,True,316
+Concord,Merrimack,State Representative,11,D,Welch,False,61
+Concord,Merrimack,State Representative,12,D,Henle,True,246
+Concord,Merrimack,State Representative,12,,Scatter,False,1
+Concord,Merrimack,State Representative,13,D,Frazer,True,305
+Concord,Merrimack,State Representative,13,,Scatter,False,1
+Concord,Merrimack,State Representative,14,D,MacKay,True,365
+Concord,Merrimack,State Representative,14,,Scatter,False,3
+Concord,Merrimack,State Representative,15,D,Hunt,True,262
+Concord,Merrimack,State Representative,15,,Scatter,False,2
+Concord,Merrimack,State Representative,16,D,Deloge,False,284
+Concord,Merrimack,State Representative,16,,Scatter,False,0
+Concord,Merrimack,State Representative,16,D,Watrous,True,337
+Concord,Merrimack,State Representative,17,D,Patten,True,287
+Concord,Merrimack,State Representative,17,,Scatter,False,5
+Concord,Merrimack,State Representative,17,R,Wood,False,0
+Concord,Merrimack,State Representative,18,D,Bouchard,True,316
+Concord,Merrimack,State Representative,18,R,Moore,False,0
+Concord,Merrimack,State Representative,18,,Scatter,False,2
+Concord,Merrimack,State Representative,19,D,Bartlett,False,459
+Concord,Merrimack,State Representative,19,R,Georgevits,False,1
+Concord,Merrimack,State Representative,19,,Scatter,False,1
+Chichester,Merrimack,State Representative,20,D,Davis,True,137
+Pembroke,Merrimack,State Representative,20,D,Davis,True,382
+Chichester,Merrimack,State Representative,20,R,Giuda,False,0
+Pembroke,Merrimack,State Representative,20,R,Giuda,False,1
+Chichester,Merrimack,State Representative,20,D,Kelly,True,182
+Pembroke,Merrimack,State Representative,20,D,Kelly,True,375
+Chichester,Merrimack,State Representative,20,R,Ross,False,0
+Pembroke,Merrimack,State Representative,20,R,Ross,False,1
+Chichester,Merrimack,State Representative,20,,Scatter,False,0
+Pembroke,Merrimack,State Representative,20,,Scatter,False,4
+Chichester,Merrimack,State Representative,20,D,Schuett,True,134
+Pembroke,Merrimack,State Representative,20,D,Schuett,True,343
+Chichester,Merrimack,State Representative,20,R,Seaworth,False,0
+Pembroke,Merrimack,State Representative,20,R,Seaworth,False,1
+Epsom,Merrimack,State Representative,21,D,Carlson,True,168
+Pittsfield,Merrimack,State Representative,21,D,Carlson,True,100
+Epsom,Merrimack,State Representative,21,D,Frambach,True,198
+Pittsfield,Merrimack,State Representative,21,D,Frambach,True,124
+Epsom,Merrimack,State Representative,21,R,LeDuc,False,0
+Pittsfield,Merrimack,State Representative,21,R,LeDuc,False,0
+Epsom,Merrimack,State Representative,21,R,McGuire,False,0
+Pittsfield,Merrimack,State Representative,21,R,McGuire,False,0
+Epsom,Merrimack,State Representative,21,,Scatter,False,4
+Pittsfield,Merrimack,State Representative,21,,Scatter,False,0
+Epsom,Merrimack,State Representative,21,R,Soltani,False,1
+Pittsfield,Merrimack,State Representative,21,R,Soltani,False,0
+Allenstown,Merrimack,State Representative,22,R,Richardson,False,1
+Allenstown,Merrimack,State Representative,22,,Scatter,False,0
+Allenstown,Merrimack,State Representative,22,D,Turcotte,True,226
+Bow,Merrimack,State Representative,23,D,Andrews,True,513
+Dunbarton,Merrimack,State Representative,23,D,Andrews,True,151
+Bow,Merrimack,State Representative,23,R,Finan,False,0
+Dunbarton,Merrimack,State Representative,23,R,Finan,False,0
+Bow,Merrimack,State Representative,23,R,Hoell,False,0
+Dunbarton,Merrimack,State Representative,23,R,Hoell,False,1
+Bow,Merrimack,State Representative,23,D,Martel,True,480
+Dunbarton,Merrimack,State Representative,23,D,Martel,True,179
+Bow,Merrimack,State Representative,23,R,Martin,False,0
+Dunbarton,Merrimack,State Representative,23,R,Martin,False,0
+Bow,Merrimack,State Representative,23,,Scatter,False,11
+Dunbarton,Merrimack,State Representative,23,,Scatter,False,1
+Bow,Merrimack,State Representative,23,D,Walz,True,656
+Dunbarton,Merrimack,State Representative,23,D,Walz,True,170
+Hooksett,Merrimack,State Representative,24,R,Hess,False,14
+Hooksett,Merrimack,State Representative,24,R,Kotowski,False,13
+Hooksett,Merrimack,State Representative,24,R,Marple,False,4
+Hooksett,Merrimack,State Representative,24,R,McGahey,False,34
+Hooksett,Merrimack,State Representative,24,,Scatter,False,9
+Hooksett,Merrimack,State Representative,24,R,Smith,False,7
+Hooksett,Merrimack,State Representative,24,R,Walsh,False,10
+Andover,Merrimack,State Representative,25,R,Cummings,False,0
+Danbury,Merrimack,State Representative,25,R,Cummings,False,0
+Salisbury,Merrimack,State Representative,25,R,Cummings,False,0
+Warner,Merrimack,State Representative,25,R,Cummings,False,0
+Webster,Merrimack,State Representative,25,R,Cummings,False,0
+Andover,Merrimack,State Representative,25,D,"Karrick, Jr.",True,208
+Danbury,Merrimack,State Representative,25,D,"Karrick, Jr.",True,101
+Salisbury,Merrimack,State Representative,25,D,"Karrick, Jr.",True,90
+Warner,Merrimack,State Representative,25,D,"Karrick, Jr.",True,298
+Webster,Merrimack,State Representative,25,D,"Karrick, Jr.",True,146
+Andover,Merrimack,State Representative,25,,Scatter,False,0
+Danbury,Merrimack,State Representative,25,,Scatter,False,0
+Salisbury,Merrimack,State Representative,25,,Scatter,False,0
+Warner,Merrimack,State Representative,25,,Scatter,False,2
+Webster,Merrimack,State Representative,25,,Scatter,False,0
+Boscawen,Merrimack,State Representative,26,D,Carey,True,189
+Canterbury,Merrimack,State Representative,26,D,Carey,True,297
+Franklin,Merrimack,State Representative,26,D,Carey,True,145
+Loudon,Merrimack,State Representative,26,D,Carey,True,252
+Northfield,Merrimack,State Representative,26,D,Carey,True,208
+Boscawen,Merrimack,State Representative,26,R,Parent,False,0
+Canterbury,Merrimack,State Representative,26,R,Parent,False,0
+Franklin,Merrimack,State Representative,26,R,Parent,False,0
+Loudon,Merrimack,State Representative,26,R,Parent,False,0
+Northfield,Merrimack,State Representative,26,R,Parent,False,0
+Boscawen,Merrimack,State Representative,26,,Scatter,False,0
+Canterbury,Merrimack,State Representative,26,,Scatter,False,9
+Franklin,Merrimack,State Representative,26,,Scatter,False,0
+Loudon,Merrimack,State Representative,26,,Scatter,False,1
+Northfield,Merrimack,State Representative,26,,Scatter,False,0
+Concord,Merrimack,State Representative,27,D,Gile,True,1860
+Concord,Merrimack,State Representative,27,R,Noyes,False,4
+Concord,Merrimack,State Representative,27,D,Rice,True,1168
+Concord,Merrimack,State Representative,27,,Scatter,False,6
+Concord,Merrimack,State Representative,28,R,Jones,False,0
+Concord,Merrimack,State Representative,28,D,Rogers,True,1042
+Concord,Merrimack,State Representative,28,,Scatter,False,3
+Allenstown,Merrimack,State Representative,29,D,Heath,True,205
+Epsom,Merrimack,State Representative,29,D,Heath,True,224
+Pittsfield,Merrimack,State Representative,29,D,Heath,True,144
+Allenstown,Merrimack,State Representative,29,R,McGuire,False,1
+Epsom,Merrimack,State Representative,29,R,McGuire,False,0
+Pittsfield,Merrimack,State Representative,29,R,McGuire,False,0
+Allenstown,Merrimack,State Representative,29,,Scatter,False,0
+Epsom,Merrimack,State Representative,29,,Scatter,False,2
+Pittsfield,Merrimack,State Representative,29,,Scatter,False,0
+Northwood,Rockingham,State Representative,1,D,Edwards,True,262
+Northwood,Rockingham,State Representative,1,R,Hodgdon,False,0
+Northwood,Rockingham,State Representative,1,,Scatter,False,0
+Candia,Rockingham,State Representative,2,R,Danais,False,2
+Deerfield,Rockingham,State Representative,2,R,Danais,False,0
+Nottingham,Rockingham,State Representative,2,R,Danais,False,0
+Candia,Rockingham,State Representative,2,R,Duarte,False,0
+Deerfield,Rockingham,State Representative,2,R,Duarte,False,1
+Nottingham,Rockingham,State Representative,2,R,Duarte,False,0
+Candia,Rockingham,State Representative,2,D,Levesque,True,151
+Deerfield,Rockingham,State Representative,2,D,Levesque,True,212
+Nottingham,Rockingham,State Representative,2,D,Levesque,True,189
+Candia,Rockingham,State Representative,2,D,Mills,True,123
+Deerfield,Rockingham,State Representative,2,D,Mills,True,173
+Nottingham,Rockingham,State Representative,2,D,Mills,True,189
+Candia,Rockingham,State Representative,2,,Scatter,False,0
+Deerfield,Rockingham,State Representative,2,,Scatter,False,1
+Nottingham,Rockingham,State Representative,2,,Scatter,False,2
+Candia,Rockingham,State Representative,2,D,Snow,True,189
+Deerfield,Rockingham,State Representative,2,D,Snow,True,214
+Nottingham,Rockingham,State Representative,2,D,Snow,True,189
+Candia,Rockingham,State Representative,2,R,Tasker,False,0
+Deerfield,Rockingham,State Representative,2,R,Tasker,False,0
+Nottingham,Rockingham,State Representative,2,R,Tasker,False,0
+Raymond,Rockingham,State Representative,3,R,Bishop,False,18
+Raymond,Rockingham,State Representative,3,R,Hoelzel,False,4
+Raymond,Rockingham,State Representative,3,R,Kappler,False,9
+Raymond,Rockingham,State Representative,3,R,McClard,False,0
+Raymond,Rockingham,State Representative,3,,Scatter,False,58
+Raymond,Rockingham,State Representative,3,R,Scofield,False,2
+Auburn,Rockingham,State Representative,4,R,"Carrio, Sr.",False,0
+Chester,Rockingham,State Representative,4,R,"Carrio, Sr.",False,0
+Sandown,Rockingham,State Representative,4,R,"Carrio, Sr.",False,0
+Auburn,Rockingham,State Representative,4,R,Charron,False,0
+Chester,Rockingham,State Representative,4,R,Charron,False,11
+Sandown,Rockingham,State Representative,4,R,Charron,False,0
+Auburn,Rockingham,State Representative,4,R,Devine,False,0
+Chester,Rockingham,State Representative,4,R,Devine,False,0
+Sandown,Rockingham,State Representative,4,R,Devine,False,1
+Auburn,Rockingham,State Representative,4,R,Dumaine,False,0
+Chester,Rockingham,State Representative,4,R,Dumaine,False,0
+Sandown,Rockingham,State Representative,4,R,Dumaine,False,0
+Auburn,Rockingham,State Representative,4,R,Hagan,False,1
+Chester,Rockingham,State Representative,4,R,Hagan,False,0
+Sandown,Rockingham,State Representative,4,R,Hagan,False,1
+Auburn,Rockingham,State Representative,4,D,Lister,True,199
+Chester,Rockingham,State Representative,4,D,Lister,True,177
+Sandown,Rockingham,State Representative,4,D,Lister,True,175
+Auburn,Rockingham,State Representative,4,,Scatter,False,7
+Chester,Rockingham,State Representative,4,,Scatter,False,12
+Sandown,Rockingham,State Representative,4,,Scatter,False,6
+Auburn,Rockingham,State Representative,4,R,Tremblay,False,0
+Chester,Rockingham,State Representative,4,R,Tremblay,False,0
+Sandown,Rockingham,State Representative,4,R,Tremblay,False,0
+Auburn,Rockingham,State Representative,4,D,Upham-Torosian,True,212
+Chester,Rockingham,State Representative,4,D,Upham-Torosian,True,131
+Sandown,Rockingham,State Representative,4,D,Upham-Torosian,True,163
+Londonderry,Rockingham,State Representative,5,R,Baldasaro,False,6
+Londonderry,Rockingham,State Representative,5,D,Combes,True,773
+Londonderry,Rockingham,State Representative,5,D,Fairbrother,True,767
+Londonderry,Rockingham,State Representative,5,D,Merrill,True,772
+Londonderry,Rockingham,State Representative,5,R,Packard,False,3
+Londonderry,Rockingham,State Representative,5,R,Tamburello,False,3
+Londonderry,Rockingham,State Representative,5,D,Vermillion,True,761
+Londonderry,Rockingham,State Representative,5,D,Whittemore,True,877
+Londonderry,Rockingham,State Representative,5,R,"Emiro, Sr.",False,3
+Londonderry,Rockingham,State Representative,5,R,Fillio,False,1
+Londonderry,Rockingham,State Representative,5,R,Introne,False,5
+Londonderry,Rockingham,State Representative,5,R,Keegan-Hutchinson,False,3
+Londonderry,Rockingham,State Representative,5,R,Lundgren,False,5
+Londonderry,Rockingham,State Representative,5,R,Marron III,False,1
+Londonderry,Rockingham,State Representative,5,R,McKinney,False,3
+Londonderry,Rockingham,State Representative,5,,Scatter,False,50
+Derry,Rockingham,State Representative,6,D,Arancio,True,658
+Derry,Rockingham,State Representative,6,R,Bright,True,0
+Derry,Rockingham,State Representative,6,D,Burtis,True,746
+Derry,Rockingham,State Representative,6,D,Jones,True,693
+Derry,Rockingham,State Representative,6,R,Sapareto,True,0
+Derry,Rockingham,State Representative,6,R,Thompson,False,5
+Derry,Rockingham,State Representative,6,D,Till,True,762
+Derry,Rockingham,State Representative,6,R,Webb,True,0
+Derry,Rockingham,State Representative,6,R,Chirichiello,False,3
+Derry,Rockingham,State Representative,6,R,Desaulniers,False,0
+Derry,Rockingham,State Representative,6,R,Ferrante,False,4
+Derry,Rockingham,State Representative,6,R,Fesh,False,4
+Derry,Rockingham,State Representative,6,R,Milz,False,5
+Derry,Rockingham,State Representative,6,R,O'Connor,False,0
+Derry,Rockingham,State Representative,6,R,Reichard,False,0
+Derry,Rockingham,State Representative,6,,Scatter,False,80
+Windham,Rockingham,State Representative,7,R,Griffin,False,12
+Windham,Rockingham,State Representative,7,D,Keevan,True,309
+Windham,Rockingham,State Representative,7,R,Kolodziej,False,2
+Windham,Rockingham,State Representative,7,R,Mauro,False,2
+Windham,Rockingham,State Representative,7,R,McMahon,False,5
+Windham,Rockingham,State Representative,7,R,Samsel,True,4
+Windham,Rockingham,State Representative,7,D,St. Laurent,True,402
+Windham,Rockingham,State Representative,7,R,Waterhouse,True,2
+Windham,Rockingham,State Representative,7,D,Fallon,True,318
+Windham,Rockingham,State Representative,7,,Scatter,False,13
+Windham,Rockingham,State Representative,7,D,Webber,True,419
+Salem,Rockingham,State Representative,8,D,Brouse,False,642
+Salem,Rockingham,State Representative,8,D,Desmet,False,763
+Salem,Rockingham,State Representative,8,D,Featherston,False,653
+Salem,Rockingham,State Representative,8,D,Fee,False,675
+Salem,Rockingham,State Representative,8,D,Iannalfo,False,634
+Salem,Rockingham,State Representative,8,D,Lewis,False,650
+Salem,Rockingham,State Representative,8,D,Murphy,False,663
+Salem,Rockingham,State Representative,8,D,Murray,False,774
+Salem,Rockingham,State Representative,8,D,Stein,False,664
+Salem,Rockingham,State Representative,8,R,Azarian,False,7
+Salem,Rockingham,State Representative,8,R,Belanger,False,3
+Salem,Rockingham,State Representative,8,,Scatter,False,6
+Salem,Rockingham,State Representative,8,R,Sytek,False,3
+Epping,Rockingham,State Representative,9,D,Andrews,True,240
+Epping,Rockingham,State Representative,9,R,Antosz,False,0
+Epping,Rockingham,State Representative,9,,Barbara Helmsteter,False,56
+Epping,Rockingham,State Representative,9,R,Falagan,False,0
+Epping,Rockingham,State Representative,9,R,Harris,False,1
+Epping,Rockingham,State Representative,9,,Scatter,False,0
+Epping,Rockingham,State Representative,9,R,Webb,False,0
+Fremont,Rockingham,State Representative,10,D,Augevich,True,171
+Fremont,Rockingham,State Representative,10,R,Itse,False,0
+Fremont,Rockingham,State Representative,10,,Scatter,False,0
+Brentwood,Rockingham,State Representative,11,R,Grace,True,0
+Brentwood,Rockingham,State Representative,11,,Scatter,False,0
+Brentwood,Rockingham,State Representative,11,D,Wojnowski,True,265
+Danville,Rockingham,State Representative,12,D,Billbrough,True,161
+Danville,Rockingham,State Representative,12,R,Sanders,False,1
+Danville,Rockingham,State Representative,12,,Scatter,False,4
+Hampstead,Rockingham,State Representative,13,D,Moyer,True,248
+Kingston,Rockingham,State Representative,13,D,Moyer,True,184
+Hampstead,Rockingham,State Representative,13,D,Pynn,True,277
+Kingston,Rockingham,State Representative,13,D,Pynn,True,214
+Hampstead,Rockingham,State Representative,13,D,Stockwell,True,246
+Kingston,Rockingham,State Representative,13,D,Stockwell,True,186
+Hampstead,Rockingham,State Representative,13,D,Waters,True,244
+Kingston,Rockingham,State Representative,13,D,Waters,True,183
+Hampstead,Rockingham,State Representative,13,R,Birdsell,False,0
+Kingston,Rockingham,State Representative,13,R,Birdsell,False,0
+Hampstead,Rockingham,State Representative,13,,Scatter,False,2
+Kingston,Rockingham,State Representative,13,,Scatter,False,0
+Hampstead,Rockingham,State Representative,13,R,Sedensky,False,0
+Kingston,Rockingham,State Representative,13,R,Sedensky,False,0
+Hampstead,Rockingham,State Representative,13,R,St. James,False,0
+Kingston,Rockingham,State Representative,13,R,St. James,False,8
+Hampstead,Rockingham,State Representative,13,R,Welch,False,0
+Kingston,Rockingham,State Representative,13,R,Welch,False,3
+Hampstead,Rockingham,State Representative,13,R,Weyler,False,0
+Kingston,Rockingham,State Representative,13,R,Weyler,False,3
+Atkinson,Rockingham,State Representative,14,R,DeSimone,False,11
+Plaistow,Rockingham,State Representative,14,R,DeSimone,False,2
+Atkinson,Rockingham,State Representative,14,R,Friel,False,20
+Plaistow,Rockingham,State Representative,14,R,Friel,False,2
+Atkinson,Rockingham,State Representative,14,D,Galloway,True,307
+Plaistow,Rockingham,State Representative,14,D,Galloway,True,151
+Atkinson,Rockingham,State Representative,14,R,Hayes,False,2
+Plaistow,Rockingham,State Representative,14,R,Hayes,False,1
+Atkinson,Rockingham,State Representative,14,R,Major,False,9
+Plaistow,Rockingham,State Representative,14,R,Major,False,23
+Atkinson,Rockingham,State Representative,14,D,Sanders,True,226
+Plaistow,Rockingham,State Representative,14,D,Sanders,True,155
+Atkinson,Rockingham,State Representative,14,,Scatter,False,5
+Plaistow,Rockingham,State Representative,14,,Scatter,False,4
+Newton,Rockingham,State Representative,15,R,Allen,False,1
+Newton,Rockingham,State Representative,15,D,Bartlett,True,146
+Newton,Rockingham,State Representative,15,,Scatter,False,1
+East Kingston,Rockingham,State Representative,16,R,Nigrello,False,4
+Kensington,Rockingham,State Representative,16,R,Nigrello,False,0
+South Hampton,Rockingham,State Representative,16,R,Nigrello,False,0
+East Kingston,Rockingham,State Representative,16,R,Ritter,True,0
+Kensington,Rockingham,State Representative,16,R,Ritter,True,0
+South Hampton,Rockingham,State Representative,16,R,Ritter,True,0
+East Kingston,Rockingham,State Representative,16,,Scatter,False,104
+Kensington,Rockingham,State Representative,16,,Scatter,False,173
+South Hampton,Rockingham,State Representative,16,,Scatter,False,46
+East Kingston,Rockingham,State Representative,16,D,Webber,True,100
+Kensington,Rockingham,State Representative,16,D,Webber,True,173
+South Hampton,Rockingham,State Representative,16,D,Webber,True,46
+Newfields,Rockingham,State Representative,17,D,Cahill,True,94
+Newmarket,Rockingham,State Representative,17,D,Cahill,True,525
+Newfields,Rockingham,State Representative,17,D,Connery III,True,75
+Newmarket,Rockingham,State Representative,17,D,Connery III,True,448
+Newfields,Rockingham,State Representative,17,R,Davenport,False,0
+Newmarket,Rockingham,State Representative,17,R,Davenport,False,3
+Newfields,Rockingham,State Representative,17,D,Moody,True,131
+Newmarket,Rockingham,State Representative,17,D,Moody,True,669
+Newfields,Rockingham,State Representative,17,,Scatter,False,1
+Newmarket,Rockingham,State Representative,17,,Scatter,False,9
+Newfields,Rockingham,State Representative,17,R,Schroadter,False,0
+Newmarket,Rockingham,State Representative,17,R,Schroadter,False,4
+Exeter,Rockingham,State Representative,18,D,Briden,True,1189
+Exeter,Rockingham,State Representative,18,D,Flockhart,True,1348
+Exeter,Rockingham,State Representative,18,R,Grisiet,False,0
+Exeter,Rockingham,State Representative,18,R,Heffron,True,1218
+Exeter,Rockingham,State Representative,18,R,L. Quandt,False,4
+Exeter,Rockingham,State Representative,18,R,M. Quandt,False,3
+Exeter,Rockingham,State Representative,18,,Scatter,False,12
+Exeter,Rockingham,State Representative,18,D,Schlachman,True,1452
+Exeter,Rockingham,State Representative,18,R,Suprock,False,0
+Stratham,Rockingham,State Representative,19,R,Abrami,False,8
+Stratham,Rockingham,State Representative,19,R,Copeland,True,90
+Stratham,Rockingham,State Representative,19,D,Curtis,True,277
+Stratham,Rockingham,State Representative,19,D,Russell,True,492
+Stratham,Rockingham,State Representative,19,,Scatter,False,5
+Stratham,Rockingham,State Representative,19,R,Ward,False,3
+Hampton Falls,Rockingham,State Representative,20,R,A. Perkins,False,0
+Seabrook,Rockingham,State Representative,20,R,A. Perkins,False,0
+Hampton Falls,Rockingham,State Representative,20,R,Khan,False,0
+Seabrook,Rockingham,State Representative,20,R,Khan,False,0
+Hampton Falls,Rockingham,State Representative,20,R,L. Perkins,False,0
+Seabrook,Rockingham,State Representative,20,R,L. Perkins,False,0
+Hampton Falls,Rockingham,State Representative,20,,Scatter,False,15
+Seabrook,Rockingham,State Representative,20,,Scatter,False,27
+Hampton,Rockingham,State Representative,21,D,"Cushing, Jr.",True,811
+Hampton,Rockingham,State Representative,21,D,Desrosiers,True,777
+Hampton,Rockingham,State Representative,21,D,Edgar,True,750
+Hampton,Rockingham,State Representative,21,R,Emerick,False,1
+Hampton,Rockingham,State Representative,21,R,Korowski,False,0
+Hampton,Rockingham,State Representative,21,D,Muns,True,864
+Hampton,Rockingham,State Representative,21,R,Rice,False,3
+Hampton,Rockingham,State Representative,21,,Scatter,False,8
+Hampton,Rockingham,State Representative,21,R,Sheffert,False,1
+North Hampton,Rockingham,State Representative,22,D,Day,True,323
+North Hampton,Rockingham,State Representative,22,R,Peckham,False,0
+North Hampton,Rockingham,State Representative,22,,Scatter,False,0
+Greenland,Rockingham,State Representative,23,,Scatter,False,15
+Newington,Rockingham,State Representative,23,,Scatter,False,6
+Greenland,Rockingham,State Representative,23,R,Tucker,False,6
+Newington,Rockingham,State Representative,23,R,Tucker,False,0
+New Castle,Rockingham,State Representative,24,D,Borden,True,191
+Rye,Rockingham,State Representative,24,D,Borden,True,452
+New Castle,Rockingham,State Representative,24,,Scatter,False,2
+Rye,Rockingham,State Representative,24,,Scatter,False,1
+New Castle,Rockingham,State Representative,24,D,Sherman,True,135
+Rye,Rockingham,State Representative,24,D,Sherman,True,378
+New Castle,Rockingham,State Representative,24,R,Smith,False,0
+Rye,Rockingham,State Representative,24,R,Smith,False,1
+New Castle,Rockingham,State Representative,24,R,Tweedie,False,0
+Rye,Rockingham,State Representative,24,R,Tweedie,False,0
+Portsmouth,Rockingham,State Representative,25,D,Pantelakos,True,380
+Portsmouth,Rockingham,State Representative,25,R,Reilley,False,0
+Portsmouth,Rockingham,State Representative,25,,Scatter,False,2
+Portsmouth,Rockingham,State Representative,26,R,Brighton,False,0
+Portsmouth,Rockingham,State Representative,26,D,Norelli,True,502
+Portsmouth,Rockingham,State Representative,26,,Scatter,False,2
+Portsmouth,Rockingham,State Representative,27,D,Emerson-Brown,True,308
+Portsmouth,Rockingham,State Representative,27,,Scatter,False,3
+Portsmouth,Rockingham,State Representative,28,R,Foster,False,1
+Portsmouth,Rockingham,State Representative,28,,Scatter,False,0
+Portsmouth,Rockingham,State Representative,28,D,Ward,True,262
+Portsmouth,Rockingham,State Representative,29,R,Clough,False,0
+Portsmouth,Rockingham,State Representative,29,,Scatter,False,3
+Portsmouth,Rockingham,State Representative,29,D,Wazlaw,True,459
+Portsmouth,Rockingham,State Representative,30,D,Cali-Pitts,True,1015
+Portsmouth,Rockingham,State Representative,30,R,Doherty,False,1
+Portsmouth,Rockingham,State Representative,30,R,Kervick,False,4
+Portsmouth,Rockingham,State Representative,30,,Scatter,False,3
+Portsmouth,Rockingham,State Representative,30,D,Serlin,False,559
+Greenland,Rockingham,State Representative,31,R,Boyle,False,0
+Newington,Rockingham,State Representative,31,R,Boyle,False,0
+North Hampton,Rockingham,State Representative,31,R,Boyle,False,0
+Portsmouth,Rockingham,State Representative,31,R,Boyle,False,0
+Greenland,Rockingham,State Representative,31,,Joe Scarlotto,True,24
+Newington,Rockingham,State Representative,31,,Joe Scarlotto,True,2
+North Hampton,Rockingham,State Representative,31,,Joe Scarlotto,True,0
+Portsmouth,Rockingham,State Representative,31,,Joe Scarlotto,True,158
+Greenland,Rockingham,State Representative,31,R,Rolston,False,0
+Newington,Rockingham,State Representative,31,R,Rolston,False,0
+North Hampton,Rockingham,State Representative,31,R,Rolston,False,0
+Portsmouth,Rockingham,State Representative,31,R,Rolston,False,0
+Greenland,Rockingham,State Representative,31,,Scatter,False,10
+Newington,Rockingham,State Representative,31,,Scatter,False,3
+North Hampton,Rockingham,State Representative,31,,Scatter,False,0
+Portsmouth,Rockingham,State Representative,31,,Scatter,False,9
+Candia,Rockingham,State Representative,32,R,Cady,False,1
+Deerfield,Rockingham,State Representative,32,R,Cady,False,1
+Northwood,Rockingham,State Representative,32,R,Cady,False,0
+Nottingham,Rockingham,State Representative,32,R,Cady,False,0
+Candia,Rockingham,State Representative,32,R,Gorman,False,0
+Deerfield,Rockingham,State Representative,32,R,Gorman,False,0
+Northwood,Rockingham,State Representative,32,R,Gorman,False,0
+Nottingham,Rockingham,State Representative,32,R,Gorman,False,0
+Candia,Rockingham,State Representative,32,D,Mann,True,222
+Deerfield,Rockingham,State Representative,32,D,Mann,True,272
+Northwood,Rockingham,State Representative,32,D,Mann,True,257
+Nottingham,Rockingham,State Representative,32,D,Mann,True,258
+Candia,Rockingham,State Representative,32,,Scatter,False,1
+Deerfield,Rockingham,State Representative,32,,Scatter,False,0
+Northwood,Rockingham,State Representative,32,,Scatter,False,0
+Nottingham,Rockingham,State Representative,32,,Scatter,False,0
+Brentwood,Rockingham,State Representative,33,R,Comerford,False,0
+Danville,Rockingham,State Representative,33,R,Comerford,False,0
+Fremont,Rockingham,State Representative,33,R,Comerford,False,0
+Brentwood,Rockingham,State Representative,33,D,Manos,True,233
+Danville,Rockingham,State Representative,33,D,Manos,True,158
+Fremont,Rockingham,State Representative,33,D,Manos,True,144
+Brentwood,Rockingham,State Representative,33,,Scatter,False,0
+Danville,Rockingham,State Representative,33,,Scatter,False,2
+Fremont,Rockingham,State Representative,33,,Scatter,False,0
+Atkinson,Rockingham,State Representative,34,R,Alavosus,False,0
+Hampstead,Rockingham,State Representative,34,R,Alavosus,False,0
+Kingston,Rockingham,State Representative,34,R,Alavosus,False,0
+Plaistow,Rockingham,State Representative,34,R,Alavosus,False,0
+Atkinson,Rockingham,State Representative,34,D,Cheney,True,306
+Hampstead,Rockingham,State Representative,34,D,Cheney,True,308
+Kingston,Rockingham,State Representative,34,D,Cheney,True,230
+Plaistow,Rockingham,State Representative,34,D,Cheney,True,182
+Atkinson,Rockingham,State Representative,34,R,Cincotta,False,0
+Hampstead,Rockingham,State Representative,34,R,Cincotta,False,0
+Kingston,Rockingham,State Representative,34,R,Cincotta,False,0
+Plaistow,Rockingham,State Representative,34,R,Cincotta,False,0
+Atkinson,Rockingham,State Representative,34,R,Oligny,False,0
+Hampstead,Rockingham,State Representative,34,R,Oligny,False,0
+Kingston,Rockingham,State Representative,34,R,Oligny,False,0
+Plaistow,Rockingham,State Representative,34,R,Oligny,False,0
+Atkinson,Rockingham,State Representative,34,R,Sapienza,False,0
+Hampstead,Rockingham,State Representative,34,R,Sapienza,False,1
+Kingston,Rockingham,State Representative,34,R,Sapienza,False,0
+Plaistow,Rockingham,State Representative,34,R,Sapienza,False,0
+Atkinson,Rockingham,State Representative,34,,Scatter,False,7
+Hampstead,Rockingham,State Representative,34,,Scatter,False,0
+Kingston,Rockingham,State Representative,34,,Scatter,False,0
+Plaistow,Rockingham,State Representative,34,,Scatter,False,2
+East Kingston,Rockingham,State Representative,35,D,Casey,True,116
+Kensington,Rockingham,State Representative,35,D,Casey,True,169
+Newton,Rockingham,State Representative,35,D,Casey,True,146
+South Hampton,Rockingham,State Representative,35,D,Casey,True,44
+East Kingston,Rockingham,State Representative,35,R,Gordon,False,1
+Kensington,Rockingham,State Representative,35,R,Gordon,False,0
+Newton,Rockingham,State Representative,35,R,Gordon,False,2
+South Hampton,Rockingham,State Representative,35,R,Gordon,False,0
+East Kingston,Rockingham,State Representative,35,,Scatter,False,0
+Kensington,Rockingham,State Representative,35,,Scatter,False,2
+Newton,Rockingham,State Representative,35,,Scatter,False,1
+South Hampton,Rockingham,State Representative,35,,Scatter,False,0
+Exeter,Rockingham,State Representative,36,R,Goodman,False,1
+Newfields,Rockingham,State Representative,36,R,Goodman,False,0
+Newmarket,Rockingham,State Representative,36,R,Goodman,False,1
+Stratham,Rockingham,State Representative,36,R,Goodman,False,2
+Exeter,Rockingham,State Representative,36,D,Lovejoy,True,1440
+Newfields,Rockingham,State Representative,36,D,Lovejoy,True,155
+Newmarket,Rockingham,State Representative,36,D,Lovejoy,True,723
+Stratham,Rockingham,State Representative,36,D,Lovejoy,True,544
+Exeter,Rockingham,State Representative,36,,Scatter,False,2
+Newfields,Rockingham,State Representative,36,,Scatter,False,1
+Newmarket,Rockingham,State Representative,36,,Scatter,False,3
+Stratham,Rockingham,State Representative,36,,Scatter,False,4
+Hampton,Rockingham,State Representative,37,D,Ahearn,True,895
+Hampton Falls,Rockingham,State Representative,37,D,Ahearn,True,106
+Seabrook,Rockingham,State Representative,37,D,Ahearn,True,176
+Hampton,Rockingham,State Representative,37,R,Hurst,False,0
+Hampton Falls,Rockingham,State Representative,37,R,Hurst,False,0
+Seabrook,Rockingham,State Representative,37,R,Hurst,False,0
+Hampton,Rockingham,State Representative,37,,Scatter,False,0
+Hampton Falls,Rockingham,State Representative,37,,Scatter,False,0
+Seabrook,Rockingham,State Representative,37,,Scatter,False,0
+Middleton,Strafford,State Representative,1,D,Brown,True,44
+Milton,Strafford,State Representative,1,D,Brown,True,193
+Middleton,Strafford,State Representative,1,D,Cole-McCrea,True,31
+Milton,Strafford,State Representative,1,D,Cole-McCrea,True,149
+Middleton,Strafford,State Representative,1,D,Mattocks,False,41
+Milton,Strafford,State Representative,1,D,Mattocks,False,55
+Middleton,Strafford,State Representative,1,R,"Mullen, Jr.",False,1
+Milton,Strafford,State Representative,1,R,"Mullen, Jr.",False,4
+Middleton,Strafford,State Representative,1,R,Parsons,False,0
+Milton,Strafford,State Representative,1,R,Parsons,False,4
+Middleton,Strafford,State Representative,1,,Scatter,False,2
+Milton,Strafford,State Representative,1,,Scatter,False,1
+Farmington,Strafford,State Representative,2,D,Burke,True,218
+Farmington,Strafford,State Representative,2,R,Luciani,False,0
+Farmington,Strafford,State Representative,2,R,Pitre,False,0
+Farmington,Strafford,State Representative,2,,Scatter,False,1
+Farmington,Strafford,State Representative,2,D,Stanley,True,192
+New Durham,Strafford,State Representative,3,R,Bickford,False,1
+Strafford,Strafford,State Representative,3,R,Bickford,False,1
+New Durham,Strafford,State Representative,3,D,Cicirelli,True,98
+Strafford,Strafford,State Representative,3,D,Cicirelli,True,224
+New Durham,Strafford,State Representative,3,R,Kroepel,False,1
+Strafford,Strafford,State Representative,3,R,Kroepel,False,1
+New Durham,Strafford,State Representative,3,D,Perry,True,123
+Strafford,Strafford,State Representative,3,D,Perry,True,295
+New Durham,Strafford,State Representative,3,,Scatter,False,0
+Strafford,Strafford,State Representative,3,,Scatter,False,1
+New Durham,Strafford,State Representative,3,R,Wuelper,True,0
+Strafford,Strafford,State Representative,3,R,Wuelper,True,0
+Barrington,Strafford,State Representative,4,R,Boyd,False,0
+Barrington,Strafford,State Representative,4,D,Grossman,True,486
+Barrington,Strafford,State Representative,4,D,Malloy,True,561
+Barrington,Strafford,State Representative,4,R,O'Connor,False,1
+Barrington,Strafford,State Representative,4,,Scatter,False,4
+Lee,Strafford,State Representative,5,D,Kaen,True,474
+Lee,Strafford,State Representative,5,,Scatter,False,7
+Lee,Strafford,State Representative,5,R,Townsend,False,0
+Durham,Strafford,State Representative,6,R,Childs,False,1
+Madbury,Strafford,State Representative,6,R,Childs,False,0
+Durham,Strafford,State Representative,6,D,Ginsburg,True,684
+Madbury,Strafford,State Representative,6,D,Ginsburg,True,106
+Durham,Strafford,State Representative,6,D,Horrigan,True,679
+Madbury,Strafford,State Representative,6,D,Horrigan,True,111
+Durham,Strafford,State Representative,6,D,Roberts,False,626
+Madbury,Strafford,State Representative,6,D,Roberts,False,109
+Durham,Strafford,State Representative,6,,Scatter,False,5
+Madbury,Strafford,State Representative,6,,Scatter,False,2
+Durham,Strafford,State Representative,6,D,Smith,True,785
+Madbury,Strafford,State Representative,6,D,Smith,True,134
+Durham,Strafford,State Representative,6,D,Spang,True,791
+Madbury,Strafford,State Representative,6,D,Spang,True,147
+Durham,Strafford,State Representative,6,D,Wall,True,813
+Madbury,Strafford,State Representative,6,D,Wall,True,168
+Durham,Strafford,State Representative,6,R,Ziegra,False,2
+Madbury,Strafford,State Representative,6,R,Ziegra,False,0
+Rochester,Strafford,State Representative,7,R,Cory,False,1
+Rochester,Strafford,State Representative,7,R,Kaczynski,False,0
+Rochester,Strafford,State Representative,7,,Scatter,False,0
+Rochester,Strafford,State Representative,7,D,Stevens,True,263
+Rochester,Strafford,State Representative,8,D,Bourgeois,True,194
+Rochester,Strafford,State Representative,8,R,Gray,False,23
+Rochester,Strafford,State Representative,8,,Scatter,False,2
+Rochester,Strafford,State Representative,9,R,Beaudoin,False,2
+Rochester,Strafford,State Representative,9,D,Keans,True,257
+Rochester,Strafford,State Representative,9,,Scatter,False,3
+Rochester,Strafford,State Representative,10,R,Groen,False,3
+Rochester,Strafford,State Representative,10,,Scatter,False,12
+Rochester,Strafford,State Representative,11,R,DeLemus,False,1
+Rochester,Strafford,State Representative,11,D,Grassie,True,281
+Rochester,Strafford,State Representative,11,,Scatter,False,2
+Rochester,Strafford,State Representative,12,R,Hartley,False,0
+Rochester,Strafford,State Representative,12,D,Hubbard,True,234
+Rochester,Strafford,State Representative,12,,Scatter,False,0
+Dover,Strafford,State Representative,13,,Scatter,False,1
+Dover,Strafford,State Representative,13,D,Verschueren,True,289
+Dover,Strafford,State Representative,14,D,Baber,True,234
+Dover,Strafford,State Representative,14,,Scatter,False,0
+Dover,Strafford,State Representative,15,R,Coulp,False,0
+Dover,Strafford,State Representative,15,D,Gardner,True,340
+Dover,Strafford,State Representative,15,,Scatter,False,2
+Dover,Strafford,State Representative,16,D,Hooper,True,364
+Dover,Strafford,State Representative,16,,Scatter,False,4
+Dover,Strafford,State Representative,17,R,Andolina,False,0
+Somersworth,Strafford,State Representative,17,R,Andolina,False,0
+Dover,Strafford,State Representative,17,D,Bixby,True,349
+Somersworth,Strafford,State Representative,17,D,Bixby,True,101
+Dover,Strafford,State Representative,17,D,Burdwood,True,337
+Somersworth,Strafford,State Representative,17,D,Burdwood,True,92
+Dover,Strafford,State Representative,17,R,Castaldo,False,0
+Somersworth,Strafford,State Representative,17,R,Castaldo,False,0
+Dover,Strafford,State Representative,17,R,Fullerton,False,0
+Somersworth,Strafford,State Representative,17,R,Fullerton,False,0
+Dover,Strafford,State Representative,17,D,Ketel,True,313
+Somersworth,Strafford,State Representative,17,D,Ketel,True,88
+Dover,Strafford,State Representative,17,,Scatter,False,2
+Somersworth,Strafford,State Representative,17,,Scatter,False,0
+Dover,Strafford,State Representative,17,R,Weeden,False,2
+Somersworth,Strafford,State Representative,17,R,Weeden,False,2
+Rollinsford,Strafford,State Representative,18,D,Berube,True,132
+Somersworth,Strafford,State Representative,18,D,Berube,True,365
+Rollinsford,Strafford,State Representative,18,R,DuBois,False,2
+Somersworth,Strafford,State Representative,18,R,DuBois,False,3
+Rollinsford,Strafford,State Representative,18,R,Irwin,False,1
+Somersworth,Strafford,State Representative,18,R,Irwin,False,1
+Rollinsford,Strafford,State Representative,18,R,Munck,False,1
+Somersworth,Strafford,State Representative,18,R,Munck,False,0
+Rollinsford,Strafford,State Representative,18,D,Rollo,True,172
+Somersworth,Strafford,State Representative,18,D,Rollo,True,317
+Rollinsford,Strafford,State Representative,18,,Scatter,False,3
+Somersworth,Strafford,State Representative,18,,Scatter,False,6
+Rollinsford,Strafford,State Representative,18,D,Spainhower,True,132
+Somersworth,Strafford,State Representative,18,D,Spainhower,True,327
+Dover,Strafford,State Representative,19,D,Ryder,False,199
+Dover,Strafford,State Representative,19,,Scatter,False,0
+Dover,Strafford,State Representative,19,D,Schmidt,True,357
+Dover,Strafford,State Representative,20,R,Jennings,False,1
+Dover,Strafford,State Representative,20,D,Pelletier,True,379
+Dover,Strafford,State Representative,20,,Scatter,False,1
+Dover,Strafford,State Representative,20,D,Southworth,False,338
+Dover,Strafford,State Representative,21,R,Rhode,False,0
+Rollinsford,Strafford,State Representative,21,R,Rhode,False,2
+Somersworth,Strafford,State Representative,21,R,Rhode,False,0
+Dover,Strafford,State Representative,21,,Scatter,False,1
+Rollinsford,Strafford,State Representative,21,,Scatter,False,1
+Somersworth,Strafford,State Representative,21,,Scatter,False,5
+Dover,Strafford,State Representative,21,R,Schultz,False,0
+Rollinsford,Strafford,State Representative,21,R,Schultz,False,0
+Somersworth,Strafford,State Representative,21,R,Schultz,False,1
+Dover,Strafford,State Representative,21,R,"Spencer, Sr.",False,0
+Rollinsford,Strafford,State Representative,21,R,"Spencer, Sr.",False,0
+Somersworth,Strafford,State Representative,21,R,"Spencer, Sr.",False,0
+Dover,Strafford,State Representative,21,D,Ward,True,426
+Rollinsford,Strafford,State Representative,21,D,Ward,True,174
+Somersworth,Strafford,State Representative,21,D,Ward,True,541
+Rochester,Strafford,State Representative,22,R,Leonard,False,2
+Rochester,Strafford,State Representative,22,D,Rogers,True,490
+Rochester,Strafford,State Representative,22,,Scatter,False,7
+Rochester,Strafford,State Representative,23,R,Brown,False,2
+Rochester,Strafford,State Representative,23,D,Miller,True,461
+Rochester,Strafford,State Representative,23,R,Newton,False,1
+Rochester,Strafford,State Representative,23,,Scatter,False,6
+Rochester,Strafford,State Representative,24,R,Azouri,False,0
+Rochester,Strafford,State Representative,24,R,Jones,False,0
+Rochester,Strafford,State Representative,24,,Scatter,False,1
+Rochester,Strafford,State Representative,24,D,Stokes,True,470
+Barrington,Strafford,State Representative,25,D,Menear III,True,612
+Lee,Strafford,State Representative,25,D,Menear III,True,421
+Barrington,Strafford,State Representative,25,,Scatter,False,0
+Lee,Strafford,State Representative,25,,Scatter,False,3
+Barrington,Strafford,State Representative,25,R,Turcotte,False,1
+Lee,Strafford,State Representative,25,R,Turcotte,False,0
+Cornish,Sullivan,State Representative,1,R,Clifford,True,0
+Grantham,Sullivan,State Representative,1,R,Clifford,True,0
+Plainfield,Sullivan,State Representative,1,R,Clifford,True,0
+Springfield,Sullivan,State Representative,1,R,Clifford,True,0
+Cornish,Sullivan,State Representative,1,D,Lefebvre,True,122
+Grantham,Sullivan,State Representative,1,D,Lefebvre,True,232
+Plainfield,Sullivan,State Representative,1,D,Lefebvre,True,183
+Springfield,Sullivan,State Representative,1,D,Lefebvre,True,70
+Cornish,Sullivan,State Representative,1,,Scatter,False,0
+Grantham,Sullivan,State Representative,1,,Scatter,False,1
+Plainfield,Sullivan,State Representative,1,,Scatter,False,2
+Springfield,Sullivan,State Representative,1,,Scatter,False,0
+Cornish,Sullivan,State Representative,1,D,Schmidt,True,122
+Grantham,Sullivan,State Representative,1,D,Schmidt,True,294
+Plainfield,Sullivan,State Representative,1,D,Schmidt,True,198
+Springfield,Sullivan,State Representative,1,D,Schmidt,True,83
+Cornish,Sullivan,State Representative,1,R,Walker,True,0
+Grantham,Sullivan,State Representative,1,R,Walker,True,0
+Plainfield,Sullivan,State Representative,1,R,Walker,True,1
+Springfield,Sullivan,State Representative,1,R,Walker,True,0
+Cornish,Sullivan,State Representative,1,R,Ward,True,0
+Grantham,Sullivan,State Representative,1,R,Ward,True,0
+Plainfield,Sullivan,State Representative,1,R,Ward,True,1
+Springfield,Sullivan,State Representative,1,R,Ward,True,0
+Croydon,Sullivan,State Representative,2,R,Bowers,True,0
+Sunapee,Sullivan,State Representative,2,R,Bowers,True,0
+Croydon,Sullivan,State Representative,2,D,Gotting,True,27
+Sunapee,Sullivan,State Representative,2,D,Gotting,True,255
+Croydon,Sullivan,State Representative,2,,Scatter,False,1
+Sunapee,Sullivan,State Representative,2,,Scatter,False,4
+Claremont,Sullivan,State Representative,3,D,O'Hearne,True,139
+Claremont,Sullivan,State Representative,3,R,Picano,False,0
+Claremont,Sullivan,State Representative,3,,Scatter,False,3
+Claremont,Sullivan,State Representative,4,D,Donovan,True,256
+Claremont,Sullivan,State Representative,4,R,Lovett,False,2
+Claremont,Sullivan,State Representative,4,,Scatter,False,1
+Claremont,Sullivan,State Representative,5,D,Gagnon,True,216
+Claremont,Sullivan,State Representative,5,,Scatter,False,3
+Newport,Sullivan,State Representative,6,D,Franklin,True,172
+Unity,Sullivan,State Representative,6,D,Franklin,True,50
+Newport,Sullivan,State Representative,6,D,Irwin,True,253
+Unity,Sullivan,State Representative,6,D,Irwin,True,62
+Newport,Sullivan,State Representative,6,R,Rodeschin,True,1
+Unity,Sullivan,State Representative,6,R,Rodeschin,True,0
+Newport,Sullivan,State Representative,6,R,Rollins,True,1
+Unity,Sullivan,State Representative,6,R,Rollins,True,0
+Newport,Sullivan,State Representative,6,,Scatter,False,1
+Unity,Sullivan,State Representative,6,,Scatter,False,1
+Acworth,Sullivan,State Representative,7,D,Baird-Tormey,True,61
+Goshen,Sullivan,State Representative,7,D,Baird-Tormey,True,34
+Langdon,Sullivan,State Representative,7,D,Baird-Tormey,True,34
+Lempster,Sullivan,State Representative,7,D,Baird-Tormey,True,41
+Washington,Sullivan,State Representative,7,D,Baird-Tormey,True,46
+Acworth,Sullivan,State Representative,7,R,Grenier,False,2
+Goshen,Sullivan,State Representative,7,R,Grenier,False,4
+Langdon,Sullivan,State Representative,7,R,Grenier,False,0
+Lempster,Sullivan,State Representative,7,R,Grenier,False,12
+Washington,Sullivan,State Representative,7,R,Grenier,False,1
+Acworth,Sullivan,State Representative,7,,Scatter,False,0
+Goshen,Sullivan,State Representative,7,,Scatter,False,0
+Langdon,Sullivan,State Representative,7,,Scatter,False,0
+Lempster,Sullivan,State Representative,7,,Scatter,False,0
+Washington,Sullivan,State Representative,7,,Scatter,False,0
+Charlestown,Sullivan,State Representative,8,R,Laware,False,1
+Charlestown,Sullivan,State Representative,8,,Scatter,False,1
+Charlestown,Sullivan,State Representative,8,D,Sweeney,True,221
+Cornish,Sullivan,State Representative,9,R,Howard,False,0
+Croydon,Sullivan,State Representative,9,R,Howard,False,0
+Grantham,Sullivan,State Representative,9,R,Howard,False,1
+Newport,Sullivan,State Representative,9,R,Howard,False,0
+Plainfield,Sullivan,State Representative,9,R,Howard,False,0
+Springfield,Sullivan,State Representative,9,R,Howard,False,0
+Sunapee,Sullivan,State Representative,9,R,Howard,False,0
+Unity,Sullivan,State Representative,9,R,Howard,False,0
+Cornish,Sullivan,State Representative,9,,Scatter,False,0
+Croydon,Sullivan,State Representative,9,,Scatter,False,1
+Grantham,Sullivan,State Representative,9,,Scatter,False,0
+Newport,Sullivan,State Representative,9,,Scatter,False,0
+Plainfield,Sullivan,State Representative,9,,Scatter,False,1
+Springfield,Sullivan,State Representative,9,,Scatter,False,0
+Sunapee,Sullivan,State Representative,9,,Scatter,False,0
+Unity,Sullivan,State Representative,9,,Scatter,False,0
+Cornish,Sullivan,State Representative,9,D,Tanner,True,149
+Croydon,Sullivan,State Representative,9,D,Tanner,True,25
+Grantham,Sullivan,State Representative,9,D,Tanner,True,296
+Newport,Sullivan,State Representative,9,D,Tanner,True,261
+Plainfield,Sullivan,State Representative,9,D,Tanner,True,228
+Springfield,Sullivan,State Representative,9,D,Tanner,True,94
+Sunapee,Sullivan,State Representative,9,D,Tanner,True,235
+Unity,Sullivan,State Representative,9,D,Tanner,True,80
+Claremont,Sullivan,State Representative,10,D,Cloutier,False,614
+Claremont,Sullivan,State Representative,10,R,"LaCasse, Sr.",False,1
+Claremont,Sullivan,State Representative,10,,Scatter,False,3
+Acworth,Sullivan,State Representative,11,D,Boland,True,61
+Charlestown,Sullivan,State Representative,11,D,Boland,True,208
+Goshen,Sullivan,State Representative,11,D,Boland,True,35
+Langdon,Sullivan,State Representative,11,D,Boland,True,33
+Lempster,Sullivan,State Representative,11,D,Boland,True,40
+Washington,Sullivan,State Representative,11,D,Boland,True,48
+Acworth,Sullivan,State Representative,11,,Scatter,False,0
+Charlestown,Sullivan,State Representative,11,,Scatter,False,1
+Goshen,Sullivan,State Representative,11,,Scatter,False,1
+Langdon,Sullivan,State Representative,11,,Scatter,False,0
+Lempster,Sullivan,State Representative,11,,Scatter,False,1
+Washington,Sullivan,State Representative,11,,Scatter,False,0
+Acworth,Sullivan,State Representative,11,R,Smith,False,0
+Charlestown,Sullivan,State Representative,11,R,Smith,False,1
+Goshen,Sullivan,State Representative,11,R,Smith,False,1
+Langdon,Sullivan,State Representative,11,R,Smith,False,0
+Lempster,Sullivan,State Representative,11,R,Smith,False,3
+Washington,Sullivan,State Representative,11,R,Smith,False,1
