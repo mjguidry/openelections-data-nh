@@ -814,34 +814,34 @@ Richmond,Cheshire,State Senate,9,R,Hawkins,False,0
 Sharon,Hillsborough,State Senate,9,R,Hawkins,False,0
 Temple,Hillsborough,State Senate,9,R,Hawkins,False,0
 Troy,Cheshire,State Senate,9,R,Hawkins,False,0
-Bedford,Hillsborough,State Senate,9,R,Kenney,True,0
-Dublin,Cheshire,State Senate,9,R,Kenney,True,0
-Fitzwilliam,Cheshire,State Senate,9,R,Kenney,True,0
-Greenfield,Hillsborough,State Senate,9,R,Kenney,True,0
-Hancock,Hillsborough,State Senate,9,R,Kenney,True,0
-Jaffrey,Cheshire,State Senate,9,R,Kenney,True,0
-Lyndeborough,Hillsborough,State Senate,9,R,Kenney,True,0
-Mont Vernon,Hillsborough,State Senate,9,R,Kenney,True,0
-New Boston,Hillsborough,State Senate,9,R,Kenney,True,0
-Peterborough,Hillsborough,State Senate,9,R,Kenney,True,0
-Richmond,Cheshire,State Senate,9,R,Kenney,True,0
-Sharon,Hillsborough,State Senate,9,R,Kenney,True,0
-Temple,Hillsborough,State Senate,9,R,Kenney,True,0
-Troy,Cheshire,State Senate,9,R,Kenney,True,0
-Bedford,Hillsborough,State Senate,9,D,Nyquist,False,934
-Dublin,Cheshire,State Senate,9,D,Nyquist,False,179
-Fitzwilliam,Cheshire,State Senate,9,D,Nyquist,False,176
-Greenfield,Hillsborough,State Senate,9,D,Nyquist,False,124
-Hancock,Hillsborough,State Senate,9,D,Nyquist,False,293
-Jaffrey,Cheshire,State Senate,9,D,Nyquist,False,332
-Lyndeborough,Hillsborough,State Senate,9,D,Nyquist,False,97
-Mont Vernon,Hillsborough,State Senate,9,D,Nyquist,False,189
-New Boston,Hillsborough,State Senate,9,D,Nyquist,False,399
-Peterborough,Hillsborough,State Senate,9,D,Nyquist,False,724
-Richmond,Cheshire,State Senate,9,D,Nyquist,False,101
-Sharon,Hillsborough,State Senate,9,D,Nyquist,False,44
-Temple,Hillsborough,State Senate,9,D,Nyquist,False,128
-Troy,Cheshire,State Senate,9,D,Nyquist,False,98
+Bedford,Hillsborough,State Senate,9,R,Kenney,False,0
+Dublin,Cheshire,State Senate,9,R,Kenney,False,0
+Fitzwilliam,Cheshire,State Senate,9,R,Kenney,False,0
+Greenfield,Hillsborough,State Senate,9,R,Kenney,False,0
+Hancock,Hillsborough,State Senate,9,R,Kenney,False,0
+Jaffrey,Cheshire,State Senate,9,R,Kenney,False,0
+Lyndeborough,Hillsborough,State Senate,9,R,Kenney,False,0
+Mont Vernon,Hillsborough,State Senate,9,R,Kenney,False,0
+New Boston,Hillsborough,State Senate,9,R,Kenney,False,0
+Peterborough,Hillsborough,State Senate,9,R,Kenney,False,0
+Richmond,Cheshire,State Senate,9,R,Kenney,False,0
+Sharon,Hillsborough,State Senate,9,R,Kenney,False,0
+Temple,Hillsborough,State Senate,9,R,Kenney,False,0
+Troy,Cheshire,State Senate,9,R,Kenney,False,0
+Bedford,Hillsborough,State Senate,9,D,Nyquist,True,934
+Dublin,Cheshire,State Senate,9,D,Nyquist,True,179
+Fitzwilliam,Cheshire,State Senate,9,D,Nyquist,True,176
+Greenfield,Hillsborough,State Senate,9,D,Nyquist,True,124
+Hancock,Hillsborough,State Senate,9,D,Nyquist,True,293
+Jaffrey,Cheshire,State Senate,9,D,Nyquist,True,332
+Lyndeborough,Hillsborough,State Senate,9,D,Nyquist,True,97
+Mont Vernon,Hillsborough,State Senate,9,D,Nyquist,True,189
+New Boston,Hillsborough,State Senate,9,D,Nyquist,True,399
+Peterborough,Hillsborough,State Senate,9,D,Nyquist,True,724
+Richmond,Cheshire,State Senate,9,D,Nyquist,True,101
+Sharon,Hillsborough,State Senate,9,D,Nyquist,True,44
+Temple,Hillsborough,State Senate,9,D,Nyquist,True,128
+Troy,Cheshire,State Senate,9,D,Nyquist,True,98
 Bedford,Hillsborough,State Senate,9,R,Sanborn,False,1
 Dublin,Cheshire,State Senate,9,R,Sanborn,False,0
 Fitzwilliam,Cheshire,State Senate,9,R,Sanborn,False,0
@@ -923,10 +923,10 @@ Amherst,Hillsborough,State Senate,11,,Dokmo ,False,48
 Merrimack,Hillsborough,State Senate,11,,Dokmo ,False,0
 Milford,Hillsborough,State Senate,11,,Dokmo ,False,0
 Wilton,Hillsborough,State Senate,11,,Dokmo ,False,0
-Amherst,Hillsborough,State Senate,11,,Dyke ,True,91
-Merrimack,Hillsborough,State Senate,11,,Dyke ,True,52
-Milford,Hillsborough,State Senate,11,,Dyke ,True,35
-Wilton,Hillsborough,State Senate,11,,Dyke ,True,28
+Amherst,Hillsborough,State Senate,11,,Dyke ,False,91
+Merrimack,Hillsborough,State Senate,11,,Dyke ,False,52
+Milford,Hillsborough,State Senate,11,,Dyke ,False,35
+Wilton,Hillsborough,State Senate,11,,Dyke ,False,28
 Amherst,Hillsborough,State Senate,11,,Scatter,False,38
 Merrimack,Hillsborough,State Senate,11,,Scatter,False,23
 Milford,Hillsborough,State Senate,11,,Scatter,False,7

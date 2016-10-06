@@ -30,6 +30,7 @@ county_dict=pickle.load(f)
 f.close()
 
 results_dict=dict()
+seats_tracker=dict()
 
 import csv
 csvfile=open(rep_dir+'/20120911__nh__democratic__primary__state__house__town.csv','wb')
@@ -69,12 +70,15 @@ for url in urls:
                     value=ws.cell(row,col).value
                     if('Dist' in value):
                         district=re.search('[0-9]+(?=\s+\()',value).group(0)
-                        print district
+                        num_seats=re.search('(?<=\()[0-9]+(?=\))',value).group(0)
+                        #print district, num_seats
                         results_dict[district]=dict()
+                        seats_tracker[district]=num_seats
                     elif('Dover Ward 15' in value):
                         district='15'
-                        print district
+                        #print district, 1
                         results_dict[district]=dict()
+                        seats_tracker[district]=num_seats
                     elif('Scatter' in value or 'Scattter' in value):
                         candidate_dict['Scatter']=dict()
                         candidate_dict['Scatter']['Party']=''
@@ -181,7 +185,7 @@ for url in urls:
                     if(candidate in candidate_dict):
                         fmt=wb.xf_list[ws.cell_xf_index(row,col)]
                         bold=wb.font_list[fmt.font_index].bold
-                        if(bold==1 and candidate!='Scatter'):
+                        if(bold==1 and candidate!='Scatter' and candidate_dict[candidate]['Party']=='D'):
                             candidate_dict[candidate]['Winner']=True
                         else:
                             candidate_dict[candidate]['Winner']=False

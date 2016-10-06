@@ -161,13 +161,14 @@ for url in urls:
                     results_dict[district][town]['county']=county_dict[town]
                 
                 totals=[ws.cell(row,col).value for col in range(1,len(candidate_dict)+1)]
-                totals=[x if x!='' else 0 for x in totals]
+                totals=[x if (x!='' and not str(x).isspace()) else 0 for x in totals]
                 winning_total=max(totals)
                 winning_col=[col for col in range(1,len(candidate_dict)+1)
                              if ws.cell(row,col).value==winning_total][0]
+                print district, winning_col            
                 for col in cols_dict:
                     candidate=cols_dict[col]
-                    if(col==winning_col):
+                    if(col==winning_col and candidate_dict[candidate]['Party']=='D'):
                         candidate_dict[candidate]['Winner']=True
                     else:
                         candidate_dict[candidate]['Winner']=False
