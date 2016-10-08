@@ -1,0 +1,929 @@
+town,county,office,district,party,candidate,winner,votes
+At. & Gil. Academy Grant,Coos,State Senate,1,R,Dumaine,False,0
+Bath,Grafton,State Senate,1,R,Dumaine,False,34
+Bean's Grant,Coos,State Senate,1,R,Dumaine,False,0
+Bean's Purchase,Coos,State Senate,1,R,Dumaine,False,0
+Benton,Grafton,State Senate,1,R,Dumaine,False,10
+Berlin,Coos,State Senate,1,R,Dumaine,False,188
+Bethlehem,Grafton,State Senate,1,R,Dumaine,False,72
+Cambridge,Coos,State Senate,1,R,Dumaine,False,1
+Carroll,Coos,State Senate,1,R,Dumaine,False,26
+Chandler's Purchase,Coos,State Senate,1,R,Dumaine,False,0
+Clarksville,Coos,State Senate,1,R,Dumaine,False,19
+Colebrook,Coos,State Senate,1,R,Dumaine,False,141
+Columbia,Coos,State Senate,1,R,Dumaine,False,49
+Crawford's Purchase,Coos,State Senate,1,R,Dumaine,False,0
+Cutt's Grant,Coos,State Senate,1,R,Dumaine,False,0
+Dalton,Coos,State Senate,1,R,Dumaine,False,28
+Dix's Grant,Coos,State Senate,1,R,Dumaine,False,0
+Dixville,Coos,State Senate,1,R,Dumaine,False,2
+Dummer,Coos,State Senate,1,R,Dumaine,False,10
+Easton,Grafton,State Senate,1,R,Dumaine,False,3
+Errol,Coos,State Senate,1,R,Dumaine,False,15
+Erving's Location,Coos,State Senate,1,R,Dumaine,False,0
+Franconia,Grafton,State Senate,1,R,Dumaine,False,34
+Gorham,Coos,State Senate,1,R,Dumaine,False,70
+Green's Grant,Coos,State Senate,1,R,Dumaine,False,0
+Hadley's Purchase,Coos,State Senate,1,R,Dumaine,False,0
+Jefferson,Coos,State Senate,1,R,Dumaine,False,35
+Kilkenny,Coos,State Senate,1,R,Dumaine,False,0
+Lancaster,Coos,State Senate,1,R,Dumaine,False,139
+Landaff,Grafton,State Senate,1,R,Dumaine,False,8
+Lincoln,Grafton,State Senate,1,R,Dumaine,False,21
+Lisbon,Grafton,State Senate,1,R,Dumaine,False,36
+Littleton,Grafton,State Senate,1,R,Dumaine,False,167
+Livermore,Grafton,State Senate,1,R,Dumaine,False,0
+Low & Burbank's Grant,Coos,State Senate,1,R,Dumaine,False,0
+Lyman,Grafton,State Senate,1,R,Dumaine,False,15
+Martin's Location,Coos,State Senate,1,R,Dumaine,False,0
+Milan,Coos,State Senate,1,R,Dumaine,False,83
+Millsfield,Coos,State Senate,1,R,Dumaine,False,8
+Monroe,Grafton,State Senate,1,R,Dumaine,False,27
+Northumberland,Coos,State Senate,1,R,Dumaine,False,54
+Odell,Coos,State Senate,1,R,Dumaine,False,0
+Pinkham's Grant,Coos,State Senate,1,R,Dumaine,False,0
+Pittsburg,Coos,State Senate,1,R,Dumaine,False,76
+Randolph,Coos,State Senate,1,R,Dumaine,False,19
+Sargent's Purchase,Coos,State Senate,1,R,Dumaine,False,0
+Second College Grant,Coos,State Senate,1,R,Dumaine,False,0
+Shelburne,Coos,State Senate,1,R,Dumaine,False,15
+Stark,Coos,State Senate,1,R,Dumaine,False,25
+Stewartstown,Coos,State Senate,1,R,Dumaine,False,39
+Stratford,Coos,State Senate,1,R,Dumaine,False,13
+Success,Coos,State Senate,1,R,Dumaine,False,0
+Sugar Hill,Grafton,State Senate,1,R,Dumaine,False,14
+Thompson & Meserve's Pur.,Coos,State Senate,1,R,Dumaine,False,0
+Thornton,Grafton,State Senate,1,R,Dumaine,False,56
+Wentworth's Location,Coos,State Senate,1,R,Dumaine,False,1
+Whitefield,Coos,State Senate,1,R,Dumaine,False,34
+Woodstock,Grafton,State Senate,1,R,Dumaine,False,45
+At. & Gil. Academy Grant,Coos,State Senate,1,,Scatter,False,0
+Bath,Grafton,State Senate,1,,Scatter,False,0
+Bean's Grant,Coos,State Senate,1,,Scatter,False,0
+Bean's Purchase,Coos,State Senate,1,,Scatter,False,0
+Benton,Grafton,State Senate,1,,Scatter,False,0
+Berlin,Coos,State Senate,1,,Scatter,False,15
+Bethlehem,Grafton,State Senate,1,,Scatter,False,0
+Cambridge,Coos,State Senate,1,,Scatter,False,0
+Carroll,Coos,State Senate,1,,Scatter,False,0
+Chandler's Purchase,Coos,State Senate,1,,Scatter,False,0
+Clarksville,Coos,State Senate,1,,Scatter,False,0
+Colebrook,Coos,State Senate,1,,Scatter,False,2
+Columbia,Coos,State Senate,1,,Scatter,False,0
+Crawford's Purchase,Coos,State Senate,1,,Scatter,False,0
+Cutt's Grant,Coos,State Senate,1,,Scatter,False,0
+Dalton,Coos,State Senate,1,,Scatter,False,0
+Dix's Grant,Coos,State Senate,1,,Scatter,False,0
+Dixville,Coos,State Senate,1,,Scatter,False,0
+Dummer,Coos,State Senate,1,,Scatter,False,0
+Easton,Grafton,State Senate,1,,Scatter,False,0
+Errol,Coos,State Senate,1,,Scatter,False,0
+Erving's Location,Coos,State Senate,1,,Scatter,False,0
+Franconia,Grafton,State Senate,1,,Scatter,False,0
+Gorham,Coos,State Senate,1,,Scatter,False,0
+Green's Grant,Coos,State Senate,1,,Scatter,False,0
+Hadley's Purchase,Coos,State Senate,1,,Scatter,False,0
+Jefferson,Coos,State Senate,1,,Scatter,False,1
+Kilkenny,Coos,State Senate,1,,Scatter,False,0
+Lancaster,Coos,State Senate,1,,Scatter,False,6
+Landaff,Grafton,State Senate,1,,Scatter,False,1
+Lincoln,Grafton,State Senate,1,,Scatter,False,1
+Lisbon,Grafton,State Senate,1,,Scatter,False,0
+Littleton,Grafton,State Senate,1,,Scatter,False,0
+Livermore,Grafton,State Senate,1,,Scatter,False,0
+Low & Burbank's Grant,Coos,State Senate,1,,Scatter,False,0
+Lyman,Grafton,State Senate,1,,Scatter,False,1
+Martin's Location,Coos,State Senate,1,,Scatter,False,0
+Milan,Coos,State Senate,1,,Scatter,False,0
+Millsfield,Coos,State Senate,1,,Scatter,False,0
+Monroe,Grafton,State Senate,1,,Scatter,False,0
+Northumberland,Coos,State Senate,1,,Scatter,False,0
+Odell,Coos,State Senate,1,,Scatter,False,0
+Pinkham's Grant,Coos,State Senate,1,,Scatter,False,0
+Pittsburg,Coos,State Senate,1,,Scatter,False,0
+Randolph,Coos,State Senate,1,,Scatter,False,0
+Sargent's Purchase,Coos,State Senate,1,,Scatter,False,0
+Second College Grant,Coos,State Senate,1,,Scatter,False,0
+Shelburne,Coos,State Senate,1,,Scatter,False,0
+Stark,Coos,State Senate,1,,Scatter,False,0
+Stewartstown,Coos,State Senate,1,,Scatter,False,1
+Stratford,Coos,State Senate,1,,Scatter,False,0
+Success,Coos,State Senate,1,,Scatter,False,0
+Sugar Hill,Grafton,State Senate,1,,Scatter,False,0
+Thompson & Meserve's Pur.,Coos,State Senate,1,,Scatter,False,0
+Thornton,Grafton,State Senate,1,,Scatter,False,2
+Wentworth's Location,Coos,State Senate,1,,Scatter,False,0
+Whitefield,Coos,State Senate,1,,Scatter,False,1
+Woodstock,Grafton,State Senate,1,,Scatter,False,0
+At. & Gil. Academy Grant,Coos,State Senate,1,R,Warner,True,0
+Bath,Grafton,State Senate,1,R,Warner,True,79
+Bean's Grant,Coos,State Senate,1,R,Warner,True,0
+Bean's Purchase,Coos,State Senate,1,R,Warner,True,0
+Benton,Grafton,State Senate,1,R,Warner,True,27
+Berlin,Coos,State Senate,1,R,Warner,True,276
+Bethlehem,Grafton,State Senate,1,R,Warner,True,91
+Cambridge,Coos,State Senate,1,R,Warner,True,1
+Carroll,Coos,State Senate,1,R,Warner,True,36
+Chandler's Purchase,Coos,State Senate,1,R,Warner,True,0
+Clarksville,Coos,State Senate,1,R,Warner,True,26
+Colebrook,Coos,State Senate,1,R,Warner,True,112
+Columbia,Coos,State Senate,1,R,Warner,True,28
+Crawford's Purchase,Coos,State Senate,1,R,Warner,True,0
+Cutt's Grant,Coos,State Senate,1,R,Warner,True,0
+Dalton,Coos,State Senate,1,R,Warner,True,69
+Dix's Grant,Coos,State Senate,1,R,Warner,True,0
+Dixville,Coos,State Senate,1,R,Warner,True,4
+Dummer,Coos,State Senate,1,R,Warner,True,26
+Easton,Grafton,State Senate,1,R,Warner,True,30
+Errol,Coos,State Senate,1,R,Warner,True,36
+Erving's Location,Coos,State Senate,1,R,Warner,True,0
+Franconia,Grafton,State Senate,1,R,Warner,True,97
+Gorham,Coos,State Senate,1,R,Warner,True,124
+Green's Grant,Coos,State Senate,1,R,Warner,True,0
+Hadley's Purchase,Coos,State Senate,1,R,Warner,True,0
+Jefferson,Coos,State Senate,1,R,Warner,True,114
+Kilkenny,Coos,State Senate,1,R,Warner,True,0
+Lancaster,Coos,State Senate,1,R,Warner,True,201
+Landaff,Grafton,State Senate,1,R,Warner,True,26
+Lincoln,Grafton,State Senate,1,R,Warner,True,70
+Lisbon,Grafton,State Senate,1,R,Warner,True,55
+Littleton,Grafton,State Senate,1,R,Warner,True,315
+Livermore,Grafton,State Senate,1,R,Warner,True,0
+Low & Burbank's Grant,Coos,State Senate,1,R,Warner,True,0
+Lyman,Grafton,State Senate,1,R,Warner,True,27
+Martin's Location,Coos,State Senate,1,R,Warner,True,0
+Milan,Coos,State Senate,1,R,Warner,True,82
+Millsfield,Coos,State Senate,1,R,Warner,True,5
+Monroe,Grafton,State Senate,1,R,Warner,True,74
+Northumberland,Coos,State Senate,1,R,Warner,True,84
+Odell,Coos,State Senate,1,R,Warner,True,0
+Pinkham's Grant,Coos,State Senate,1,R,Warner,True,0
+Pittsburg,Coos,State Senate,1,R,Warner,True,79
+Randolph,Coos,State Senate,1,R,Warner,True,22
+Sargent's Purchase,Coos,State Senate,1,R,Warner,True,0
+Second College Grant,Coos,State Senate,1,R,Warner,True,0
+Shelburne,Coos,State Senate,1,R,Warner,True,36
+Stark,Coos,State Senate,1,R,Warner,True,20
+Stewartstown,Coos,State Senate,1,R,Warner,True,42
+Stratford,Coos,State Senate,1,R,Warner,True,18
+Success,Coos,State Senate,1,R,Warner,True,0
+Sugar Hill,Grafton,State Senate,1,R,Warner,True,52
+Thompson & Meserve's Pur.,Coos,State Senate,1,R,Warner,True,0
+Thornton,Grafton,State Senate,1,R,Warner,True,111
+Wentworth's Location,Coos,State Senate,1,R,Warner,True,0
+Whitefield,Coos,State Senate,1,R,Warner,True,143
+Woodstock,Grafton,State Senate,1,R,Warner,True,53
+At. & Gil. Academy Grant,Coos,State Senate,1,D,Woodburn,False,0
+Bath,Grafton,State Senate,1,D,Woodburn,False,0
+Bean's Grant,Coos,State Senate,1,D,Woodburn,False,0
+Bean's Purchase,Coos,State Senate,1,D,Woodburn,False,0
+Benton,Grafton,State Senate,1,D,Woodburn,False,0
+Berlin,Coos,State Senate,1,D,Woodburn,False,2
+Bethlehem,Grafton,State Senate,1,D,Woodburn,False,1
+Cambridge,Coos,State Senate,1,D,Woodburn,False,0
+Carroll,Coos,State Senate,1,D,Woodburn,False,0
+Chandler's Purchase,Coos,State Senate,1,D,Woodburn,False,0
+Clarksville,Coos,State Senate,1,D,Woodburn,False,0
+Colebrook,Coos,State Senate,1,D,Woodburn,False,2
+Columbia,Coos,State Senate,1,D,Woodburn,False,1
+Crawford's Purchase,Coos,State Senate,1,D,Woodburn,False,0
+Cutt's Grant,Coos,State Senate,1,D,Woodburn,False,0
+Dalton,Coos,State Senate,1,D,Woodburn,False,1
+Dix's Grant,Coos,State Senate,1,D,Woodburn,False,0
+Dixville,Coos,State Senate,1,D,Woodburn,False,0
+Dummer,Coos,State Senate,1,D,Woodburn,False,0
+Easton,Grafton,State Senate,1,D,Woodburn,False,0
+Errol,Coos,State Senate,1,D,Woodburn,False,0
+Erving's Location,Coos,State Senate,1,D,Woodburn,False,0
+Franconia,Grafton,State Senate,1,D,Woodburn,False,0
+Gorham,Coos,State Senate,1,D,Woodburn,False,2
+Green's Grant,Coos,State Senate,1,D,Woodburn,False,0
+Hadley's Purchase,Coos,State Senate,1,D,Woodburn,False,0
+Jefferson,Coos,State Senate,1,D,Woodburn,False,4
+Kilkenny,Coos,State Senate,1,D,Woodburn,False,0
+Lancaster,Coos,State Senate,1,D,Woodburn,False,6
+Landaff,Grafton,State Senate,1,D,Woodburn,False,0
+Lincoln,Grafton,State Senate,1,D,Woodburn,False,0
+Lisbon,Grafton,State Senate,1,D,Woodburn,False,0
+Littleton,Grafton,State Senate,1,D,Woodburn,False,0
+Livermore,Grafton,State Senate,1,D,Woodburn,False,0
+Low & Burbank's Grant,Coos,State Senate,1,D,Woodburn,False,0
+Lyman,Grafton,State Senate,1,D,Woodburn,False,0
+Martin's Location,Coos,State Senate,1,D,Woodburn,False,0
+Milan,Coos,State Senate,1,D,Woodburn,False,1
+Millsfield,Coos,State Senate,1,D,Woodburn,False,0
+Monroe,Grafton,State Senate,1,D,Woodburn,False,0
+Northumberland,Coos,State Senate,1,D,Woodburn,False,1
+Odell,Coos,State Senate,1,D,Woodburn,False,0
+Pinkham's Grant,Coos,State Senate,1,D,Woodburn,False,0
+Pittsburg,Coos,State Senate,1,D,Woodburn,False,2
+Randolph,Coos,State Senate,1,D,Woodburn,False,0
+Sargent's Purchase,Coos,State Senate,1,D,Woodburn,False,0
+Second College Grant,Coos,State Senate,1,D,Woodburn,False,0
+Shelburne,Coos,State Senate,1,D,Woodburn,False,0
+Stark,Coos,State Senate,1,D,Woodburn,False,1
+Stewartstown,Coos,State Senate,1,D,Woodburn,False,1
+Stratford,Coos,State Senate,1,D,Woodburn,False,0
+Success,Coos,State Senate,1,D,Woodburn,False,0
+Sugar Hill,Grafton,State Senate,1,D,Woodburn,False,0
+Thompson & Meserve's Pur.,Coos,State Senate,1,D,Woodburn,False,0
+Thornton,Grafton,State Senate,1,D,Woodburn,False,3
+Wentworth's Location,Coos,State Senate,1,D,Woodburn,False,0
+Whitefield,Coos,State Senate,1,D,Woodburn,False,0
+Woodstock,Grafton,State Senate,1,D,Woodburn,False,0
+Alexandria,Grafton,State Senate,2,R,Forrester,True,152
+Ashland,Grafton,State Senate,2,R,Forrester,True,183
+Bridgewater,Grafton,State Senate,2,R,Forrester,True,93
+Bristol,Grafton,State Senate,2,R,Forrester,True,260
+Campton,Grafton,State Senate,2,R,Forrester,True,235
+Center Harbor,Belknap,State Senate,2,R,Forrester,True,163
+Danbury,Merrimack,State Senate,2,R,Forrester,True,103
+Dorchester,Grafton,State Senate,2,R,Forrester,True,40
+Ellsworth,Grafton,State Senate,2,R,Forrester,True,11
+Grafton,Grafton,State Senate,2,R,Forrester,True,88
+Groton,Grafton,State Senate,2,R,Forrester,True,64
+Haverhill,Grafton,State Senate,2,R,Forrester,True,393
+Hebron,Grafton,State Senate,2,R,Forrester,True,91
+Hill,Merrimack,State Senate,2,R,Forrester,True,103
+Holderness,Grafton,State Senate,2,R,Forrester,True,221
+Meredith,Belknap,State Senate,2,R,Forrester,True,765
+New Hampton,Belknap,State Senate,2,R,Forrester,True,229
+Orange,Grafton,State Senate,2,R,Forrester,True,22
+Orford,Grafton,State Senate,2,R,Forrester,True,108
+Piermont,Grafton,State Senate,2,R,Forrester,True,56
+Plymouth,Grafton,State Senate,2,R,Forrester,True,252
+Rumney,Grafton,State Senate,2,R,Forrester,True,171
+Sanbornton,Belknap,State Senate,2,R,Forrester,True,281
+Tilton,Belknap,State Senate,2,R,Forrester,True,251
+Warren,Grafton,State Senate,2,R,Forrester,True,92
+Wentworth,Grafton,State Senate,2,R,Forrester,True,108
+Wilmot,Merrimack,State Senate,2,R,Forrester,True,148
+Alexandria,Grafton,State Senate,2,D,"Lamb, Jr.",False,2
+Ashland,Grafton,State Senate,2,D,"Lamb, Jr.",False,0
+Bridgewater,Grafton,State Senate,2,D,"Lamb, Jr.",False,0
+Bristol,Grafton,State Senate,2,D,"Lamb, Jr.",False,0
+Campton,Grafton,State Senate,2,D,"Lamb, Jr.",False,3
+Center Harbor,Belknap,State Senate,2,D,"Lamb, Jr.",False,0
+Danbury,Merrimack,State Senate,2,D,"Lamb, Jr.",False,0
+Dorchester,Grafton,State Senate,2,D,"Lamb, Jr.",False,0
+Ellsworth,Grafton,State Senate,2,D,"Lamb, Jr.",False,0
+Grafton,Grafton,State Senate,2,D,"Lamb, Jr.",False,1
+Groton,Grafton,State Senate,2,D,"Lamb, Jr.",False,0
+Haverhill,Grafton,State Senate,2,D,"Lamb, Jr.",False,2
+Hebron,Grafton,State Senate,2,D,"Lamb, Jr.",False,0
+Hill,Merrimack,State Senate,2,D,"Lamb, Jr.",False,0
+Holderness,Grafton,State Senate,2,D,"Lamb, Jr.",False,4
+Meredith,Belknap,State Senate,2,D,"Lamb, Jr.",False,0
+New Hampton,Belknap,State Senate,2,D,"Lamb, Jr.",False,0
+Orange,Grafton,State Senate,2,D,"Lamb, Jr.",False,0
+Orford,Grafton,State Senate,2,D,"Lamb, Jr.",False,0
+Piermont,Grafton,State Senate,2,D,"Lamb, Jr.",False,0
+Plymouth,Grafton,State Senate,2,D,"Lamb, Jr.",False,4
+Rumney,Grafton,State Senate,2,D,"Lamb, Jr.",False,2
+Sanbornton,Belknap,State Senate,2,D,"Lamb, Jr.",False,1
+Tilton,Belknap,State Senate,2,D,"Lamb, Jr.",False,1
+Warren,Grafton,State Senate,2,D,"Lamb, Jr.",False,0
+Wentworth,Grafton,State Senate,2,D,"Lamb, Jr.",False,1
+Wilmot,Merrimack,State Senate,2,D,"Lamb, Jr.",False,0
+Alexandria,Grafton,State Senate,2,,Scatter,False,3
+Ashland,Grafton,State Senate,2,,Scatter,False,3
+Bridgewater,Grafton,State Senate,2,,Scatter,False,0
+Bristol,Grafton,State Senate,2,,Scatter,False,1
+Campton,Grafton,State Senate,2,,Scatter,False,4
+Center Harbor,Belknap,State Senate,2,,Scatter,False,0
+Danbury,Merrimack,State Senate,2,,Scatter,False,0
+Dorchester,Grafton,State Senate,2,,Scatter,False,0
+Ellsworth,Grafton,State Senate,2,,Scatter,False,0
+Grafton,Grafton,State Senate,2,,Scatter,False,3
+Groton,Grafton,State Senate,2,,Scatter,False,1
+Haverhill,Grafton,State Senate,2,,Scatter,False,1
+Hebron,Grafton,State Senate,2,,Scatter,False,0
+Hill,Merrimack,State Senate,2,,Scatter,False,0
+Holderness,Grafton,State Senate,2,,Scatter,False,1
+Meredith,Belknap,State Senate,2,,Scatter,False,7
+New Hampton,Belknap,State Senate,2,,Scatter,False,4
+Orange,Grafton,State Senate,2,,Scatter,False,0
+Orford,Grafton,State Senate,2,,Scatter,False,0
+Piermont,Grafton,State Senate,2,,Scatter,False,0
+Plymouth,Grafton,State Senate,2,,Scatter,False,4
+Rumney,Grafton,State Senate,2,,Scatter,False,2
+Sanbornton,Belknap,State Senate,2,,Scatter,False,3
+Tilton,Belknap,State Senate,2,,Scatter,False,8
+Warren,Grafton,State Senate,2,,Scatter,False,0
+Wentworth,Grafton,State Senate,2,,Scatter,False,0
+Wilmot,Merrimack,State Senate,2,,Scatter,False,1
+Brookline,Hillsborough,State Senate,12,D,Gilmour,False,0
+Greenville,Hillsborough,State Senate,12,D,Gilmour,False,0
+Hollis,Hillsborough,State Senate,12,D,Gilmour,False,7
+Mason,Hillsborough,State Senate,12,D,Gilmour,False,0
+Nashua,Hillsborough,State Senate,12,D,Gilmour,False,3
+New Ipswich,Hillsborough,State Senate,12,D,Gilmour,False,0
+Rindge,Cheshire,State Senate,12,D,Gilmour,False,1
+Brookline,Hillsborough,State Senate,12,R,Luther,True,367
+Greenville,Hillsborough,State Senate,12,R,Luther,True,83
+Hollis,Hillsborough,State Senate,12,R,Luther,True,656
+Mason,Hillsborough,State Senate,12,R,Luther,True,118
+Nashua,Hillsborough,State Senate,12,R,Luther,True,1590
+New Ipswich,Hillsborough,State Senate,12,R,Luther,True,309
+Rindge,Cheshire,State Senate,12,R,Luther,True,449
+Brookline,Hillsborough,State Senate,12,,Scatter,False,1
+Greenville,Hillsborough,State Senate,12,,Scatter,False,0
+Hollis,Hillsborough,State Senate,12,,Scatter,False,8
+Mason,Hillsborough,State Senate,12,,Scatter,False,0
+Nashua,Hillsborough,State Senate,12,,Scatter,False,18
+New Ipswich,Hillsborough,State Senate,12,,Scatter,False,3
+Rindge,Cheshire,State Senate,12,,Scatter,False,2
+Nashua,Hillsborough,State Senate,13,R,Krasucki,True,1849
+Nashua,Hillsborough,State Senate,13,D,Lasky,False,5
+Nashua,Hillsborough,State Senate,13,,Scatter,False,7
+Auburn,Rockingham,State Senate,14,R,Carson,True,549
+Hudson,Hillsborough,State Senate,14,R,Carson,True,1233
+Londonderry,Rockingham,State Senate,14,R,Carson,True,1732
+Auburn,Rockingham,State Senate,14,D,Messner,False,0
+Hudson,Hillsborough,State Senate,14,D,Messner,False,0
+Londonderry,Rockingham,State Senate,14,D,Messner,False,0
+Auburn,Rockingham,State Senate,14,,Scatter,False,7
+Hudson,Hillsborough,State Senate,14,,Scatter,False,8
+Londonderry,Rockingham,State Senate,14,,Scatter,False,24
+Concord,Merrimack,State Senate,15,R,Harman,True,1947
+Henniker,Merrimack,State Senate,15,R,Harman,True,304
+Hopkinton,Merrimack,State Senate,15,R,Harman,True,392
+Warner,Merrimack,State Senate,15,R,Harman,True,216
+Concord,Merrimack,State Senate,15,D,Larsen,False,14
+Henniker,Merrimack,State Senate,15,D,Larsen,False,1
+Hopkinton,Merrimack,State Senate,15,D,Larsen,False,0
+Warner,Merrimack,State Senate,15,D,Larsen,False,0
+Concord,Merrimack,State Senate,15,,Scatter,False,23
+Henniker,Merrimack,State Senate,15,,Scatter,False,1
+Hopkinton,Merrimack,State Senate,15,,Scatter,False,3
+Warner,Merrimack,State Senate,15,,Scatter,False,2
+Bow,Merrimack,State Senate,16,R,Boutin,True,797
+Candia,Rockingham,State Senate,16,R,Boutin,True,475
+Dunbarton,Merrimack,State Senate,16,R,Boutin,True,311
+Hooksett,Merrimack,State Senate,16,R,Boutin,True,1266
+Manchester,Hillsborough,State Senate,16,R,Boutin,True,2155
+Bow,Merrimack,State Senate,16,D,Kelley,False,2
+Candia,Rockingham,State Senate,16,D,Kelley,False,0
+Dunbarton,Merrimack,State Senate,16,D,Kelley,False,1
+Hooksett,Merrimack,State Senate,16,D,Kelley,False,4
+Manchester,Hillsborough,State Senate,16,D,Kelley,False,5
+Bow,Merrimack,State Senate,16,,Scatter,False,10
+Candia,Rockingham,State Senate,16,,Scatter,False,0
+Dunbarton,Merrimack,State Senate,16,,Scatter,False,4
+Hooksett,Merrimack,State Senate,16,,Scatter,False,12
+Manchester,Hillsborough,State Senate,16,,Scatter,False,30
+Allenstown,Merrimack,State Senate,17,D,Fraher,False,0
+Chichester,Merrimack,State Senate,17,D,Fraher,False,1
+Deerfield,Rockingham,State Senate,17,D,Fraher,False,0
+Epsom,Merrimack,State Senate,17,D,Fraher,False,1
+Loudon,Merrimack,State Senate,17,D,Fraher,False,0
+Northwood,Rockingham,State Senate,17,D,Fraher,False,0
+Nottingham,Rockingham,State Senate,17,D,Fraher,False,0
+Pembroke,Merrimack,State Senate,17,D,Fraher,False,0
+Pittsfield,Merrimack,State Senate,17,D,Fraher,False,0
+Raymond,Rockingham,State Senate,17,D,Fraher,False,0
+Strafford,Strafford,State Senate,17,D,Fraher,False,0
+Allenstown,Merrimack,State Senate,17,R,Pearl,False,129
+Chichester,Merrimack,State Senate,17,R,Pearl,False,196
+Deerfield,Rockingham,State Senate,17,R,Pearl,False,263
+Epsom,Merrimack,State Senate,17,R,Pearl,False,287
+Loudon,Merrimack,State Senate,17,R,Pearl,False,469
+Northwood,Rockingham,State Senate,17,R,Pearl,False,174
+Nottingham,Rockingham,State Senate,17,R,Pearl,False,126
+Pembroke,Merrimack,State Senate,17,R,Pearl,False,206
+Pittsfield,Merrimack,State Senate,17,R,Pearl,False,223
+Raymond,Rockingham,State Senate,17,R,Pearl,False,327
+Strafford,Strafford,State Senate,17,R,Pearl,False,159
+Allenstown,Merrimack,State Senate,17,R,Reagan,True,152
+Chichester,Merrimack,State Senate,17,R,Reagan,True,147
+Deerfield,Rockingham,State Senate,17,R,Reagan,True,246
+Epsom,Merrimack,State Senate,17,R,Reagan,True,243
+Loudon,Merrimack,State Senate,17,R,Reagan,True,181
+Northwood,Rockingham,State Senate,17,R,Reagan,True,220
+Nottingham,Rockingham,State Senate,17,R,Reagan,True,315
+Pembroke,Merrimack,State Senate,17,R,Reagan,True,353
+Pittsfield,Merrimack,State Senate,17,R,Reagan,True,157
+Raymond,Rockingham,State Senate,17,R,Reagan,True,462
+Strafford,Strafford,State Senate,17,R,Reagan,True,213
+Allenstown,Merrimack,State Senate,17,,Scatter,False,0
+Chichester,Merrimack,State Senate,17,,Scatter,False,0
+Deerfield,Rockingham,State Senate,17,,Scatter,False,0
+Epsom,Merrimack,State Senate,17,,Scatter,False,1
+Loudon,Merrimack,State Senate,17,,Scatter,False,0
+Northwood,Rockingham,State Senate,17,,Scatter,False,0
+Nottingham,Rockingham,State Senate,17,,Scatter,False,1
+Pembroke,Merrimack,State Senate,17,,Scatter,False,0
+Pittsfield,Merrimack,State Senate,17,,Scatter,False,0
+Raymond,Rockingham,State Senate,17,,Scatter,False,0
+Strafford,Strafford,State Senate,17,,Scatter,False,1
+Litchfield,Hillsborough,State Senate,18,R,Barry,True,519
+Manchester,Hillsborough,State Senate,18,R,Barry,True,2392
+Litchfield,Hillsborough,State Senate,18,IND,Beaudry,False,1
+Manchester,Hillsborough,State Senate,18,IND,Beaudry,False,40
+Litchfield,Hillsborough,State Senate,18,,Scatter,False,4
+Manchester,Hillsborough,State Senate,18,,Scatter,False,59
+Litchfield,Hillsborough,State Senate,18,D,Soucy,False,1
+Manchester,Hillsborough,State Senate,18,D,Soucy,False,5
+Derry,Rockingham,State Senate,19,R,Rausch,True,1655
+Hampstead,Rockingham,State Senate,19,R,Rausch,True,728
+Windham,Rockingham,State Senate,19,R,Rausch,True,948
+Derry,Rockingham,State Senate,19,D,Reisdorf,False,0
+Hampstead,Rockingham,State Senate,19,D,Reisdorf,False,0
+Windham,Rockingham,State Senate,19,D,Reisdorf,False,0
+Derry,Rockingham,State Senate,19,,Scatter,False,0
+Hampstead,Rockingham,State Senate,19,,Scatter,False,0
+Windham,Rockingham,State Senate,19,,Scatter,False,6
+Goffstown,Hillsborough,State Senate,20,D,D'Allesandro,False,9
+Manchester,Hillsborough,State Senate,20,D,D'Allesandro,False,11
+Goffstown,Hillsborough,State Senate,20,R,Greazzo,True,1406
+Manchester,Hillsborough,State Senate,20,R,Greazzo,True,1592
+Goffstown,Hillsborough,State Senate,20,,Scatter,False,15
+Manchester,Hillsborough,State Senate,20,,Scatter,False,19
+Durham,Strafford,State Senate,21,D,Clark,False,1
+Lee,Strafford,State Senate,21,D,Clark,False,1
+Madbury,Strafford,State Senate,21,D,Clark,False,3
+Newfields,Rockingham,State Senate,21,D,Clark,False,0
+Newington,Rockingham,State Senate,21,D,Clark,False,0
+Newmarket,Rockingham,State Senate,21,D,Clark,False,0
+Portsmouth,Rockingham,State Senate,21,D,Clark,False,2
+Durham,Strafford,State Senate,21,R,Macdonald,True,220
+Lee,Strafford,State Senate,21,R,Macdonald,True,165
+Madbury,Strafford,State Senate,21,R,Macdonald,True,81
+Newfields,Rockingham,State Senate,21,R,Macdonald,True,180
+Newington,Rockingham,State Senate,21,R,Macdonald,True,81
+Newmarket,Rockingham,State Senate,21,R,Macdonald,True,499
+Portsmouth,Rockingham,State Senate,21,R,Macdonald,True,764
+Durham,Strafford,State Senate,21,,Scatter,False,9
+Lee,Strafford,State Senate,21,,Scatter,False,14
+Madbury,Strafford,State Senate,21,,Scatter,False,6
+Newfields,Rockingham,State Senate,21,,Scatter,False,0
+Newington,Rockingham,State Senate,21,,Scatter,False,1
+Newmarket,Rockingham,State Senate,21,,Scatter,False,11
+Portsmouth,Rockingham,State Senate,21,,Scatter,False,12
+Atkinson,Rockingham,State Senate,22,D,Czaia,False,0
+Pelham,Hillsborough,State Senate,22,D,Czaia,False,1
+Plaistow,Rockingham,State Senate,22,D,Czaia,False,4
+Salem,Rockingham,State Senate,22,D,Czaia,False,0
+Atkinson,Rockingham,State Senate,22,R,Morse,True,712
+Pelham,Hillsborough,State Senate,22,R,Morse,True,586
+Plaistow,Rockingham,State Senate,22,R,Morse,True,492
+Salem,Rockingham,State Senate,22,R,Morse,True,1936
+Atkinson,Rockingham,State Senate,22,,Scatter,False,2
+Pelham,Hillsborough,State Senate,22,,Scatter,False,0
+Plaistow,Rockingham,State Senate,22,,Scatter,False,4
+Salem,Rockingham,State Senate,22,,Scatter,False,10
+Brentwood,Rockingham,State Senate,23,R,Acton,False,91
+Chester,Rockingham,State Senate,23,R,Acton,False,109
+Danville,Rockingham,State Senate,23,R,Acton,False,93
+East Kingston,Rockingham,State Senate,23,R,Acton,False,56
+Epping,Rockingham,State Senate,23,R,Acton,False,102
+Exeter,Rockingham,State Senate,23,R,Acton,False,188
+Fremont,Rockingham,State Senate,23,R,Acton,False,183
+Kingston,Rockingham,State Senate,23,R,Acton,False,86
+Sandown,Rockingham,State Senate,23,R,Acton,False,110
+Brentwood,Rockingham,State Senate,23,D,Croteau,False,0
+Chester,Rockingham,State Senate,23,D,Croteau,False,0
+Danville,Rockingham,State Senate,23,D,Croteau,False,0
+East Kingston,Rockingham,State Senate,23,D,Croteau,False,0
+Epping,Rockingham,State Senate,23,D,Croteau,False,0
+Exeter,Rockingham,State Senate,23,D,Croteau,False,0
+Fremont,Rockingham,State Senate,23,D,Croteau,False,0
+Kingston,Rockingham,State Senate,23,D,Croteau,False,0
+Sandown,Rockingham,State Senate,23,D,Croteau,False,0
+Brentwood,Rockingham,State Senate,23,R,Prescott,True,270
+Chester,Rockingham,State Senate,23,R,Prescott,True,347
+Danville,Rockingham,State Senate,23,R,Prescott,True,256
+East Kingston,Rockingham,State Senate,23,R,Prescott,True,247
+Epping,Rockingham,State Senate,23,R,Prescott,True,335
+Exeter,Rockingham,State Senate,23,R,Prescott,True,867
+Fremont,Rockingham,State Senate,23,R,Prescott,True,239
+Kingston,Rockingham,State Senate,23,R,Prescott,True,467
+Sandown,Rockingham,State Senate,23,R,Prescott,True,383
+Brentwood,Rockingham,State Senate,23,,Scatter,False,0
+Chester,Rockingham,State Senate,23,,Scatter,False,2
+Danville,Rockingham,State Senate,23,,Scatter,False,1
+East Kingston,Rockingham,State Senate,23,,Scatter,False,0
+Epping,Rockingham,State Senate,23,,Scatter,False,1
+Exeter,Rockingham,State Senate,23,,Scatter,False,5
+Fremont,Rockingham,State Senate,23,,Scatter,False,3
+Kingston,Rockingham,State Senate,23,,Scatter,False,0
+Sandown,Rockingham,State Senate,23,,Scatter,False,3
+Greenland,Rockingham,State Senate,24,D,Hollingworth,False,0
+Hampton,Rockingham,State Senate,24,D,Hollingworth,False,2
+Hampton Falls,Rockingham,State Senate,24,D,Hollingworth,False,0
+Kensington,Rockingham,State Senate,24,D,Hollingworth,False,2
+New Castle,Rockingham,State Senate,24,D,Hollingworth,False,0
+Newton,Rockingham,State Senate,24,D,Hollingworth,False,0
+North Hampton,Rockingham,State Senate,24,D,Hollingworth,False,0
+Rye,Rockingham,State Senate,24,D,Hollingworth,False,0
+Seabrook,Rockingham,State Senate,24,D,Hollingworth,False,0
+South Hampton,Rockingham,State Senate,24,D,Hollingworth,False,0
+Stratham,Rockingham,State Senate,24,D,Hollingworth,False,1
+Greenland,Rockingham,State Senate,24,,Scatter,False,1
+Hampton,Rockingham,State Senate,24,,Scatter,False,2
+Hampton Falls,Rockingham,State Senate,24,,Scatter,False,0
+Kensington,Rockingham,State Senate,24,,Scatter,False,3
+New Castle,Rockingham,State Senate,24,,Scatter,False,1
+Newton,Rockingham,State Senate,24,,Scatter,False,2
+North Hampton,Rockingham,State Senate,24,,Scatter,False,0
+Rye,Rockingham,State Senate,24,,Scatter,False,3
+Seabrook,Rockingham,State Senate,24,,Scatter,False,0
+South Hampton,Rockingham,State Senate,24,,Scatter,False,0
+Stratham,Rockingham,State Senate,24,,Scatter,False,4
+Greenland,Rockingham,State Senate,24,R,Stiles,True,291
+Hampton,Rockingham,State Senate,24,R,Stiles,True,1099
+Hampton Falls,Rockingham,State Senate,24,R,Stiles,True,289
+Kensington,Rockingham,State Senate,24,R,Stiles,True,166
+New Castle,Rockingham,State Senate,24,R,Stiles,True,171
+Newton,Rockingham,State Senate,24,R,Stiles,True,194
+North Hampton,Rockingham,State Senate,24,R,Stiles,True,432
+Rye,Rockingham,State Senate,24,R,Stiles,True,606
+Seabrook,Rockingham,State Senate,24,R,Stiles,True,357
+South Hampton,Rockingham,State Senate,24,R,Stiles,True,65
+Stratham,Rockingham,State Senate,24,R,Stiles,True,830
+Albany,Carroll,State Senate,3,D,Ballard,False,0
+Bartlett,Carroll,State Senate,3,D,Ballard,False,0
+Brookfield,Carroll,State Senate,3,D,Ballard,False,1
+Chatham,Carroll,State Senate,3,D,Ballard,False,0
+Conway,Carroll,State Senate,3,D,Ballard,False,0
+Eaton,Carroll,State Senate,3,D,Ballard,False,0
+Effingham,Carroll,State Senate,3,D,Ballard,False,0
+Freedom,Carroll,State Senate,3,D,Ballard,False,0
+Hale's Location,Carroll,State Senate,3,D,Ballard,False,0
+Hart's Location,Carroll,State Senate,3,D,Ballard,False,0
+Jackson,Carroll,State Senate,3,D,Ballard,False,0
+Madison,Carroll,State Senate,3,D,Ballard,False,0
+Middleton,Strafford,State Senate,3,D,Ballard,False,0
+Milton,Strafford,State Senate,3,D,Ballard,False,3
+Moultonborough,Carroll,State Senate,3,D,Ballard,False,0
+Ossipee,Carroll,State Senate,3,D,Ballard,False,1
+Sandwich,Carroll,State Senate,3,D,Ballard,False,0
+Tamworth,Carroll,State Senate,3,D,Ballard,False,0
+Tuftonboro,Carroll,State Senate,3,D,Ballard,False,0
+Wakefield,Carroll,State Senate,3,D,Ballard,False,6
+Waterville Valley,Grafton,State Senate,3,D,Ballard,False,0
+Wolfeboro,Carroll,State Senate,3,D,Ballard,False,0
+Albany,Carroll,State Senate,3,R,Bradley,True,66
+Bartlett,Carroll,State Senate,3,R,Bradley,True,298
+Brookfield,Carroll,State Senate,3,R,Bradley,True,103
+Chatham,Carroll,State Senate,3,R,Bradley,True,39
+Conway,Carroll,State Senate,3,R,Bradley,True,688
+Eaton,Carroll,State Senate,3,R,Bradley,True,70
+Effingham,Carroll,State Senate,3,R,Bradley,True,155
+Freedom,Carroll,State Senate,3,R,Bradley,True,240
+Hale's Location,Carroll,State Senate,3,R,Bradley,True,81
+Hart's Location,Carroll,State Senate,3,R,Bradley,True,3
+Jackson,Carroll,State Senate,3,R,Bradley,True,122
+Madison,Carroll,State Senate,3,R,Bradley,True,260
+Middleton,Strafford,State Senate,3,R,Bradley,True,143
+Milton,Strafford,State Senate,3,R,Bradley,True,287
+Moultonborough,Carroll,State Senate,3,R,Bradley,True,714
+Ossipee,Carroll,State Senate,3,R,Bradley,True,475
+Sandwich,Carroll,State Senate,3,R,Bradley,True,184
+Tamworth,Carroll,State Senate,3,R,Bradley,True,254
+Tuftonboro,Carroll,State Senate,3,R,Bradley,True,396
+Wakefield,Carroll,State Senate,3,R,Bradley,True,478
+Waterville Valley,Grafton,State Senate,3,R,Bradley,True,38
+Wolfeboro,Carroll,State Senate,3,R,Bradley,True,930
+Albany,Carroll,State Senate,3,,Scatter,False,0
+Bartlett,Carroll,State Senate,3,,Scatter,False,2
+Brookfield,Carroll,State Senate,3,,Scatter,False,0
+Chatham,Carroll,State Senate,3,,Scatter,False,0
+Conway,Carroll,State Senate,3,,Scatter,False,2
+Eaton,Carroll,State Senate,3,,Scatter,False,0
+Effingham,Carroll,State Senate,3,,Scatter,False,0
+Freedom,Carroll,State Senate,3,,Scatter,False,2
+Hale's Location,Carroll,State Senate,3,,Scatter,False,0
+Hart's Location,Carroll,State Senate,3,,Scatter,False,0
+Jackson,Carroll,State Senate,3,,Scatter,False,0
+Madison,Carroll,State Senate,3,,Scatter,False,3
+Middleton,Strafford,State Senate,3,,Scatter,False,1
+Milton,Strafford,State Senate,3,,Scatter,False,3
+Moultonborough,Carroll,State Senate,3,,Scatter,False,6
+Ossipee,Carroll,State Senate,3,,Scatter,False,2
+Sandwich,Carroll,State Senate,3,,Scatter,False,1
+Tamworth,Carroll,State Senate,3,,Scatter,False,1
+Tuftonboro,Carroll,State Senate,3,,Scatter,False,3
+Wakefield,Carroll,State Senate,3,,Scatter,False,4
+Waterville Valley,Grafton,State Senate,3,,Scatter,False,0
+Wolfeboro,Carroll,State Senate,3,,Scatter,False,0
+Barrington,Strafford,State Senate,4,,Scatter,False,12
+Dover,Strafford,State Senate,4,,Scatter,False,8
+Rollinsford,Strafford,State Senate,4,,Scatter,False,0
+Somersworth,Strafford,State Senate,4,,Scatter,False,8
+Barrington,Strafford,State Senate,4,D,Watters,False,0
+Dover,Strafford,State Senate,4,D,Watters,False,8
+Rollinsford,Strafford,State Senate,4,D,Watters,False,3
+Somersworth,Strafford,State Senate,4,D,Watters,False,0
+Barrington,Strafford,State Senate,4,R,Woods,True,595
+Dover,Strafford,State Senate,4,R,Woods,True,1374
+Rollinsford,Strafford,State Senate,4,R,Woods,True,162
+Somersworth,Strafford,State Senate,4,R,Woods,True,420
+Canaan,Grafton,State Senate,5,D,Harris,False,0
+Charlestown,Sullivan,State Senate,5,D,Harris,False,0
+Claremont,Sullivan,State Senate,5,D,Harris,False,3
+Cornish,Sullivan,State Senate,5,D,Harris,False,0
+Enfield,Grafton,State Senate,5,D,Harris,False,0
+Hanover,Grafton,State Senate,5,D,Harris,False,0
+Lebanon,Grafton,State Senate,5,D,Harris,False,1
+Lyme,Grafton,State Senate,5,D,Harris,False,0
+Plainfield,Sullivan,State Senate,5,D,Harris,False,0
+Canaan,Grafton,State Senate,5,R,Howard,False,65
+Charlestown,Sullivan,State Senate,5,R,Howard,False,43
+Claremont,Sullivan,State Senate,5,R,Howard,False,151
+Cornish,Sullivan,State Senate,5,R,Howard,False,8
+Enfield,Grafton,State Senate,5,R,Howard,False,63
+Hanover,Grafton,State Senate,5,R,Howard,False,74
+Lebanon,Grafton,State Senate,5,R,Howard,False,159
+Lyme,Grafton,State Senate,5,R,Howard,False,27
+Plainfield,Sullivan,State Senate,5,R,Howard,False,28
+Canaan,Grafton,State Senate,5,R,Osgood,True,116
+Charlestown,Sullivan,State Senate,5,R,Osgood,True,168
+Claremont,Sullivan,State Senate,5,R,Osgood,True,583
+Cornish,Sullivan,State Senate,5,R,Osgood,True,127
+Enfield,Grafton,State Senate,5,R,Osgood,True,120
+Hanover,Grafton,State Senate,5,R,Osgood,True,128
+Lebanon,Grafton,State Senate,5,R,Osgood,True,340
+Lyme,Grafton,State Senate,5,R,Osgood,True,29
+Plainfield,Sullivan,State Senate,5,R,Osgood,True,81
+Canaan,Grafton,State Senate,5,D,Pierce,False,11
+Charlestown,Sullivan,State Senate,5,D,Pierce,False,1
+Claremont,Sullivan,State Senate,5,D,Pierce,False,2
+Cornish,Sullivan,State Senate,5,D,Pierce,False,0
+Enfield,Grafton,State Senate,5,D,Pierce,False,0
+Hanover,Grafton,State Senate,5,D,Pierce,False,1
+Lebanon,Grafton,State Senate,5,D,Pierce,False,0
+Lyme,Grafton,State Senate,5,D,Pierce,False,0
+Plainfield,Sullivan,State Senate,5,D,Pierce,False,2
+Canaan,Grafton,State Senate,5,,Scatter,False,1
+Charlestown,Sullivan,State Senate,5,,Scatter,False,2
+Claremont,Sullivan,State Senate,5,,Scatter,False,5
+Cornish,Sullivan,State Senate,5,,Scatter,False,0
+Enfield,Grafton,State Senate,5,,Scatter,False,0
+Hanover,Grafton,State Senate,5,,Scatter,False,0
+Lebanon,Grafton,State Senate,5,,Scatter,False,4
+Lyme,Grafton,State Senate,5,,Scatter,False,0
+Plainfield,Sullivan,State Senate,5,,Scatter,False,0
+Alton,Belknap,State Senate,6,R,Cataldo,True,390
+Barnstead,Belknap,State Senate,6,R,Cataldo,True,274
+Farmington,Strafford,State Senate,6,R,Cataldo,True,251
+Gilmanton,Belknap,State Senate,6,R,Cataldo,True,204
+New Durham,Strafford,State Senate,6,R,Cataldo,True,159
+Rochester,Strafford,State Senate,6,R,Cataldo,True,1080
+Alton,Belknap,State Senate,6,R,Green,False,454
+Barnstead,Belknap,State Senate,6,R,Green,False,172
+Farmington,Strafford,State Senate,6,R,Green,False,140
+Gilmanton,Belknap,State Senate,6,R,Green,False,195
+New Durham,Strafford,State Senate,6,R,Green,False,120
+Rochester,Strafford,State Senate,6,R,Green,False,1072
+Alton,Belknap,State Senate,6,D,Leonard,False,1
+Barnstead,Belknap,State Senate,6,D,Leonard,False,0
+Farmington,Strafford,State Senate,6,D,Leonard,False,0
+Gilmanton,Belknap,State Senate,6,D,Leonard,False,0
+New Durham,Strafford,State Senate,6,D,Leonard,False,0
+Rochester,Strafford,State Senate,6,D,Leonard,False,0
+Alton,Belknap,State Senate,6,,Scatter,False,1
+Barnstead,Belknap,State Senate,6,,Scatter,False,1
+Farmington,Strafford,State Senate,6,,Scatter,False,0
+Gilmanton,Belknap,State Senate,6,,Scatter,False,3
+New Durham,Strafford,State Senate,6,,Scatter,False,1
+Rochester,Strafford,State Senate,6,,Scatter,False,14
+Andover,Merrimack,State Senate,7,R,Grimm,False,112
+Belmont,Belknap,State Senate,7,R,Grimm,False,226
+Boscawen,Merrimack,State Senate,7,R,Grimm,False,159
+Canterbury,Merrimack,State Senate,7,R,Grimm,False,131
+Franklin,Merrimack,State Senate,7,R,Grimm,False,386
+Gilford,Belknap,State Senate,7,R,Grimm,False,455
+Laconia,Belknap,State Senate,7,R,Grimm,False,564
+Northfield,Merrimack,State Senate,7,R,Grimm,False,199
+Salisbury,Merrimack,State Senate,7,R,Grimm,False,80
+Webster,Merrimack,State Senate,7,R,Grimm,False,110
+Andover,Merrimack,State Senate,7,D,Hosmer,False,0
+Belmont,Belknap,State Senate,7,D,Hosmer,False,0
+Boscawen,Merrimack,State Senate,7,D,Hosmer,False,0
+Canterbury,Merrimack,State Senate,7,D,Hosmer,False,0
+Franklin,Merrimack,State Senate,7,D,Hosmer,False,5
+Gilford,Belknap,State Senate,7,D,Hosmer,False,6
+Laconia,Belknap,State Senate,7,D,Hosmer,False,17
+Northfield,Merrimack,State Senate,7,D,Hosmer,False,1
+Salisbury,Merrimack,State Senate,7,D,Hosmer,False,0
+Webster,Merrimack,State Senate,7,D,Hosmer,False,1
+Andover,Merrimack,State Senate,7,,Scatter,False,1
+Belmont,Belknap,State Senate,7,,Scatter,False,0
+Boscawen,Merrimack,State Senate,7,,Scatter,False,0
+Canterbury,Merrimack,State Senate,7,,Scatter,False,1
+Franklin,Merrimack,State Senate,7,,Scatter,False,8
+Gilford,Belknap,State Senate,7,,Scatter,False,1
+Laconia,Belknap,State Senate,7,,Scatter,False,1
+Northfield,Merrimack,State Senate,7,,Scatter,False,1
+Salisbury,Merrimack,State Senate,7,,Scatter,False,0
+Webster,Merrimack,State Senate,7,,Scatter,False,0
+Andover,Merrimack,State Senate,7,R,Youssef,True,117
+Belmont,Belknap,State Senate,7,R,Youssef,True,351
+Boscawen,Merrimack,State Senate,7,R,Youssef,True,132
+Canterbury,Merrimack,State Senate,7,R,Youssef,True,97
+Franklin,Merrimack,State Senate,7,R,Youssef,True,216
+Gilford,Belknap,State Senate,7,R,Youssef,True,608
+Laconia,Belknap,State Senate,7,R,Youssef,True,947
+Northfield,Merrimack,State Senate,7,R,Youssef,True,157
+Salisbury,Merrimack,State Senate,7,R,Youssef,True,50
+Webster,Merrimack,State Senate,7,R,Youssef,True,77
+Acworth,Sullivan,State Senate,8,R,Odell,True,61
+Antrim,Hillsborough,State Senate,8,R,Odell,True,179
+Bennington,Hillsborough,State Senate,8,R,Odell,True,110
+Bradford,Merrimack,State Senate,8,R,Odell,True,196
+Croydon,Sullivan,State Senate,8,R,Odell,True,76
+Deering,Hillsborough,State Senate,8,R,Odell,True,168
+Francestown,Hillsborough,State Senate,8,R,Odell,True,165
+Goshen,Sullivan,State Senate,8,R,Odell,True,76
+Grantham,Sullivan,State Senate,8,R,Odell,True,222
+Hillsborough,Hillsborough,State Senate,8,R,Odell,True,346
+Langdon,Sullivan,State Senate,8,R,Odell,True,56
+Lempster,Sullivan,State Senate,8,R,Odell,True,92
+Marlow,Cheshire,State Senate,8,R,Odell,True,77
+New London,Merrimack,State Senate,8,R,Odell,True,536
+Newbury,Merrimack,State Senate,8,R,Odell,True,240
+Newport,Sullivan,State Senate,8,R,Odell,True,393
+Springfield,Sullivan,State Senate,8,R,Odell,True,126
+Stoddard,Cheshire,State Senate,8,R,Odell,True,125
+Sunapee,Sullivan,State Senate,8,R,Odell,True,414
+Sutton,Merrimack,State Senate,8,R,Odell,True,189
+Unity,Sullivan,State Senate,8,R,Odell,True,103
+Washington,Sullivan,State Senate,8,R,Odell,True,102
+Weare,Hillsborough,State Senate,8,R,Odell,True,591
+Windsor,Hillsborough,State Senate,8,R,Odell,True,22
+Acworth,Sullivan,State Senate,8,,Scatter,False,1
+Antrim,Hillsborough,State Senate,8,,Scatter,False,0
+Bennington,Hillsborough,State Senate,8,,Scatter,False,2
+Bradford,Merrimack,State Senate,8,,Scatter,False,0
+Croydon,Sullivan,State Senate,8,,Scatter,False,2
+Deering,Hillsborough,State Senate,8,,Scatter,False,0
+Francestown,Hillsborough,State Senate,8,,Scatter,False,0
+Goshen,Sullivan,State Senate,8,,Scatter,False,0
+Grantham,Sullivan,State Senate,8,,Scatter,False,1
+Hillsborough,Hillsborough,State Senate,8,,Scatter,False,2
+Langdon,Sullivan,State Senate,8,,Scatter,False,1
+Lempster,Sullivan,State Senate,8,,Scatter,False,0
+Marlow,Cheshire,State Senate,8,,Scatter,False,0
+New London,Merrimack,State Senate,8,,Scatter,False,2
+Newbury,Merrimack,State Senate,8,,Scatter,False,2
+Newport,Sullivan,State Senate,8,,Scatter,False,4
+Springfield,Sullivan,State Senate,8,,Scatter,False,0
+Stoddard,Cheshire,State Senate,8,,Scatter,False,0
+Sunapee,Sullivan,State Senate,8,,Scatter,False,2
+Sutton,Merrimack,State Senate,8,,Scatter,False,1
+Unity,Sullivan,State Senate,8,,Scatter,False,1
+Washington,Sullivan,State Senate,8,,Scatter,False,0
+Weare,Hillsborough,State Senate,8,,Scatter,False,0
+Windsor,Hillsborough,State Senate,8,,Scatter,False,0
+Acworth,Sullivan,State Senate,8,D,Wallenstein,False,0
+Antrim,Hillsborough,State Senate,8,D,Wallenstein,False,0
+Bennington,Hillsborough,State Senate,8,D,Wallenstein,False,0
+Bradford,Merrimack,State Senate,8,D,Wallenstein,False,0
+Croydon,Sullivan,State Senate,8,D,Wallenstein,False,0
+Deering,Hillsborough,State Senate,8,D,Wallenstein,False,0
+Francestown,Hillsborough,State Senate,8,D,Wallenstein,False,0
+Goshen,Sullivan,State Senate,8,D,Wallenstein,False,0
+Grantham,Sullivan,State Senate,8,D,Wallenstein,False,0
+Hillsborough,Hillsborough,State Senate,8,D,Wallenstein,False,0
+Langdon,Sullivan,State Senate,8,D,Wallenstein,False,0
+Lempster,Sullivan,State Senate,8,D,Wallenstein,False,0
+Marlow,Cheshire,State Senate,8,D,Wallenstein,False,1
+New London,Merrimack,State Senate,8,D,Wallenstein,False,1
+Newbury,Merrimack,State Senate,8,D,Wallenstein,False,0
+Newport,Sullivan,State Senate,8,D,Wallenstein,False,0
+Springfield,Sullivan,State Senate,8,D,Wallenstein,False,0
+Stoddard,Cheshire,State Senate,8,D,Wallenstein,False,0
+Sunapee,Sullivan,State Senate,8,D,Wallenstein,False,0
+Sutton,Merrimack,State Senate,8,D,Wallenstein,False,0
+Unity,Sullivan,State Senate,8,D,Wallenstein,False,0
+Washington,Sullivan,State Senate,8,D,Wallenstein,False,0
+Weare,Hillsborough,State Senate,8,D,Wallenstein,False,0
+Windsor,Hillsborough,State Senate,8,D,Wallenstein,False,0
+Bedford,Hillsborough,State Senate,9,R,Hawkins,False,1197
+Dublin,Cheshire,State Senate,9,R,Hawkins,False,31
+Fitzwilliam,Cheshire,State Senate,9,R,Hawkins,False,43
+Greenfield,Hillsborough,State Senate,9,R,Hawkins,False,19
+Hancock,Hillsborough,State Senate,9,R,Hawkins,False,26
+Jaffrey,Cheshire,State Senate,9,R,Hawkins,False,54
+Lyndeborough,Hillsborough,State Senate,9,R,Hawkins,False,27
+Mont Vernon,Hillsborough,State Senate,9,R,Hawkins,False,67
+New Boston,Hillsborough,State Senate,9,R,Hawkins,False,101
+Peterborough,Hillsborough,State Senate,9,R,Hawkins,False,80
+Richmond,Cheshire,State Senate,9,R,Hawkins,False,36
+Sharon,Hillsborough,State Senate,9,R,Hawkins,False,2
+Temple,Hillsborough,State Senate,9,R,Hawkins,False,25
+Troy,Cheshire,State Senate,9,R,Hawkins,False,30
+Bedford,Hillsborough,State Senate,9,R,Kenney,False,241
+Dublin,Cheshire,State Senate,9,R,Kenney,False,19
+Fitzwilliam,Cheshire,State Senate,9,R,Kenney,False,29
+Greenfield,Hillsborough,State Senate,9,R,Kenney,False,12
+Hancock,Hillsborough,State Senate,9,R,Kenney,False,15
+Jaffrey,Cheshire,State Senate,9,R,Kenney,False,51
+Lyndeborough,Hillsborough,State Senate,9,R,Kenney,False,35
+Mont Vernon,Hillsborough,State Senate,9,R,Kenney,False,54
+New Boston,Hillsborough,State Senate,9,R,Kenney,False,66
+Peterborough,Hillsborough,State Senate,9,R,Kenney,False,40
+Richmond,Cheshire,State Senate,9,R,Kenney,False,7
+Sharon,Hillsborough,State Senate,9,R,Kenney,False,10
+Temple,Hillsborough,State Senate,9,R,Kenney,False,37
+Troy,Cheshire,State Senate,9,R,Kenney,False,18
+Bedford,Hillsborough,State Senate,9,D,Nyquist,False,1
+Dublin,Cheshire,State Senate,9,D,Nyquist,False,0
+Fitzwilliam,Cheshire,State Senate,9,D,Nyquist,False,0
+Greenfield,Hillsborough,State Senate,9,D,Nyquist,False,0
+Hancock,Hillsborough,State Senate,9,D,Nyquist,False,0
+Jaffrey,Cheshire,State Senate,9,D,Nyquist,False,0
+Lyndeborough,Hillsborough,State Senate,9,D,Nyquist,False,0
+Mont Vernon,Hillsborough,State Senate,9,D,Nyquist,False,0
+New Boston,Hillsborough,State Senate,9,D,Nyquist,False,20
+Peterborough,Hillsborough,State Senate,9,D,Nyquist,False,0
+Richmond,Cheshire,State Senate,9,D,Nyquist,False,0
+Sharon,Hillsborough,State Senate,9,D,Nyquist,False,0
+Temple,Hillsborough,State Senate,9,D,Nyquist,False,0
+Troy,Cheshire,State Senate,9,D,Nyquist,False,0
+Bedford,Hillsborough,State Senate,9,R,Sanborn,True,1497
+Dublin,Cheshire,State Senate,9,R,Sanborn,True,105
+Fitzwilliam,Cheshire,State Senate,9,R,Sanborn,True,144
+Greenfield,Hillsborough,State Senate,9,R,Sanborn,True,122
+Hancock,Hillsborough,State Senate,9,R,Sanborn,True,173
+Jaffrey,Cheshire,State Senate,9,R,Sanborn,True,316
+Lyndeborough,Hillsborough,State Senate,9,R,Sanborn,True,110
+Mont Vernon,Hillsborough,State Senate,9,R,Sanborn,True,197
+New Boston,Hillsborough,State Senate,9,R,Sanborn,True,436
+Peterborough,Hillsborough,State Senate,9,R,Sanborn,True,331
+Richmond,Cheshire,State Senate,9,R,Sanborn,True,91
+Sharon,Hillsborough,State Senate,9,R,Sanborn,True,31
+Temple,Hillsborough,State Senate,9,R,Sanborn,True,61
+Troy,Cheshire,State Senate,9,R,Sanborn,True,118
+Bedford,Hillsborough,State Senate,9,,Scatter,False,0
+Dublin,Cheshire,State Senate,9,,Scatter,False,0
+Fitzwilliam,Cheshire,State Senate,9,,Scatter,False,1
+Greenfield,Hillsborough,State Senate,9,,Scatter,False,1
+Hancock,Hillsborough,State Senate,9,,Scatter,False,0
+Jaffrey,Cheshire,State Senate,9,,Scatter,False,0
+Lyndeborough,Hillsborough,State Senate,9,,Scatter,False,0
+Mont Vernon,Hillsborough,State Senate,9,,Scatter,False,0
+New Boston,Hillsborough,State Senate,9,,Scatter,False,0
+Peterborough,Hillsborough,State Senate,9,,Scatter,False,5
+Richmond,Cheshire,State Senate,9,,Scatter,False,0
+Sharon,Hillsborough,State Senate,9,,Scatter,False,1
+Temple,Hillsborough,State Senate,9,,Scatter,False,0
+Troy,Cheshire,State Senate,9,,Scatter,False,0
+Alstead,Cheshire,State Senate,10,R,Foote,True,104
+Chesterfield,Cheshire,State Senate,10,R,Foote,True,242
+Gilsum,Cheshire,State Senate,10,R,Foote,True,65
+Harrisville,Cheshire,State Senate,10,R,Foote,True,63
+Hinsdale,Cheshire,State Senate,10,R,Foote,True,110
+Keene,Cheshire,State Senate,10,R,Foote,True,943
+Marlborough,Cheshire,State Senate,10,R,Foote,True,129
+Nelson,Cheshire,State Senate,10,R,Foote,True,56
+Roxbury,Cheshire,State Senate,10,R,Foote,True,16
+Sullivan,Cheshire,State Senate,10,R,Foote,True,42
+Surry,Cheshire,State Senate,10,R,Foote,True,64
+Swanzey,Cheshire,State Senate,10,R,Foote,True,388
+Walpole,Cheshire,State Senate,10,R,Foote,True,268
+Westmoreland,Cheshire,State Senate,10,R,Foote,True,173
+Winchester,Cheshire,State Senate,10,R,Foote,True,129
+Alstead,Cheshire,State Senate,10,D,Kelly,False,1
+Chesterfield,Cheshire,State Senate,10,D,Kelly,False,1
+Gilsum,Cheshire,State Senate,10,D,Kelly,False,0
+Harrisville,Cheshire,State Senate,10,D,Kelly,False,0
+Hinsdale,Cheshire,State Senate,10,D,Kelly,False,0
+Keene,Cheshire,State Senate,10,D,Kelly,False,13
+Marlborough,Cheshire,State Senate,10,D,Kelly,False,0
+Nelson,Cheshire,State Senate,10,D,Kelly,False,0
+Roxbury,Cheshire,State Senate,10,D,Kelly,False,0
+Sullivan,Cheshire,State Senate,10,D,Kelly,False,1
+Surry,Cheshire,State Senate,10,D,Kelly,False,0
+Swanzey,Cheshire,State Senate,10,D,Kelly,False,1
+Walpole,Cheshire,State Senate,10,D,Kelly,False,0
+Westmoreland,Cheshire,State Senate,10,D,Kelly,False,1
+Winchester,Cheshire,State Senate,10,D,Kelly,False,1
+Alstead,Cheshire,State Senate,10,,Scatter,False,0
+Chesterfield,Cheshire,State Senate,10,,Scatter,False,0
+Gilsum,Cheshire,State Senate,10,,Scatter,False,0
+Harrisville,Cheshire,State Senate,10,,Scatter,False,0
+Hinsdale,Cheshire,State Senate,10,,Scatter,False,0
+Keene,Cheshire,State Senate,10,,Scatter,False,3
+Marlborough,Cheshire,State Senate,10,,Scatter,False,3
+Nelson,Cheshire,State Senate,10,,Scatter,False,1
+Roxbury,Cheshire,State Senate,10,,Scatter,False,1
+Sullivan,Cheshire,State Senate,10,,Scatter,False,1
+Surry,Cheshire,State Senate,10,,Scatter,False,0
+Swanzey,Cheshire,State Senate,10,,Scatter,False,3
+Walpole,Cheshire,State Senate,10,,Scatter,False,1
+Westmoreland,Cheshire,State Senate,10,,Scatter,False,0
+Winchester,Cheshire,State Senate,10,,Scatter,False,2
+Amherst,Hillsborough,State Senate,11,R,Bradgon,True,942
+Merrimack,Hillsborough,State Senate,11,R,Bradgon,True,900
+Milford,Hillsborough,State Senate,11,R,Bradgon,True,843
+Wilton,Hillsborough,State Senate,11,R,Bradgon,True,280
+Amherst,Hillsborough,State Senate,11,R,Dwyer,False,235
+Merrimack,Hillsborough,State Senate,11,R,Dwyer,False,1272
+Milford,Hillsborough,State Senate,11,R,Dwyer,False,283
+Wilton,Hillsborough,State Senate,11,R,Dwyer,False,64
+Amherst,Hillsborough,State Senate,11,,Scatter,False,1
+Merrimack,Hillsborough,State Senate,11,,Scatter,False,4
+Milford,Hillsborough,State Senate,11,,Scatter,False,5
+Wilton,Hillsborough,State Senate,11,,Scatter,False,2
